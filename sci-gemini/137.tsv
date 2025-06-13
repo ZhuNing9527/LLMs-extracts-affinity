@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+NuiA	NucA	Anabaena	Ki=3.2 pM	plasmid cleavage assay	2O3B
+NuiA E24A	NucA	Anabaena	Ki=33 nM	plasmid cleavage assay	
+NuiA E24D	NucA	Anabaena	Ki=8.8 pM	plasmid cleavage assay	
+NuiA E24Q	NucA	Anabaena	Ki=29 nM	plasmid cleavage assay	
+NuiA T135	NucA	Anabaena	Ki=1.9 nM	plasmid cleavage assay	
+NuiA Q74A	NucA	Anabaena	Ki=750 pM	plasmid cleavage assay	
+NuiA D75E	NucA	Anabaena	Ki=31 nM	plasmid cleavage assay	
+NuiA D75N	NucA	Anabaena	Ki=68 nM	plasmid cleavage assay	
+NuiA W76A	NucA	Anabaena	Ki=3.1 nM	plasmid cleavage assay	
+NuiA Q74A/W76A	NucA	Anabaena	Ki=53 nM	plasmid cleavage assay	
+```

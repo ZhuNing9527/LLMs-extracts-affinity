@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+-	Arc1p	Saccharomyces cerevisiae	Kd=193 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=39 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=53 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=27 nM	isothermal titration calorimetry	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=9 nM	surface plasmon resonance	-
+-	Arc1-¦¤N1	Saccharomyces cerevisiae	Kd=345 nM	surface plasmon resonance	-
+-	Arc1-¦¤N1	Saccharomyces cerevisiae	Kd=124 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=315 nM	surface plasmon resonance	-
+-	Arc1p¨CGluRS	Saccharomyces cerevisiae	Kd=315 nM	surface plasmon resonance	-
+-	Arc1p¨CGluRS-N	Saccharomyces cerevisiae	Kd=127 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=43 nM	surface plasmon resonance	-
+-	Arc1p	Saccharomyces cerevisiae	Kd=323 nM	surface plasmon resonance	-
+```

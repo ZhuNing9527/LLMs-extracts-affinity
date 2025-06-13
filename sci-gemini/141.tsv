@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Deinococcus radiodurans Trx1	Deinococcus radiodurans TrxR	Deinococcus radiodurans	Km=5.7 uM	insulin reduction assay	2Q7V
+Escherichia coli Trx1	Deinococcus radiodurans TrxR	Deinococcus radiodurans	Km=44.4 uM	insulin reduction assay	2Q7V
+```

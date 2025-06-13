@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+5G9	Tissue factor	Homo sapiens	Kd=nanomolar	Not specified	Not applicable
+```

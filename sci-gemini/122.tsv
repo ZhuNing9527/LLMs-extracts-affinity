@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+IIAGlc	Glycerol kinase	Escherichia coli	Kd=11 ?M	enzyme activity assay	
+IIAGlc	Glycerol kinase	Escherichia coli	Kii=15 ?M	enzyme activity assay	
+IIAGlc	Glycerol kinase	Escherichia coli	Kii=13 ?M	enzyme activity assay	
+IIAGlc	Glycerol kinase	Escherichia coli	Kii=0.32 ?M	enzyme activity assay	
+IIAGlc	Glycerol kinase	Escherichia coli	Kii=0.2 ?M	enzyme activity assay	
+IIAGlc	Glycerol kinase	Escherichia coli	Kii=0.22 ?M	enzyme activity assay	
+IIAGlc	E478C Glycerol kinase	Escherichia coli	Kapp=0.7 ?M	enzyme activity assay	
+IIAGlc	E478C Glycerol kinase	Escherichia coli	Kapp=0.4 ?M	enzyme activity assay	
+IIAGlc	E478D Glycerol kinase	Escherichia coli	Kapp=17 ?M	enzyme activity assay	
+IIAGlc	E478D Glycerol kinase	Escherichia coli	Kapp=30 ?M	enzyme activity assay	
+IIAGlc	E478H Glycerol kinase	Escherichia coli	Kapp=5 ?M	enzyme activity assay	
+IIAGlc	E478H Glycerol kinase	Escherichia coli	Kapp=3 ?M	enzyme activity assay	
+IIAGlc	E478Q Glycerol kinase	Escherichia coli	Kapp=3 ?M	enzyme activity assay	
+IIAGlc	E478Q Glycerol kinase	Escherichia coli	Kapp=4 ?M	enzyme activity assay	
+
+```

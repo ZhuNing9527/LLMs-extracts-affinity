@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+4C1 epitope	Der f 1	Dermatophagoides farinae	Kd=17 nM	isothermal titration calorimetry	3RVV
+4C1 epitope	Der p 1	Dermatophagoides pteronyssinus	Kd=19 nM	isothermal titration calorimetry	3RVW
+pro-rDer p 1 R156A	Der p 1	Dermatophagoides pteronyssinus	Kd value not found	ELISA	Not applicable
+pro-rDer p 1 Y185V	Der p 1	Dermatophagoides pteronyssinus	Kd value not found	ELISA	Not applicable
+pro-rDer p 1 D198A	Der p 1	Dermatophagoides pteronyssinus	Kd value not found	ELISA	Not applicable
+rDer f 1 R157A	Der f 1	Dermatophagoides farinae	Kd value not found	ELISA	Not applicable
+rDer f 1 D199A	Der f 1	Dermatophagoides farinae	Kd value not found	ELISA	Not applicable
+
+```

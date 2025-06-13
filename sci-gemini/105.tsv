@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+mV¦Â8.2	SEC3-WT	Staphylococcus aureus	Kd=1.2e-05 M	isothermal titration calorimetry	2AQ3
+mV¦Â8.2	SEC3-1D8	Staphylococcus aureus	Kd=3.6e-06 M	isothermal titration calorimetry	3BYT
+mV¦Â8.2	SEC3-1D3	Staphylococcus aureus	Kd=5.7e-07 M	isothermal titration calorimetry	3BYY
+mV¦Â8.2	SEC3-1A4	Staphylococcus aureus	Kd=9.6e-08 M	isothermal titration calorimetry	3BZD
+```

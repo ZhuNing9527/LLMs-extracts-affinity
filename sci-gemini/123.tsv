@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+CksHs1	CDK2	Homo sapiens	Kd=7.7e-8 M	surface plasmon resonance	
+CksHs1 Glu-63¡úGln	CDK2	Homo sapiens	Kd<7.7e-8 M	surface plasmon resonance	
+CksHs1 Tyr-57¡úSer, Met-58¡úAla, His-60¡úAsp, and Glu-63¡úLys	CDK2	Homo sapiens	Kd<<7.7e-8 M	surface plasmon resonance	
+CksHs1 Tyr-12¡úLys, Asp-14¡úLys, and Glu-15¡úLys	CDK2	Homo sapiens	Kd<<7.7e-8 M	surface plasmon resonance	
+```

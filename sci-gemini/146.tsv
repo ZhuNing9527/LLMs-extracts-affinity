@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Twinfilin-1 C-terminal ADF-H domain	Actin	Mus musculus	Kd=high affinity	NBD-actin fluorescence change	3DAW
+Twinfilin-1 C-terminal ADF-H domain	Actin	Mus musculus	Kd=high affinity	nucleotide exchange assay	3DAW
+```

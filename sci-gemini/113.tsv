@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+AL-57	LFA-1 I domain	Homo sapiens	KD=1.9 nM	surface plasmon resonance	
+AL-57	LFA-1 I domain (L161C F299C)	Homo sapiens	KD=4,700 nM	surface plasmon resonance	
+AL-57	LFA-1 I domain (K287C K294C)	Homo sapiens	KD=23 nM	surface plasmon resonance	
+MHM24	LFA-1 I domain	Homo sapiens	KD=7.8 nM	surface plasmon resonance	
+MHM24	LFA-1 I domain (L161C F299C)	Homo sapiens	KD=3,200 nM	surface plasmon resonance	
+MHM24	LFA-1 I domain (K287C K294C)	Homo sapiens	KD=16 nM	surface plasmon resonance	
+ICAM-1	LFA-1 I domain	Homo sapiens	KD=1,500,000 nM	surface plasmon resonance	
+ICAM-1	LFA-1 I domain (L161C F299C)	Homo sapiens	KD=3,200 nM	surface plasmon resonance	
+ICAM-1	LFA-1 I domain (K287C K294C)	Homo sapiens	KD=16 nM	surface plasmon resonance	
+
+```

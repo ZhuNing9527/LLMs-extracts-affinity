@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Leu-8-CMTI I	bovine ??-trypsin	Bos taurus	Kd=4.5 x 10^-10 M	not specified	
+Leu-8-CMTI I	human cathepsin G	Homo sapiens	Kd=2.0 x 10^-9 M	not specified	
+```

@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Colicin E9(32-47)	TolB	Escherichia coli	Kd?бы?90 nM	Crosslinking studies	2IVZ
+Pal	TolB	Escherichia coli	Kd=27 nM	isothermal titration calorimetry	2HQS
+```

@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+C3d	CR3 ¦ÁI domain	Homo sapiens	Kd=450 nM	isothermal titration calorimetry	4M76
+iC3b	CR3 ¦ÁI domain	Homo sapiens	Kd=600 nM	isothermal titration calorimetry	N/A
+C3d R1254A	CR3 ¦ÁI domain	Homo sapiens	Kd=2.2 ¦ÌM	isothermal titration calorimetry	N/A
+C3b	CR3 ¦ÁI domain	Homo sapiens	Kd ~10^-4 to 10^-3 M	surface plasmon resonance	N/A
+iC3b	CR3 ¦ÁI domain	Homo sapiens	Kd ~10^-7 to 10^-6 M	surface plasmon resonance	N/A
+C3c	CR3 ¦ÁI domain	Homo sapiens	Kd ~10^-4 to 10^-3 M	surface plasmon resonance	N/A
+C3d	CR3 ¦ÁI domain	Homo sapiens	Kd ~10^-7 to 10^-6 M	surface plasmon resonance	N/A
+C3dg	CR3 ¦ÁI domain	Homo sapiens	Kd ~10^-7 to 10^-6 M	surface plasmon resonance	N/A
+
+```

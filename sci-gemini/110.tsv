@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Neurexin-1b	Neuroligin-1	Rattus norvegicus	Kd=97 nM	isothermal titration calorimetry	N/A
+```

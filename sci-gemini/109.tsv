@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+PRS-010#001	CTLA-4	Homo sapiens	Kd=80 nM	surface plasmon resonance	3BX7
+PRS-010#002	CTLA-4	Homo sapiens	Kd=23.8 nM	surface plasmon resonance	3BX7
+PRS-010#003	CTLA-4	Homo sapiens	Kd=9.0 nM	surface plasmon resonance	3BX7
+PRS-010#004	CTLA-4	Homo sapiens	Kd=2.7 nM	surface plasmon resonance	3BX7
+PRS-010#005	CTLA-4	Homo sapiens	Kd=240 pM	surface plasmon resonance	3BX7
+PRS-010#003	CTLA-4	Homo sapiens	Kd=74.0 nM	flow cytofluorimetry		
+PRS-010#004	CTLA-4	Homo sapiens	Kd=14.5 nM	flow cytofluorimetry		
+PRS-010#004a	CTLA-4	Mus musculus	_	_	_
+PRS-010#003	CTLA-4	Mus musculus	_	_	_
+
+```

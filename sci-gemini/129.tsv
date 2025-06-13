@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+hirustasin	tissue kallikrein	Sus scrofa	Ki=13 nM	enzyme activity assay	
+hirustasin	trypsin	Bos taurus	Ki=7 nM	enzyme activity assay	
+hirustasin	chymotrypsin	Bos taurus	Ki=6.4 nM	enzyme activity assay	
+hirustasin	cathepsin G	Homo sapiens	Ki=2.9 nM	enzyme activity assay	
+hirustasin	plasmin	Homo sapiens	Ki=138 nM	enzyme activity assay	
+hirustasin	urokinase	Homo sapiens	Ki=41 nM	enzyme activity assay	
+```

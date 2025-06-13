@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+RalA	C3bot	Clostridium botulinum	Kd=60¡À20 nM	isothermal titration calorimetry		
+RalA	C3bot	Clostridium botulinum	Kd=35¡À15 nM	fluorescence polarization		
+```

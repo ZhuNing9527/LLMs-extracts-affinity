@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+XRCC1-NTD	DNA polymerase ¦Â catalytic domain (Pol ¦Â CD)	Rattus norvegicus	Kd=110 nM	fluorescence polarization	
+I4D XRCC1-NTD	DNA polymerase ¦Â catalytic domain (Pol ¦Â CD)	Homo sapiens	Kd=12 nM	fluorescence polarization	
+XRCC1-NTD	Pol ¦Â CD	Homo sapiens	Kd=300 nM	Not specified	3LQC
+```

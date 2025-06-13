@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Nef	Hck SH3	Homo sapiens	Kd=250 nM	surface plasmon resonance	
+Nef	Hck SH3	Homo sapiens	Kd=188 nM	isothermal titration calorimetry	
+Nef	Hck SH3	Homo sapiens	Kd=91 uM	tryptophan fluorescence	
+Nef-PAI	Hck SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance	
+Nef	Fyn SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance	
+Nef	Fyn-IHH SH3	Homo sapiens	Kd=2.0 uM	surface plasmon resonance	
+Nef	Fyn-IH SH3	Homo sapiens	Kd=3.1 uM	surface plasmon resonance	
+Nef	Fyn-H SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance	
+Nef	Fyn-I SH3	Homo sapiens	Kd=380 nM	surface plasmon resonance	
+Nef	Fyn-A SH3	Homo sapiens	Kd=4.4 uM	surface plasmon resonance	
+Nef	Fyn-D SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance	
+Nef	Fyn-K SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance	
+PVRPQVPLRPMT	Hck SH3	Homo sapiens	Kd=91 uM	tryptophan fluorescence	
+PVRPQVPLRPMT	Fyn SH3	Homo sapiens	Kd=202 uM	tryptophan fluorescence	
+Nef	Hck-RTE SH3	Homo sapiens	Kd>20 uM	surface plasmon resonance
+```

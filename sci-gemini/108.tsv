@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+RRM1-3	Vt	Homo sapiens	Kd=12.6 uM	isothermal titration calorimetry	3H2U
+RRM1	Vt	Homo sapiens	Kd=22.1 uM	isothermal titration calorimetry	3H2V
+UCAUGCAGUCUG	RRM1	Homo sapiens	Kd=10.2 uM	isothermal titration calorimetry	
+```

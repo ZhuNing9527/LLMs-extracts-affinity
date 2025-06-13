@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ubiquitin	UBA domain of EDD	Homo sapiens	Kd=60¡À15 ?M	isothermal titration calorimetry	2QHO
+Ubiquitin	UBA domain of EDD	Homo sapiens	Kd=127 ?M	surface plasmon resonance	2QHO
+K48-linked diubiquitin	UBA domain of EDD	Homo sapiens	Kd~60 ?M	surface plasmon resonance	
+K63-linked diubiquitin	UBA domain of EDD	Homo sapiens	Kd~30 ?M	surface plasmon resonance	
+K48-linked tetraubiquitin	UBA domain of EDD	Homo sapiens	Kd~30 ?M	surface plasmon resonance	
+K63-linked tetraubiquitin	UBA domain of EDD	Homo sapiens	Kd~30 ?M	surface plasmon resonance	
+N-to-C-linked diubiquitin	UBA domain of EDD	Homo sapiens	Kd~30 ?M	surface plasmon resonance	
+
+```

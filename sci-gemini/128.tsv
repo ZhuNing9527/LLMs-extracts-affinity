@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Peptide	CD46-D2	Homo sapiens	KD=284 nM	surface plasmon resonance	3L89
+Peptide	CD46-D2	Homo sapiens	KD=13 nM	surface plasmon resonance	Not mentioned
+Peptide	CD46-D2	Homo sapiens	KD=19 nM	surface plasmon resonance	Not mentioned
+```

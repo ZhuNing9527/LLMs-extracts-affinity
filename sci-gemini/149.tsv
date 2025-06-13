@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+PMP-C	a-chymotrypsin	Locusta migratoria	Ki=0.2 nM	progress curves method	
+PMP-C	human leukocyte elastase	Locusta migratoria	Ki=0.12 mM	progress curves method	
+PMP-D2	a-chymotrypsin	Locusta migratoria	Ki=1.5 mM	equilibrium titration	
+PMP-C	a-chymotrypsin	Locusta migratoria	Ki=0.2 nM	progress curves method	
+PMP-C	human leukocyte elastase	Locusta migratoria	Ki=0.12 mM	progress curves method	
+PMP-C (L30V)	a-chymotrypsin	Locusta migratoria	Ki=82 nM	progress curves method	
+PMP-C (L30V)	human leukocyte elastase	Locusta migratoria	Ki=45.7 nM	progress curves method	
+PMP-C (K31M/A32G)	a-chymotrypsin	Locusta migratoria	Ki=0.16 nM	progress curves method	
+PMP-C (K31M/A32G)	human leukocyte elastase	Locusta migratoria	Ki=22.85 nM	progress curves method	
+PMP-D2	a-chymotrypsin	Locusta migratoria	Ki=1.5 mM	equilibrium titration	
+PMP-D2 (R29L)	a-chymotrypsin	Locusta migratoria	Ki=0.78 nM	progress curves method	
+PMP-D2 (R29L)	human leukocyte elastase	Locusta migratoria	Ki=12.7 nM	progress curves method	
+PMP-D2 (R29L/K30M)	a-chymotrypsin	Locusta migratoria	Ki=2.04 nM	progress curves method	
+PMP-D2 (R29L/K30M)	human leukocyte elastase	Locusta migratoria	Ki=3 nM	progress curves method	
+HI	a-chymotrypsin	Locusta migratoria	Ki=340 nM	equilibrium titration	
+HI (R29L)	a-chymotrypsin	Locusta migratoria	Ki=0.067 nM	progress curves method	
+HI (R29L)	human leukocyte elastase	Locusta migratoria	Ki=38.2 nM	progress curves method	
+
+```

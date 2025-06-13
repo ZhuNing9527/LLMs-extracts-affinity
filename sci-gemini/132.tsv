@@ -1,0 +1,23 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 7.0e+07 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 1.6e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 2.7e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 3.1e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 3.9e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 4.0e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 6.5e+08 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Pf ¦Â2 subunit	Pyrococcus furiosus	K = 9.5e+08 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 2.93e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 2.86e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 5.99e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 4.00e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 4.22e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 3.40e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 3.22e+04 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Ec ¦Â2 subunit	Escherichia coli	K = 3.56e+04 M-1	isothermal titration calorimetry	
+Pf ¦Á subunit	Ec ¦Â2 subunit	Pyrococcus furiosus/Escherichia coli	K = 4.70e+03 M-1	isothermal titration calorimetry	
+Ec ¦Á subunit	Pf ¦Â2 subunit	Escherichia coli/Pyrococcus furiosus	K = 6.1e+02 M-1	isothermal titration calorimetry	
+
+```

@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+ICSM 18	PrP	Homo sapiens	Kd=0.1 nM	ELISA	2w9e
+ICSM 4	PrP	Homo sapiens	Kd=10 nM	ELISA	
+ICSM 10	PrP	Homo sapiens	Kd=0.1 nM	ELISA	
+ICSM 17	PrP	Homo sapiens	Kd=0.2 nM	ELISA	
+ICSM 19	PrP	Homo sapiens	Kd=1 nM	ELISA	
+ICSM 33	PrP	Homo sapiens	Kd=10 uM	ELISA	
+ICSM 35	PrP	Homo sapiens	Kd=100 uM	ELISA	
+ICSM 37	PrP	Homo sapiens	Kd=50 uM	ELISA	
+ICSM 42	PrP	Homo sapiens	Kd=10 uM	ELISA	
+ICSM 18	PrP	Homo sapiens	IC50=0.7 nM	Prion propagation inhibition assay	
+ICSM 4	PrP	Homo sapiens	IC50=200 nM	Prion propagation inhibition assay	
+ICSM 17	PrP	Homo sapiens	IC50=20 nM	Prion propagation inhibition assay	
+ICSM 19	PrP	Homo sapiens	IC50=10 nM	Prion propagation inhibition assay	
+```

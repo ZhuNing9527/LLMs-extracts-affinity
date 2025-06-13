@@ -1,0 +1,35 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+BPTI	trypsin	Bos taurus	Ki=5 x 10^-14 M	spectrophotometric assay	2PTC
+BPTI	chymotrypsin	Bos taurus	Ki=1.1 x 10^-8 M	spectrophotometric assay	
+T11A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+T11A	chymotrypsin	Bos taurus	Ki=1.6 x 10^-8 M	spectrophotometric assay	
+G12A	trypsin	Bos taurus	Ki=8.3 x 10^-11 M	spectrophotometric assay	
+G12A	chymotrypsin	Bos taurus	Ki=3.5 x 10^-8 M	spectrophotometric assay	
+P13A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+P13A	chymotrypsin	Bos taurus	Ki=1 x 10^-8 M	spectrophotometric assay	
+K15A	trypsin	Bos taurus	Ki=1.4 x 10^-6 M	spectrophotometric assay	
+K15A	chymotrypsin	Bos taurus	Ki=3.3 x 10^-7 M	spectrophotometric assay	
+R17A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+R17A	chymotrypsin	Bos taurus	Ki=2.8 x 10^-8 M	spectrophotometric assay	
+I18A	trypsin	Bos taurus	Ki=2.4 x 10^-10 M	spectrophotometric assay	
+I18A	chymotrypsin	Bos taurus	Ki=1.2 x 10^-7 M	spectrophotometric assay	
+I19A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+I19A	chymotrypsin	Bos taurus	Ki=1.4 x 10^-8 M	spectrophotometric assay	
+R20A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+R20A	chymotrypsin	Bos taurus	Ki=2 x 10^-8 M	spectrophotometric assay	
+F33A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+F33A	chymotrypsin	Bos taurus	Ki=1.4 x 10^-8 M	spectrophotometric assay	
+V34A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+V34A	chymotrypsin	Bos taurus	Ki=1.2 x 10^-8 M	spectrophotometric assay	
+Y35A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+Y35A	chymotrypsin	Bos taurus	Ki=4.9 x 10^-8 M	spectrophotometric assay	
+G36A	trypsin	Bos taurus	Ki=2.1 x 10^-10 M	spectrophotometric assay	
+G36A	chymotrypsin	Bos taurus	Ki=5.6 x 10^-8 M	spectrophotometric assay	
+G37A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+G37A	chymotrypsin	Bos taurus	Ki=4.4 x 10^-8 M	spectrophotometric assay	
+R39A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+R39A	chymotrypsin	Bos taurus	Ki=1.6 x 10^-8 M	spectrophotometric assay	
+K46A	trypsin	Bos taurus	Ki<5 x 10^-11 M	spectrophotometric assay	
+K46A	chymotrypsin	Bos taurus	Ki=1.4 x 10^-8 M	spectrophotometric assay	
+```

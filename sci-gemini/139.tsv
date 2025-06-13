@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+14NT	Gelsolin	Homo sapiens	Kd=4-5 pM	etheno-ATP exchange	
+41CT	Gelsolin	Homo sapiens	Kd=25 nM	etheno-ATP exchange	
+26NT	Gelsolin	Homo sapiens	Kd~200nM	sedimentation assay	
+26NT	Gelsolin	Homo sapiens		gel filtration	
+```

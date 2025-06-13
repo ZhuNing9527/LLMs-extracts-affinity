@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+5E1	Shh	Homo sapiens	KD=7 nM	biolayer interferometry	3MXW
+5E1	Shh	Homo sapiens	KD=4.8 nM	biolayer interferometry	3MXW
+5E1	Shh	Homo sapiens	KD=1.1 nM	biolayer interferometry	3MXW
+5E1	Shh	Rattus norvegicus	KD=1.5 nM	biolayer interferometry	3MXW
+5E1	Shh	Homo sapiens	KD=0.31 nM	biolayer interferometry	3MXW
+5E1	Ihh	Homo sapiens	KD=0.29 nM	biolayer interferometry	3MXW
+5E1	Dhh	Homo sapiens	KD=1.7 nM	biolayer interferometry	3MXW
+5E1	Shh	Homo sapiens	KD=7 nM	isothermal titration calorimetry	3MXW
+5E1	Shh	Homo sapiens	KD=1.1 nM	isothermal titration calorimetry	3MXW
+5E1	Shh	Homo sapiens	KD=1.8 nM	isothermal titration calorimetry	3MXW
+5E1	Shh	Rattus norvegicus	KD=1.1 nM	isothermal titration calorimetry	3MXW
+5E1	Shh	Homo sapiens	KD=0.7 nM	isothermal titration calorimetry	3MXW
+```

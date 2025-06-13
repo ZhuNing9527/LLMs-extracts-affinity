@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+hen egg white lysozyme	HyHEL-63	Gallus gallus	KA=3.6e8 M-1	surface plasmon resonance	
+hen egg white lysozyme (Y20A)	HyHEL-63	Gallus gallus	KA=1.4e6 M-1	surface plasmon resonance	
+hen egg white lysozyme (R21A)	HyHEL-63	Gallus gallus	KA=5.0e7 M-1	surface plasmon resonance	
+hen egg white lysozyme (W63A)	HyHEL-63	Gallus gallus	KA=3.7e7 M-1	surface plasmon resonance	
+hen egg white lysozyme (K97A)	HyHEL-63	Gallus gallus	KA=9.4e5 M-1	surface plasmon resonance	
+hen egg white lysozyme (D101A)	HyHEL-63	Gallus gallus	KA=3.1e7 M-1	surface plasmon resonance	
+
+```

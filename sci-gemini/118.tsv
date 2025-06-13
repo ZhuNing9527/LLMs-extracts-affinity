@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Efalizumab	LFA-1	Homo sapiens	Kd=unknown	X-ray crystallography	3EO9, 3EOA, 3EOB
+```

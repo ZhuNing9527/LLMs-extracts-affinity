@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+P1 M -> R variant of a1-proteinase inhibitor	anhydrotrypsin	Homo sapiens	Kd~5 nM	fluorescence polarization	
+a1-proteinase inhibitor (Pittsburgh variant)	anhydrotrypsin	Homo sapiens	Kd~20 mM	fluorescence polarization	
+a1-proteinase inhibitor	trypsin		Kd=1.3e-05 M-1s-1	enzyme activity assay	
+P1 M -> R variant of a1-proteinase inhibitor	trypsin	Homo sapiens	Kd=1.5e+07 M-1s-1	fluorescence polarization	
+```

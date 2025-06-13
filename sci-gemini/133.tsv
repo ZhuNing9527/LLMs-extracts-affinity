@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+APRIL	TACI	Homo sapiens	Kd=0.4 nM	surface plasmon resonance	
+BLyS	TACI	Homo sapiens	Kd=0.7 nM	surface plasmon resonance	
+```

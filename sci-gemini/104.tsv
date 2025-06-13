@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+TNYLFSPNGPIARAW	EphB4	Homo sapiens	IC50=15 nM	ELISA	
+NYLFSPNGPIARAW	EphB4	Homo sapiens	IC50=40 nM	ELISA	
+YLFSPNGPIARAW	EphB4	Homo sapiens	IC50=40 nM	ELISA	
+LFSPNGPIARAW	EphB4	Homo sapiens	IC50>10 mM	ELISA	
+TNYLFSPNGPIA	EphB4	Homo sapiens	IC50=150 mM	ELISA	
+TNYLFSPNGPIAGSGSK-biotin	EphB4	Homo sapiens	IC50=50 mM	ELISA	
+TNYLFSPNGPIARAW	EphB4	Homo sapiens	Kd=71 nM	isothermal titration calorimetry	
+NYLFSPNGPIARAW	EphB4	Homo sapiens	Kd=65 nM	isothermal titration calorimetry	
+YLFSPNGPIARAW	EphB4	Homo sapiens	Kd=80 nM	isothermal titration calorimetry	
+LFSPNGPIARAW	EphB4	Homo sapiens	Kd=3500 nM	isothermal titration calorimetry	
+TNYLFSPNGPIA	EphB4	Homo sapiens	Kd=140000 nM	isothermal titration calorimetry	
+ephrin-B2	EphB4	Homo sapiens	IC50=9 nM	ELISA	
+ephrin-B2	EphB4	Homo sapiens	Kd=40 nM	isothermal titration calorimetry	
+```

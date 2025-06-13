@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+HPr	HPr kinase/phosphatase	Bacillus subtilis	KD=45 nM	surface plasmon resonance	
+Crh	HPr kinase/phosphatase	Bacillus subtilis	KD=39 nM	surface plasmon resonance	
+HPr	HPr kinase/phosphatase	Bacillus subtilis	KD=3.1 nM	surface plasmon resonance	
+Crh	HPr kinase/phosphatase	Bacillus subtilis	KD=5.1 nM	surface plasmon resonance	
+```
