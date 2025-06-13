@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+NADPH	Transhydrogenase domain III	Rhodospirillum rubrum	Kd=10 pM (inferred)	fluorescence spectroscopy		
+NADP+	Transhydrogenase domain III	Rhodospirillum rubrum	Kd=1 nM (inferred)	fluorescence spectroscopy		
+NADPH	Transhydrogenase domains I/III complex	Rhodospirillum rubrum	Kd=0.3 ¦ÌM	spectrophotometry		
+AcPdAD+	Transhydrogenase domains I/III complex	Rhodospirillum rubrum	Kd=3.6 ¦ÌM	spectrophotometry		
+```

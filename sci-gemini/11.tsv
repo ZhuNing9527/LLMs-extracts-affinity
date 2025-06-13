@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+ClpS	ClpA	Escherichia coli	Kd=3.3¡Á 10?? M	surface plasmon resonance	1LZW
+```

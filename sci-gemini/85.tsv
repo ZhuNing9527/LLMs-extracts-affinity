@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Nb4	uPA	Homo sapiens	KD = 54 pM	surface plasmon resonance	5HDO
+```

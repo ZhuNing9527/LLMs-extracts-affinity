@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+BLIP-II	TEM-1	Streptomyces exfoliatus	Ki*=0.0272 nM	enzyme activity assay	1JTD
+BLIP	TEM-1	Streptomyces clavuligerus	Ki*=0.11 nM	enzyme activity assay	1JTG
+```

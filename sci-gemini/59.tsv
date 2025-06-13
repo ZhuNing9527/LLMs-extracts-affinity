@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+APRin	APR	Pseudomonas aeruginosa	Kd=4 pM	enzyme activity assay	
+S1G-APRin	APR	Pseudomonas aeruginosa	Kd=2.2 pM	enzyme activity assay	
+(Gly)5 APRin	APR	Pseudomonas aeruginosa	Kd=432 pM	enzyme activity assay	
+(Pro)5 APRin	APR	Pseudomonas aeruginosa	Kd=205 pM	enzyme activity assay	
+D(1每2) APRin	APR	Pseudomonas aeruginosa	Kd=19.4 nM	enzyme activity assay	
+D(1每3) APRin	APR	Pseudomonas aeruginosa	Kd=39 nM	enzyme activity assay	
+D(1每4) APRin	APR	Pseudomonas aeruginosa	Kd=59 nM	enzyme activity assay	
+D(1每5) APRin	APR	Pseudomonas aeruginosa	Kd=0.12 uM	enzyme activity assay	
+```

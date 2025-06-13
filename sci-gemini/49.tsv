@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+TusA	IscS	Azotobacter vinelandii	Kd=0.304 uM	surface plasmon resonance	
+IscU	IscS	Azotobacter vinelandii	Kd=0.574 uM	surface plasmon resonance	
+TusA	IscS	Escherichia coli	Kd=0.966 uM	surface plasmon resonance	
+IscU	IscS	Escherichia coli	Kd=14.6 uM	surface plasmon resonance	
+
+```

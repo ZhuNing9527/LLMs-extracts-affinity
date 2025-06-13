@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Barnase	Barstar	Bacillus amyloliquefaciens	Kd=1e-13 M	barnase-barstar titration	
+Barnase(R59K)	Barstar	Bacillus amyloliquefaciens	Kd=4e-12 M	kinetic competition	
+Barnase(R59A)	Barstar	Bacillus amyloliquefaciens	Kd=1.5e-10 M	barnase-barstar titration	
+Barnase(H102Q)	Barstar	Bacillus amyloliquefaciens	Kd=1.3e-10 M	kinetic competition	
+Barnase(H102D)	Barstar	Bacillus amyloliquefaciens	Kd=1.3e-10 M	kinetic competition	
+Barnase(H102G)	Barstar	Bacillus amyloliquefaciens	Kd=6e-9 M	kinetic competition	
+Barnase(H102A)	Barstar	Bacillus amyloliquefaciens	Kd=7e-9 M	kinetic competition	
+Barnase(H102L)	Barstar	Bacillus amyloliquefaciens	Kd=2.5e-8 M	kinetic competition	
+Barnase(R59K,H102Q)	Barstar	Bacillus amyloliquefaciens	Kd=7e-9 M	kinetic competition	
+Barnase(R59A,H102Q)	Barstar	Bacillus amyloliquefaciens	Kd=4e-7 M	kinetic competition	
+Barnase	Barstar(C40,82A)	Bacillus amyloliquefaciens	Kd=2e-13 M	kinetic competition	
+Barnase(R59K)	Barstar(C40,82A)	Bacillus amyloliquefaciens	Kd=2.5e-11 M	barnase-barstar titration	
+Barnase(R59A)	Barstar(C40,82A)	Bacillus amyloliquefaciens	Kd=1.7e-10 M	barnase-barstar titration	
+Barnase(H102Q)	Barstar(C40,82A)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	kinetic competition	
+Barnase(H102D)	Barstar(C40,82A)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	kinetic competition	
+
+```

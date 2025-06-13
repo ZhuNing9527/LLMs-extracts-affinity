@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+ICAM-1	L I domain	Homo sapiens	KD=0.15 uM	surface plasmon resonance	1MJN
+ICAM-1	L I domain	Homo sapiens	KD=0.36 uM	surface plasmon resonance	1MQ9
+ICAM-1	L I domain	Homo sapiens	KD=3.0 uM	surface plasmon resonance	1MQ8
+ICAM-1	L I domain	Homo sapiens	KD=8.4 uM	surface plasmon resonance
+ICAM-1	L I domain	Homo sapiens	KD=9.4 uM	surface plasmon resonance
+ICAM-1	L I domain	Homo sapiens	KD=450 uM	surface plasmon resonance
+ICAM-1	L I domain	Homo sapiens	KD=1600 uM	surface plasmon resonance
+ICAM-1	L I domain	Homo sapiens	KD=1500 uM	surface plasmon resonance
+
+```

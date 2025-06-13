@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+cAb-AMD7	¦Á-amylase	Sus scrofa	KD=15 nM	enzyme activity assay	
+cAb-AMD9	¦Á-amylase	Sus scrofa	KD=3.5 nM	enzyme activity assay	
+cAb-AMB7	¦Á-amylase	Sus scrofa	KD=232 nM	enzyme activity assay	
+cAb-AMB10	¦Á-amylase	Sus scrofa	KD=24 nM	enzyme activity assay	
+cAb-CA04	carbonic anhydrase	Bos taurus	KD=29 nM	surface plasmon resonance		
+cAb-CA06	carbonic anhydrase	Bos taurus	KD=20 nM	surface plasmon resonance		
+cAb-CA05	carbonic anhydrase	Bos taurus	KD=72 nM	surface plasmon resonance		
+cAb-CA10	carbonic anhydrase	Bos taurus	KD=42 nM	surface plasmon resonance		
+cAb-Lys3	lysozyme	Gallus gallus		enzyme activity assay	1MEL
+```

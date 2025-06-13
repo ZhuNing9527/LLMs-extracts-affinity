@@ -1,0 +1,24 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Yeast iso-1-ferricytochrome c	Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	D34A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	V197A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	E290A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K87A Yeast iso-1-ferricytochrome c	Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K87A Yeast iso-1-ferricytochrome c	D34A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K87A Yeast iso-1-ferricytochrome c	V197A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K87A Yeast iso-1-ferricytochrome c	E290A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K72A Yeast iso-1-ferricytochrome c	Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K72A Yeast iso-1-ferricytochrome c	D34A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K72A Yeast iso-1-ferricytochrome c	V197A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+K72A Yeast iso-1-ferricytochrome c	E290A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+A81G Yeast iso-1-ferricytochrome c	Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+A81G Yeast iso-1-ferricytochrome c	D34A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+A81G Yeast iso-1-ferricytochrome c	V197A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+A81G Yeast iso-1-ferricytochrome c	E290A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	D217A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	L182A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+Yeast iso-1-ferricytochrome c	D148A Yeast iso-1-ferricytochrome c peroxidase	Saccharomyces cereVisiae	Kd= not available	isothermal titration calorimetry	not available
+
+```

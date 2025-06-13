@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+human CD2	human CD58	Homo sapiens	Kd=9 pM	surface plasmon resonance	
+human CD2	human CD58	Homo sapiens	Kd=22 pM	surface plasmon resonance	
+rat CD2	rat CD48	Rattus norvegicus	Kd=60-90 pM	surface plasmon resonance	
+human CD2	human CD58	Homo sapiens	Kd=0.4 pM	equilibrium binding technique	
+rat CD2	rat CD48	Rattus norvegicus	Kd=2.5 pM	sucrose-gradient sedimentation
+```

@@ -1,0 +1,30 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+-	RGS9	Bos taurus	Kd=185 nM	fluorescence polarization	-
+-	RGS9	Bos taurus	Kd=2 uM	fluorescence polarization	-
+-	RGS9	Bos taurus	Kd=190 nM	fluorescence polarization	-
+-	RGS9	Bos taurus	Kd=0.9 uM	fluorescence polarization	-
+-	Gat	Bos taurus	k=0.028 s??	GTPase assay	-
+-	Gat	Bos taurus	k=0.3 s??	GTPase assay	-
+-	Gai1	-	k=0.031 s??	GTPase assay	-
+-	Gai1	-	k=0.058 s??	GTPase assay	-
+-	Chi6	-	k=0.025 s??	GTPase assay	-
+-	Chi6	-	k=0.2 s??	GTPase assay	-
+-	Gi/GtH	-	k=0.032 s??	GTPase assay	-
+-	Gi/GtH	-	k=0.25 s??	GTPase assay	-
+-	Chi6/GiH	-	k=0.035 s??	GTPase assay	-
+-	Chi6/GiH	-	k=0.08 s??	GTPase assay	-
+-	Gat	-	Kd=185 nM	fluorescence polarization	-
+-	Gat	-	Kd=174 nM	fluorescence polarization	-
+-	Gat	-	Kd=0.9 uM	fluorescence polarization	-
+-	Gai1	-	Kd=2 uM	fluorescence polarization	-
+-	Gi/GtH	-	Kd=170 nM	fluorescence polarization	-
+-	Chi6/GiH	-	Kd=1.6 uM	fluorescence polarization	-
+-	Gat	Bos taurus	k=0.04 s??	GTPase assay	-
+-	Gat	Bos taurus	k=0.11 s??	GTPase assay	-
+-	Chi6b	-	Kd=100 nM	fluorescence polarization	-
+-	Chi6b	-	Kd=70 nM	fluorescence polarization	-
+-	Chi6b	-	Kd=190 nM	fluorescence polarization	-
+-	Chi6b	-	Kd=67 nM	fluorescence polarization	-
+
+```

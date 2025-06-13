@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+RanGTP	RanBP1	Homo sapiens	Kd=140 pM	surface plasmon resonance		
+RanGTP	RanBDis	Homo sapiens	Kd=108-109 M-1	surface plasmon resonance		
+```

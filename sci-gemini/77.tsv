@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+StpinA2aur CH-91	StpA2aur CH-91	Staphylococcus aureus	Ki=0.31 nM	fluorescence	
+StpinA2aur CH-91	StpAepi	Staphylococcus epidermidis	Ki=2.6 nM	fluorescence	
+StpinA2aur CH-91	StpAaur	Staphylococcus aureus	Ki=410 nM	fluorescence	
+StpinBwar	StpBwar	Staphylococcus warneri	Ki=qqq nM	gel filtration	co-expression assay
+StpinBwar	StpBaur	Staphylococcus aureus	Ki=0.46 nM	fluorescence	
+StpinAaur	StpA2aur CH-91	Staphylococcus aureus	Ki=27.7 nM	fluorescence	
+StpinAaur	StpAepi	Staphylococcus epidermidis	Ki=0.23 nM	fluorescence	
+StpinAaur	StpAaur	Staphylococcus aureus	Ki=0.17 nM	fluorescence	
+StpinAepi	StpA2aur CH-91	Staphylococcus aureus	Ki=12.5 nM	fluorescence	
+StpinAepi	StpAepi	Staphylococcus epidermidis	Ki=1.0 nM	fluorescence	
+StpinBaur	StpBaur	Staphylococcus aureus	Ki=0.31 nM	fluorescence	
+```

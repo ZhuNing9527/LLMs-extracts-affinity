@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+E2	MT-SP1	Homo sapiens	Ki=8.0¡À1.3 pM	steady-state kinetics	
+S4	MT-SP1	Homo sapiens	Ki=140¡À6 pM	steady-state kinetics	
+E2	MT-SP1	Homo sapiens	Ki=12 pM	macromolecular substrate assay	
+S4	MT-SP1	Homo sapiens	Ki=160 pM	macromolecular substrate assay	
+```

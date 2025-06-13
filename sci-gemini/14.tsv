@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+ovomucoid third domain	a-chymotrypsin	Bos taurus	Ka=5.9 x 10^11 M^-1	enzyme kinetics	
+ovomucoid third domain	elastase I	Bos taurus	Ka=6.9 x 10^10 M^-1	enzyme kinetics	
+ovomucoid third domain	subtilisin Carlsberg	Bacillus licheniformis	Ka=1.3 x 10^6 M^-1	enzyme kinetics	
+ovomucoid third domain	a-chymotrypsin	Bos taurus	Ka=3.2 x 10^11 M^-1	enzyme kinetics	
+ovomucoid third domain	elastase I	Bos taurus	Ka=5.7 x 10^10 M^-1	enzyme kinetics	
+ovomucoid third domain	subtilisin Carlsberg	Bacillus licheniformis	Ka=3.4 x 10^10 M^-1	enzyme kinetics	
+ovomucoid third domain	a-chymotrypsin	Bos taurus	Ka=1.8 x 10^11 M^-1	enzyme kinetics	
+ovomucoid third domain	elastase I	Bos taurus	Ka=1.2 x 10^10 M^-1	enzyme kinetics	
+ovomucoid third domain	subtilisin Carlsberg	Bacillus licheniformis	Ka=6.4 x 10^9 M^-1	enzyme kinetics	
+ovomucoid third domain	a-chymotrypsin	Bos taurus	Ka=1.3 x 10^11 M^-1	enzyme kinetics	
+ovomucoid third domain	elastase I	Bos taurus	Ka=1.3 x 10^9 M^-1	enzyme kinetics	
+ovomucoid third domain	subtilisin Carlsberg	Bacillus licheniformis	Ka=2.7 x 10^9 M^-1	enzyme kinetics	
+
+```

@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+6His-VP55	VP55	Vaccinia virus	Kd=N/A	surface plasmon resonance	N/A
+VP39	VP39	Vaccinia virus	Kd=N/A	surface plasmon resonance	N/A
+6His-VP39	VP39	Vaccinia virus	Kd=N/A	surface plasmon resonance	N/A
+VP39-6His	VP39	Vaccinia virus	Kd=N/A	surface plasmon resonance	N/A
+hLa-6His	La protein	Homo sapiens	Kd=N/A	surface plasmon resonance	N/A
+```

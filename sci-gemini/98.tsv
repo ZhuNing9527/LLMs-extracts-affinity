@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+D1.3	Lysozyme	Gallus gallus	Kd=3.7 nM	fluorescence spectroscopy	
+HuLys0	Lysozyme	Gallus gallus	Kd=260 nM	pseudo-equilibrium relaxation	
+HuLys3	Lysozyme	Gallus gallus	Kd=64 nM	pseudo-equilibrium relaxation	
+HuLys6	Lysozyme	Gallus gallus	Kd=46 nM	pseudo-equilibrium relaxation	
+HuLys7	Lysozyme	Gallus gallus	Kd=77 nM	pseudo-equilibrium relaxation	
+HuLys8	Lysozyme	Gallus gallus	Kd=26 nM	pseudo-equilibrium relaxation	
+HuLys9	Lysozyme	Gallus gallus	Kd=120 nM	pseudo-equilibrium relaxation	
+HuLys10	Lysozyme	Gallus gallus	Kd=18 nM	pseudo-equilibrium relaxation	
+HuLys11	Lysozyme	Gallus gallus	Kd=14 nM	pseudo-equilibrium relaxation	
+```

@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+F10.6.6	Lysozyme	Gallus gallus	Kd=1.02e-10 M	IAsys biosensor	1P2C
+D44.1	Lysozyme	Gallus gallus	Kd=1.44e-7 M	IAsys biosensor	
+```

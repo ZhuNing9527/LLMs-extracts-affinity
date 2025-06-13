@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+BLIP	TEM-1	Escherichia coli	Kd=2.3 nM	enzyme inhibition assay	
+BLIP	TEM-1	Escherichia coli	Kd=0.3 nM	fluorescence polarization	
+BLIP-D49A	TEM-1	Escherichia coli	Kd=29 nM	enzyme inhibition assay	
+BLIP	TEM-1	Escherichia coli	Kd=0.4 nM	surface plasmon resonance	
+BLIP	TEM-1	Escherichia coli	Kd=2.7 nM	fluorescence polarization	
+BLIP	TEM-1	Escherichia coli	Kd=0.7 nM	surface plasmon resonance	
+BLIP	TEM-1	Escherichia coli	Kd=0.3 nM	fluorescence polarization	
+BLIP	TEM-1	Escherichia coli	Kd=0.4 nM	enzyme inhibition assay	
+BLIP	TEM-1	Escherichia coli	Kd=4.5 nM	surface plasmon resonance	
+BLIP	TEM-1	Escherichia coli	Kd=32 nM	surface plasmon resonance	
+```

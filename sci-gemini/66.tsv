@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+bisubstrate analog	AANAT	Ovis aries	Ki=20 nM	X-ray crystallography	Not applicable
+Acetyl-CoA	AANAT(1-207)	Ovis aries	Kd=242 ¦ÌM	isothermal titration calorimetry	Not applicable
+Acetyl-CoA	AANAT(1-207) in complex with 14-3-3z	Ovis aries	Kd=59 ¦ÌM	isothermal titration calorimetry	Not applicable
+Acetyl-CoA	AANAT(1-201)	Ovis aries	Kd=364 ¦ÌM	isothermal titration calorimetry	Not applicable
+Acetyl-CoA	AANAT(1-201) in complex with 14-3-3z	Ovis aries	Kd=71 ¦ÌM	isothermal titration calorimetry	Not applicable
+Serotonin	AANAT(1-207)	Ovis aries	Kd=1299 ¦ÌM	isothermal titration calorimetry	Not applicable
+Serotonin	AANAT(1-207) in complex with 14-3-3z	Ovis aries	Kd=234 ¦ÌM	isothermal titration calorimetry	Not applicable
+Serotonin	AANAT(1-201)	Ovis aries	Kd=1193 ¦ÌM	isothermal titration calorimetry	Not applicable
+Serotonin	AANAT(1-201) in complex with 14-3-3z	Ovis aries	Kd=350 ¦ÌM	isothermal titration calorimetry	Not applicable
+
+```

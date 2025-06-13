@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+stefin A	papain	Sus scrofa	Ki=0.009 nM	continuous rate assay	
+stefin B	papain	Sus scrofa	Ki=0.027 nM	continuous rate assay	
+stefin A	cathepsin L	Homo sapiens	Ki=0.064 nM	continuous rate assay	
+stefin B	cathepsin L	Homo sapiens	Ki=0.161 nM	continuous rate assay	
+stefin A	cathepsin S	Bos taurus	Ki=0.015 nM	continuous rate assay	
+stefin B	cathepsin S	Bos taurus	Ki=0.03 nM	continuous rate assay	
+stefin A	cathepsin H	Bos taurus	Ki=0.027 nM	continuous rate assay	
+stefin B	cathepsin H	Bos taurus	Ki=0.069 nM	continuous rate assay	
+stefin D2	cathepsin B	Homo sapiens	Ki=2 nM	stopped assay	
+stefin D2	cathepsin H	Bos taurus	Ki=102 nM	stopped assay	
+stefin D1	cathepsin H	Bos taurus	Ki=150 nM	not mentioned	
+stefin D1	cathepsin B	Homo sapiens	Ki=1700 nM	not mentioned	
+```

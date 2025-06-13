@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+G-actin	DNAase I	Bos taurus	Kd=5 x 10^8 M^-1	fluorescence titration	
+G-actin	DNAase I	Bos taurus	Kd=3.6 x 10^8 M^-1	fluorescence titration	
+G-actin	FlNCS-DNAase I	Bos taurus	Kd=5 x 10^8 M^-1	stopped-flow kinetics and fluorescence titration	
+F-actin	DNAase I	Bos taurus	Kd=1.2 x 10^4 M^-1	cosedimentation assay	
+```

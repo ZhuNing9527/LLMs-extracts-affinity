@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+XCL1	M3	Mus musculus	Not applicable	x-ray crystallography	Not applicable
+CCL2	M3	Mus musculus	Not applicable	x-ray crystallography	Not applicable
+```

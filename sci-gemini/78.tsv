@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Cholesterol	CYP11A1	Bos taurus	kcat/Km=10.0034 s^-1*M^-1 (at 100 mM KCl)	enzyme activity assay		
+```

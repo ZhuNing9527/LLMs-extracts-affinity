@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+all-trans retinol	Transthyretin	Homo sapiens	Kd=0.2 ¦ÌM	fluorescence anisotropy	
+all-trans retinol	Transthyretin	Gallus gallus	Kd=0.03 ¦ÌM	fluorescence anisotropy	
+apoRBP	Transthyretin	Homo sapiens	Kd=1.2 ¦ÌM	fluorescence anisotropy	
+apoRBP	Transthyretin	Gallus gallus	Kd=0.15 ¦ÌM	fluorescence anisotropy	
+all-trans retinoic acid	Transthyretin	Homo sapiens	Kd=0.8 ¦ÌM	fluorescence anisotropy	
+all-trans retinyl methyl ether	Transthyretin	Homo sapiens	Kd=6 ¦ÌM	fluorescence anisotropy	
+Fenretinide	Transthyretin	Homo sapiens	Not detectable	fluorescence anisotropy	
+```

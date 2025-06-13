@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+VWF A1	GPIba-CaM	Homo sapiens	Kd=3.3 mM	radioligand binding assay	
+VWF A1(R545A)	GPIba-CaM	Homo sapiens	Kd=160 nM	radioligand binding assay	
+VWF A1	GPIba(G233V)-CaM	Homo sapiens	Kd=1.0 mM	radioligand binding assay	
+VWF A1	GPIba(M239V)-CaM	Homo sapiens	Kd=0.63 mM	radioligand binding assay	
+VWF A1	GPIba(G233V/M239V)-CaM	Homo sapiens	Kd=0.6 mM	radioligand binding assay	
+VWF A1(R545A)	GPIba(M239V)-CaM	Homo sapiens	Kd=0.20 mM	radioligand binding assay	
+VWF A1	Platelets	Homo sapiens	Kd=4.7 mM	radioligand binding assay	
+VWF A1(R545A)	Platelets	Homo sapiens	Kd=0.11 mM	radioligand binding assay	
+VWF A1	Botrocetin	Crotalus atrox	Kd=23 nM	radioligand binding assay	
+VWF A1(R545A)	Botrocetin	Crotalus atrox	Kd=30 nM	radioligand binding assay	
+VWF A1	GPIba-CaM	Homo sapiens	Kd=11.7 nM	radioligand binding assay	
+VWF A1(R545A)	GPIba-CaM	Homo sapiens	Kd=5.4 nM	radioligand binding assay	
+
+```

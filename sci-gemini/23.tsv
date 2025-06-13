@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+BDNF	TrkB	Homo sapiens	Kd=790 pM	surface plasmon resonance	
+NT-4	TrkB	Homo sapiens	Kd=260 pM	surface plasmon resonance	
+NT-3	TrkB	Homo sapiens	Kd=18 nM	surface plasmon resonance	
+```

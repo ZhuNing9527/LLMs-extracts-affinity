@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+-	Vav	Mus musculus	Kd=16.8 uM	surface plasmon resonance	-
+-	Vav (P595A)	Mus musculus	Kd=61.4 uM	surface plasmon resonance	-
+-	Vav (A632G)	Mus musculus	Kd=165 uM	surface plasmon resonance	-
+-	Vav (W637Y)	Mus musculus	Kd=630 uM	surface plasmon resonance	-
+-	Vav (P657A)	Mus musculus	Kd=155 uM	surface plasmon resonance	-
+-	Vav (P608A)	Mus musculus	Kd=20.6 uM	surface plasmon resonance	-
+-	Vav (P609A)	Mus musculus	Kd=19.4 uM	surface plasmon resonance	-
+-	Vav (G611V)	Mus musculus	Kd=16.1 uM	surface plasmon resonance	-
+```

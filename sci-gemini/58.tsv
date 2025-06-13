@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Im2	E9 DNase	Escherichia coli	Kd=1.2e-07 M	stopped-flow fluorescence	
+Im8	E9 DNase	Escherichia coli	Kd=2.6e-08 M	stopped-flow fluorescence	
+Im7	E9 DNase	Escherichia coli	Ki=2.4e-06 M	plasmid nicking assay	
+Im9	E9 DNase	Escherichia coli	Kd=2.4e-16 M	stopped-flow fluorescence	
+```

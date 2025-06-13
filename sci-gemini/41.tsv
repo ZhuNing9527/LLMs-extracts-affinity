@@ -1,0 +1,23 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+TIMP-1	MMP-9	Homo sapiens	Kd=35 nM	surface plasmon resonance	
+TIMP-1	MMP-9	Homo sapiens	Kd=7.4 mM	surface plasmon resonance	
+TIMP-1	MMP-9	Homo sapiens	Kd=23.9 nM	surface plasmon resonance	
+TIMP-1	MMP-9	Homo sapiens	Kd=3.1 mM	surface plasmon resonance	
+TIMP-1	MMP-2	Homo sapiens	Kd=28.6 nM	surface plasmon resonance	
+TIMP-1	MMP-2	Homo sapiens	Kd=8.5 mM	surface plasmon resonance	
+TIMP-2	MMP-2	Homo sapiens	Kd=5.2 nM	surface plasmon resonance	
+TIMP-2	MMP-2	Homo sapiens	Kd=0.19 mM	surface plasmon resonance	
+TIMP-2	MMP-2	Homo sapiens	Kd=23.1 nM	surface plasmon resonance	
+TIMP-2	MMP-2	Homo sapiens	Kd=2.7 mM	surface plasmon resonance	
+TIMP-2	MMP-2	Homo sapiens	Kd=315 nM	surface plasmon resonance	
+TIMP-2	MMP-2 CTD	Homo sapiens	Kd=61.6 nM	surface plasmon resonance	
+TIMP-2	MMP-9	Homo sapiens	Kd=57.9 nM	surface plasmon resonance	
+TIMP-2	MMP-9	Homo sapiens	Kd=12.7 mM	surface plasmon resonance	
+TIMP-1	MMP-9	Homo sapiens	Ki=8.5 nM	enzyme inhibition studies	
+TIMP-1	MMP-2	Homo sapiens	Ki=9.7 nM	enzyme inhibition studies	
+TIMP-2	MMP-9	Homo sapiens	Ki=43.4 nM	enzyme inhibition studies	
+TIMP-2	MMP-2	Homo sapiens	Ki=7.2 nM	enzyme inhibition studies	
+TIMP-2	MMP-2	Homo sapiens	Ki=275 nM	enzyme inhibition studies	
+
+```

@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+EIIB	Mlc	Escherichia coli	Kd=(4.14e-09) M	surface plasmon resonance	3BP8
+EIIB(V449Q)	Mlc	Escherichia coli	Kd=N/A	surface plasmon resonance	N/A
+EIIB(Q456A)	Mlc	Escherichia coli	Kd=N/A	surface plasmon resonance	N/A
+EIIB(A451F)	Mlc	Escherichia coli	Kd=(1.17e-08) M	surface plasmon resonance	N/A
+EIIB	Mlc(F136A)	Escherichia coli	Kd=(1.37e-08) M	surface plasmon resonance	N/A
+EIIB(A451F)	Mlc(F136A)	Escherichia coli	Kd=(1.12e-09) M	surface plasmon resonance	N/A
+
+```

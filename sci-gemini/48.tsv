@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+COMPOUND 5	HIF-1a	Homo sapiens	IC50=1250 nM	AlphaScreen	4H6J
+COMPOUND 5	HIF-1a	Homo sapiens	Kd=10 uM	surface plasmon resonance	4H6J
+```

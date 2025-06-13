@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+E10	CXCL13	Homo sapiens	EC50=2.89 nM	Biacore	5CBE
+3B4	CXCL13	Homo sapiens	EC50=14.28 nM	Biacore	5CBA
+E10.1	CXCL13	Homo sapiens	EC50=1.76 nM	Biacore	N/A
+E10.2	CXCL13	Homo sapiens	EC50=18.98 nM	Biacore	N/A
+E10.3	CXCL13	Homo sapiens	EC50=2.51 nM	Biacore	N/A
+E10.4	CXCL13	Homo sapiens	EC50=15.92 nM	Biacore	N/A
+E10.5	CXCL13	Homo sapiens	EC50=1.93 nM	Biacore	N/A
+E10.6	CXCL13	Homo sapiens	EC50=2.35 nM	Biacore	N/A
+E10.7	CXCL13	Homo sapiens	EC50=1.87 nM	Biacore	N/A
+E10.8	CXCL13	Homo sapiens	EC50=1.77 nM	Biacore	N/A
+E10.9	CXCL13	Homo sapiens	EC50=4.59 nM	Biacore	N/A
+E10.10	CXCL13	Homo sapiens	EC50=18.72 nM	Biacore	N/A
+E10.11	CXCL13	Homo sapiens	EC50=1.85 nM	Biacore	N/A
+E10.12	CXCL13	Homo sapiens	EC50=4.55 nM	Biacore	N/A
+E10.13	CXCL13	Homo sapiens	EC50=1.97 nM	Biacore	N/A
+E10.14	CXCL13	Homo sapiens	EC50=1.31 nM	Biacore	N/A
+E10.15	CXCL13	Homo sapiens	EC50=8.27 nM	Biacore	N/A
+E10.16	CXCL13	Homo sapiens	EC50=2.2 nM	Biacore	N/A
+
+```

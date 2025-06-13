@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+MK2a	p38R	Mus musculus	Kd=1-100 nM	surface plasmon resonance		
+MK2a	p38R	Mus musculus	Kd=1-100 nM	isothermal calorimetry		
+MK2a	p38R	Mus musculus	Kd=1-100 nM	stopped-flow fluorescence		
+MK2a	p38R	Mus musculus	Kd=2.5 nM	surface plasmon resonance		
+MK2a	p38R	Mus musculus	Kd=8.4 nM	stopped-flow fluorescence		
+MK2a(370-400)	p38R	Mus musculus	Kd=20 nM	surface plasmon resonance		
+MK2a(370-400)	p38R	Mus musculus	IC50=60 nM	enzyme activity assay		
+MK2a	p38R	Mus musculus	Kd=1.0 nM	stopped-flow fluorescence		
+MK2a	p38R	Mus musculus	Kd<10 nM	isothermal titration calorimetry		
+MK2a	p38R	Mus musculus	Kmapp=43 nM; kcatapp=0.05 s-1	enzyme activity assay		
+MK2a	p38R	Mus musculus	Kd=6.3 nM	surface plasmon resonance		
+MK2a	p38R	Mus musculus	Kd=3.3 nM	stopped-flow fluorescence		
+MK2a	p38R	Mus musculus	Kmapp=108 nM; kcatapp=0.33 s-1	enzyme activity assay		
+MK2a	p38R	Mus musculus	Kmapp>5 uM	enzyme activity assay		
+MK2b	p38R	Homo sapiens	Kmapp>5 uM	enzyme activity assay		
+MK2a	p38R	Homo sapiens	IC50=59.9 nM	enzyme activity assay		
+MK2a	p38R	Homo sapiens	IC50=38.5 nM	enzyme activity assay		
+ATF-2	p38R	Homo sapiens	IC50=23 nM	enzyme activity assay		
+```

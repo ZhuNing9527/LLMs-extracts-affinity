@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Nef?1-57	Hck	Human immunodeficiency virus 1	Kd=1.5 ?M	isothermal titration calorimetry	
+Nef?1-57	Fyn	Human immunodeficiency virus 1	Kd=15.8 ?M	isothermal titration calorimetry	
+Nef?1-57	Lck	Human immunodeficiency virus 1	Kd=10.6 ?M	isothermal titration calorimetry	
+Nef?1-57	Src	Human immunodeficiency virus 1	Kd=14.3 ?M	isothermal titration calorimetry	
+Nef?1-57	Hck	Human immunodeficiency virus 1	Kd=1.5 ?M	isothermal titration calorimetry	
+Nef?1-57	Src	Human immunodeficiency virus 1	Kd=8.3 ?M	isothermal titration calorimetry	
+Neffull length	Hck	Human immunodeficiency virus 1	Kd=0.6 ?M	isothermal titration calorimetry	
+Neffull length	Src	Human immunodeficiency virus 1	Kd=11.4 ?M	isothermal titration calorimetry	
+```

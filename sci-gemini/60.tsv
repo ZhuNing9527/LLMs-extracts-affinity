@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+PA	CMG2	Homo sapiens	Kd=170 pM	surface plasmon resonance	
+PA	CMG2	Homo sapiens	Kd=400 pM	surface plasmon resonance	
+PA	CMG2	Homo sapiens	Kd=780 pM	fluorescence resonance energy transfer	
+PA	CMG2	Homo sapiens	Kd=170 pM	fluorescence resonance energy transfer	
+PA	CMG2	Homo sapiens	Kd=960 nM	fluorescence resonance energy transfer	
+
+```

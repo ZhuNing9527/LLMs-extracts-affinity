@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	Km=(5.1e-08) M	fluorimetry	
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	kc=9.1 s-1	fluorimetry	
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	Km=(3.86e-08) M	fluorimetry	
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	kc=8.08 s-1	fluorimetry	
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	Ki<5e-14 M	fluorimetry	
+Ub-AMC	IPaseT	Oryctolagus cuniculus	kc=0.33 s-1	fluorimetry	
+Ub-AMC	IPaseT	Oryctolagus cuniculus	Km=(1.4e-06) M	fluorimetry	
+Ub-AMC	IPaseT	Oryctolagus cuniculus	kc=0.68 s-1	fluorimetry	
+Ub-AMC	IPaseT	Oryctolagus cuniculus	Km=(1.7e-07) M	fluorimetry	
+```

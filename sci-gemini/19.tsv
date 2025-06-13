@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+CI2	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=2.06e-12 M	enzyme activity assay		
+CI2 (YA42)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=7.92e-11 M	enzyme activity assay		
+CI2 (YG42)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=5.4e-9 M	stopped-flow fluorescence	
+CI2 (RA46)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=3.62e-10 M	enzyme activity assay		
+CI2 (RA48)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=2.78e-10 M	enzyme activity assay		
+CI2 (RA46/RA48)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=1.015e-9 M	enzyme activity assay		
+CI2 (RC48)	Subtilisin BPN9	Bacillus amyloliquefaciens	Ki=4.71e-10 M	enzyme activity assay		
+```

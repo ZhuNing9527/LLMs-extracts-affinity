@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+N-GAT	ARF1	Mus musculus	Kd=1.1 uM	surface plasmon resonance	1J2J
+GGA1-GAT	ARF1	Mus musculus	Kd=1.4 uM	surface plasmon resonance	1J2J
+```

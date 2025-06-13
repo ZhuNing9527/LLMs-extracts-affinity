@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+IFN¦Á2	ifnar2	Homo sapiens	KD=4 nM	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=1.7 ?M	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=28 ?M	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=260 nM	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=8 ?M	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=86 ?M	reflectometric interference spectroscopy	
+IFN¦Á2	ifnar2	Homo sapiens	KD=10 nM	reflectometric interference spectroscopy	
+
+```

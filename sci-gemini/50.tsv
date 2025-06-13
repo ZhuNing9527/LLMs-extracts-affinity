@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SARS-CoV S protein (TOR2)	ACE2	Homo sapiens	Kd=1.62e-8 M	surface plasmon resonance		
+SARS-CoV S protein (K344R)	ACE2	Homo sapiens	Kd=1.60e-8 M	surface plasmon resonance		
+SARS-CoV S protein (F360S)	ACE2	Homo sapiens	Kd=1.41e-8 M	surface plasmon resonance		
+SARS-CoV S protein (N479K)	ACE2	Homo sapiens	Kd=4.84e-7 M	surface plasmon resonance		
+SARS-CoV S protein (T487S)	ACE2	Homo sapiens	Kd=3.52e-7 M	surface plasmon resonance		
+SARS-CoV S protein (SZ3)	ACE2	Homo sapiens	Kd=5.51e-4 M	surface plasmon resonance		
+```

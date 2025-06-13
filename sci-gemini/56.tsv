@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Alanine-glyoxylate aminotransferase	Pex5p	Homo sapiens	Kd=3.5 uM	isothermal titration microcalorimetry		
+Alanine-glyoxylate aminotransferase (Y330W)	Pex5p	Homo sapiens	Kd=7.9 uM	isothermal titration microcalorimetry		
+Alanine-glyoxylate aminotransferase (Y330A)	Pex5p	Homo sapiens	Kd=19.4 uM	isothermal titration microcalorimetry		
+Alanine-glyoxylate aminotransferase (A328W)	Pex5p	Homo sapiens	Kd=6.2 uM	isothermal titration microcalorimetry		
+Alanine-glyoxylate aminotransferase (V336D)	Pex5p	Homo sapiens	Kd=3.5 uM	isothermal titration microcalorimetry		
+Alanine-glyoxylate aminotransferase (G170R)	Pex5p	Homo sapiens	Kd=3.8 uM	isothermal titration microcalorimetry		
+
+```

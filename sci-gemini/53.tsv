@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+NC41 scFv	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=2 ¡Á 10^7 M^-1	ELISA	
+NC41 scFv (N31Q)	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=2 ¡Á 10^7 M^-1	ELISA	
+NC41 scFv (E96D)	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=1 ¡Á 10^7 M^-1	ELISA	
+NC41 scFv (D97K)	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=6 ¡Á 10^6 M^-1	ELISA	
+NC41 scFv (N98Q)	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=8 ¡Á 10^6 M^-1	ELISA	
+NC41	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=4 ¡Á 10^8 M^-1	ELISA	1NCA
+NC41	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=1.2 ¡Á 10^8 M^-1	fluorescence quenching	
+NC41 Fab	Influenza N9 Neuraminidase	Influenza A/tern/Australia/G70c/75	Ka=1.2 ¡Á 10^8 M^-1	fluorescence quenching	
+```

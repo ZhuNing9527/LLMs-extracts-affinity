@@ -1,0 +1,27 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Smac	ML-IAP	Homo sapiens	Kd=1.89 nM	surface plasmon resonance	
+Smac	MLXBIR3SG	Homo sapiens	Kd=1.94 nM	surface plasmon resonance	
+Smac	XIAP-BIR2-BIR3	Homo sapiens	Kd=0.77 nM	surface plasmon resonance	
+AVPIAQKSE	ML-IAP	Homo sapiens	Ki=0.20 uM	fluorescence polarization	
+AVPIAQKSE	MLBIR-Q	Homo sapiens	Ki=0.35 uM	fluorescence polarization	
+AVPIAQKSE	MLXBIR3SG	Homo sapiens	Ki=0.34 uM	fluorescence polarization	
+AVPIAQKSE	XIAP-BIR3	Homo sapiens	Ki=0.67 uM	fluorescence polarization	
+AVPIAQKSE	XIAP-BIR2-BIR3	Homo sapiens	Ki=0.85 uM	fluorescence polarization	
+Smac	ML-IAP	Homo sapiens	Ki=0.026 uM	fluorescence polarization	
+Smac	MLBIR-Q	Homo sapiens	Ki=0.054 uM	fluorescence polarization	
+Smac	MLXBIR3SG	Homo sapiens	Ki=0.059 uM	fluorescence polarization	
+Smac	XIAP-BIR3	Homo sapiens	Ki=0.26 uM	fluorescence polarization	
+Smac	XIAP-BIR2-BIR3	Homo sapiens	Ki=0.021 uM	fluorescence polarization	
+Ac-LEHD-AFC	ML-IAP	Homo sapiens	Ki=3.2 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLBIR-Q	Homo sapiens	Ki=4.5 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLXBIR3	Homo sapiens	Ki=0.96 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLXBIR3SG	Homo sapiens	Ki<<0.010 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLBIR-Q(S150G/Q167H)	Homo sapiens	Ki=2.1 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLBIR-Q(Q167H/E168L)	Homo sapiens	Ki=2.4 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLBIR-Q(S150G/E168L)	Homo sapiens	Ki=0.04 uM	enzyme activity assay	
+Ac-LEHD-AFC	MLBIR-Q(S150G/Q167H/E168L)	Homo sapiens	Ki<<0.010 uM	enzyme activity assay	
+Ac-LEHD-AFC	XIAP-BIR3	Homo sapiens	Ki=0.013 uM	enzyme activity assay	
+Ac-LEHD-AFC	XIAP-BIR2-BIR3	Homo sapiens	Ki=0.030 uM	enzyme activity assay	
+
+```

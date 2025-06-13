@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ile-Val	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=20300 M-1	circular dichroism	
+Ile-Val-Gly-amide	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=20700 M-1	circular dichroism	
+Ile-Val-Gly-O-methyl ester	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=19800 M-1	circular dichroism	
+Ile-Leu	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=1300 M-1	circular dichroism	
+Val-Val	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=710 M-1	circular dichroism	
+Ile-Ala	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=130 M-1	circular dichroism	
+Ile-Gly	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=5 M-1	circular dichroism	
+Val-Leu	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=26 M-1	circular dichroism	
+Val-Ala	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=2.6 M-1	circular dichroism	
+Val-Gly	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=1.7 M-1	circular dichroism	
+Ile	p-guanidinobenzoate-trypsinogen	Bos taurus	Ka=0.7 M-1	circular dichroism	
+PTI	Trypsinogen	Bos taurus	Ka=4.3e+05 M-1	enzyme activity assay	
+PTI	Trypsinogen	Bos taurus	Ka=6.3e+05 M-1	enzyme activity assay	
+Ile-Val	Trypsinogen-PTI complex	Bos taurus	Ka=1.3e+05 M-1	enzyme activity assay	
+Ile-Val	Trypsinogen-PTI complex	Bos taurus	Ka=6.7e+03 M-1	enzyme activity assay	
+Val-Val	Trypsinogen-PTI complex	Bos taurus	Ka=7.1e+03 M-1	enzyme activity assay	
+Leu-Val	Trypsinogen-PTI complex	Bos taurus	Ka=1.3e+03 M-1	enzyme activity assay	
+
+```

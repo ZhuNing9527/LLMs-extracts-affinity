@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+RanGDP	NTF2	Canis lupus familiaris	Kd=240 nM	microtiter plate binding assay	
+Gsp1p	NTF2	Saccharomyces cerevisiae	Kd=75 nM	fluorescence quenching	
+RanGDP	NTF2	Canis lupus familiaris	Kd=150 nM	isothermal titration calorimetry	
+18R-Nsp1	NTF2	Saccharomyces cerevisiae	Kd=1.4 uM	fluorescence	
+18R-Nsp1	NTF2	Saccharomyces cerevisiae	Kd=1.2 uM	fluorescence	
+Gsp1p	NTF2	Saccharomyces cerevisiae	Kd=100 nM	fluorescence quenching	
+
+```

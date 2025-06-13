@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Pancreatic trypsin inhibitor	Trypsin	Bos taurus	Kd=6 X 10-14 M	enzyme activity assay	
+Pancreatic trypsin inhibitor	Pseudotrypsin	Bos taurus	Kd=9.0 X 10-9 M	enzyme activity assay	
+Pancreatic trypsin inhibitor	RCOM* trypsin	Bos taurus	Kd=6.0 X 10-9 M	enzyme activity assay	
+R*PTI	Trypsin	Bos taurus	Kd=1.8 X 10-9 M	enzyme activity assay	
+RCAM*PTI	Trypsin	Bos taurus	Kd=1.7 X 10-10 M	enzyme activity assay	
+RAE*PTI	Trypsin	Bos taurus	Kd=9.1 X 10-9 M	enzyme activity assay	
+```

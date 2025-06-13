@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Streptomyces subtilisin inhibitor	Subtilisin BPN'	Streptomyces albogriseolus	Ki=7.12e-11 M	fluorometric titration	
+```

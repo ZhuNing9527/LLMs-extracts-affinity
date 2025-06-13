@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+H-Ras，GTPgS	PI3Kg	Sus scrofa	not applicable	enzyme activity assay	not applicable
+H-Ras G12V	p110g	Chlorocebus sabaeus	not applicable	enzyme activity assay	not applicable
+H-Ras G12V	p110g/p101	Chlorocebus sabaeus	not applicable	enzyme activity assay	not applicable
+H-Ras G12V	p110g	Chlorocebus sabaeus	not applicable	enzyme activity assay	not applicable
+N-Ras，mant-GMPPNP	PI3Kg	Homo sapiens	Kd=2.8 uM	fluorescence anisotropy	not applicable
+H-Ras	PI3Kg	Homo sapiens	Kd=3.2 uM	fluorescence anisotropy	not applicable
+N-Ras，mant-GMPPNP	PI3Kg	Homo sapiens	not applicable	fluorescence anisotropy	not applicable
+mant-ATP	PI3K	Homo sapiens	not applicable	fluorescence energy transfer	not applicable
+mant-ADP	PI3K	Homo sapiens	not applicable	fluorescence energy transfer	not applicable
+H-Ras，GMPPNP	PI3Kg V223K	Homo sapiens	not applicable	X-ray crystallography	not applicable
+Rap1A	RafRBD	Homo sapiens	Kd=160 nM	not applicable	1gua
+Ras	RalGDS RBD	Homo sapiens	Kd=1 uM	not applicable	1lfd
+N-Ras，GDP	PI3Kg	Homo sapiens	Kd>50 uM	fluorescence anisotropy	not applicable
+H-Ras G12V，mant-GDP	PI3Kg	Homo sapiens	Kd>50 uM	fluorescence anisotropy	not applicable
+H-Ras E37G	PI3Kg	Homo sapiens	similar to wild-type	fluorescence anisotropy	not applicable
+H-Ras D38E	PI3Kg	Homo sapiens	reduced	fluorescence anisotropy	not applicable
+H-Ras T35S	PI3Kg	Homo sapiens	reduced	fluorescence anisotropy	not applicable
+H-Ras Y40C	PI3Kg	Homo sapiens	attenuated	fluorescence anisotropy	not applicable
+```

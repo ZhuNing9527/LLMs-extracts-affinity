@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+RalGDS-RBD	Ras	_	Kd=1.9 uM	stopped-flow	1LFD
+RalGDS-RBDM26K,D47K,E54K	Ras	_	Kd=0.071 uM	stopped-flow	1LFD
+RalGDS-RBD	Ras	_	K1=134 uM	stopped-flow	1LFD
+RalGDS-RBDM26K,D47K,E54K	Ras	_	K1=5.3 uM	stopped-flow	1LFD
+Raf-RBD	Ras	_	K1=9.2 uM	stopped-flow	_
+```

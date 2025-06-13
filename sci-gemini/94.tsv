@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+hen egg-white lysozyme	Fv D1.3	Gallus gallus	Kb > 10^8 M-1 (at 11.3?C)	titration calorimetry	Not mentioned in text
+hen egg-white lysozyme	Fv D1.3	Gallus gallus	Kb > 10^8 M-1 (at 24?C)	titration calorimetry	Not mentioned in text
+hen egg-white lysozyme	Fv D1.3	Gallus gallus	Kb estimated from van't Hoff equation (at 49.8?C)	titration calorimetry	Not mentioned in text
+hen egg-white lysozyme	mAb D1.3	Gallus gallus	Kb > 10^8 M-1 (below 25?C)	titration calorimetry	Not mentioned in text
+```

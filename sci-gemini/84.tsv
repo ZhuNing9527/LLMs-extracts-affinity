@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+eglin c	human leukocyte elastase	Hirudo medicinalis	Ka=1.0 x 10^11 M^-1	enzyme activity assay	
+eglin c	bovine a-chymotrypsin	Hirudo medicinalis	Ka=5.0 x 10^9 M^-1	enzyme activity assay	
+eglin c	subtilisin Carlsberg	Hirudo medicinalis	Ka=6.6 x 10^9 M^-1	enzyme activity assay	
+```

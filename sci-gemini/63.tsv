@@ -1,0 +1,27 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Im2	Colicin E9 DNase	Escherichia coli	Kd=1.5e-08 M	stopped-flow fluorescence	
+Im9	Colicin E9 DNase	Escherichia coli	Kd=1.8e-14 M	stopped-flow fluorescence	
+Im2 D33L	Colicin E9 DNase	Escherichia coli	Kd=4.8e-11 M	stopped-flow fluorescence	
+Im2 N34V	Colicin E9 DNase	Escherichia coli	Kd=3.3e-09 M	stopped-flow fluorescence	
+Im2 R38T	Colicin E9 DNase	Escherichia coli	Kd=2.6e-09 M	stopped-flow fluorescence	
+Im2 E39H	Colicin E9 DNase	Escherichia coli	Kd=1.6e-08 M	stopped-flow fluorescence	
+Im2 R42E	Colicin E9 DNase	Escherichia coli	Kd=8.0e-09 M	stopped-flow fluorescence	
+Im2 N34V/R38T	Colicin E9 DNase	Escherichia coli	Kd=1.9e-10 M	stopped-flow fluorescence	
+Im2 D33L/N34V/R38T	Colicin E9 DNase	Escherichia coli	Kd=3.4e-13 M	stopped-flow fluorescence	
+Im2 N34V/R38T/R42E	Colicin E9 DNase	Escherichia coli	Kd=6.4e-11 M	stopped-flow fluorescence	
+Im2 N34V/R38T/E39H/R42E	Colicin E9 DNase	Escherichia coli	Kd=9.5e-11 M	stopped-flow fluorescence	
+Im2 E30A	Colicin E9 DNase	Escherichia coli	Kd=2.8e-07 M	stopped-flow fluorescence	
+Im2 D33A	Colicin E9 DNase	Escherichia coli	Kd=1.2e-08 M	stopped-flow fluorescence	
+Im2 N34A	Colicin E9 DNase	Escherichia coli	Kd=7.9e-09 M	stopped-flow fluorescence	
+Im2 V37A	Colicin E9 DNase	Escherichia coli	Kd=9.3e-06 M	stopped-flow fluorescence	
+Im2 R38A	Colicin E9 DNase	Escherichia coli	Kd=2.3e-09 M	stopped-flow fluorescence	
+Im2 E41A	Colicin E9 DNase	Escherichia coli	Kd=3.0e-05 M	stopped-flow fluorescence	
+Im2 R42A	Colicin E9 DNase	Escherichia coli	Kd=1.0e-08 M	stopped-flow fluorescence	
+Im2 S50A	Colicin E9 DNase	Escherichia coli	Kd=9.0e-07 M	stopped-flow fluorescence	
+Im2 D51A	Colicin E9 DNase	Escherichia coli	Kd~1e-4 M	biological plate assays	
+Im2 Y54A	Colicin E9 DNase	Escherichia coli	Kd~1e-4 M	biological plate assays	
+Im2 Y55A	Colicin E9 DNase	Escherichia coli	Kd~1e-4 M	biological plate assays	
+Im2 P56A	Colicin E9 DNase	Escherichia coli	Kd=2.1e-06 M	stopped-flow fluorescence	
+
+```

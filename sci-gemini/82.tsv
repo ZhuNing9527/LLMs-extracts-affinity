@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+1F1	Hemagglutinin (HA)	Influenza A virus	Not mentioned	Not mentioned	Not mentioned
+1F1	HA	Influenza A virus (H1N1, 1918)	Not mentioned	Not mentioned	PDB code 1RUZ
+1F1	HA	Influenza A virus (H1N1, 1943)	Not mentioned	Not mentioned	Not mentioned
+1F1	HA	Influenza A virus (H1N1, 1977)	Not mentioned	Not mentioned	Not mentioned
+1I20	HA	Influenza A virus (H1N1, 1918)	Not mentioned	Not mentioned	Not mentioned
+CH65	HA	Influenza A virus (H1N1)	Not mentioned	Not mentioned	Not mentioned
+5J8	HA	Influenza A virus (H1N1)	Not mentioned	Not mentioned	Not mentioned
+C05	HA	Influenza A virus	Not mentioned	Not mentioned	Not mentioned
+CR8033	HA	Influenza B virus	Not mentioned	Not mentioned	Not mentioned
+S139	HA	Influenza A virus	Not mentioned	Not mentioned	Not mentioned
+HC63	HA	Influenza A virus (H3)	Not mentioned	Not mentioned	Not mentioned
+```

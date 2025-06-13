@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+amicyanin	methylamine dehydrogenase	Paracoccus denitrificans	Kd=4.5 uM	ultrafiltrationbinding assay	
+amicyanin	methylamine dehydrogenase	Paracoccus denitrificans	Kd=4.6 uM	ultrafiltrationbinding assay	
+amicyanin	methylamine dehydrogenase	Paracoccus denitrificans	Kd=35 uM	ultrafiltrationbinding assay	
+apoamicyanin	methylamine dehydrogenase	Paracoccus denitrificans	Kd=280 uM	ultrafiltrationbinding assay	
+amicyanin (reconstituted)	methylamine dehydrogenase	Paracoccus denitrificans	Kd=4.4 uM	ultrafiltrationbinding assay	
+amicyanin (reconstituted)	methylamine dehydrogenase	Paracoccus denitrificans	Kd=65 uM	ultrafiltrationbinding assay	
+
+```

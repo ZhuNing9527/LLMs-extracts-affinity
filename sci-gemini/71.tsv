@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+-	Hsp70	Homo sapiens	-	ATPase assay	-
+-	Hsp70	Homo sapiens	Kd=0.2 uM	fluorescence	-
+-	Hsp70	Homo sapiens	-	substrate release assay	-
+```

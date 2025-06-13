@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+uPA	uPAR	Homo sapiens	Kd of 0.1¨C1 nM	surface plasmon resonance	
+uPA	suPAR	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-wt (1¨C283)	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N52Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N162Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N172Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N200Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N233Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N162Q-N172Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N200Q-N233Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N162Q-N172Q-N200Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N162Q-N172Q-N233Q	Homo sapiens		surface plasmon resonance	
+uPA	suPAR-N162Q-N172Q-N200Q-N233Q	Homo sapiens		surface plasmon resonance	
+```

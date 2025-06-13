@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+mant-dGDP	Cdc42Hs	Homo sapiens	Kd=239 nM	fluorescence anisotropy	
+mant-dGDP	Cdc42Hs	Homo sapiens	Kd=388 nM	fluorescence anisotropy	
+mant-dGTP	Cdc42Hs(Q61L)	Homo sapiens	Kd=279 nM	fluorescence anisotropy	
+mant-dGDP	Cdc42Hs	Homo sapiens	Kd=2.15 uM	fluorescence anisotropy	
+mant-dGTP	Cdc42Hs(Q61L)	Homo sapiens	Kd=245 nM	fluorescence anisotropy	
+mant-dGDP	Cdc42Hs	Homo sapiens	Kd=461 nM	fluorescence anisotropy	
+mant-dGDP	Cdc42Hs	Homo sapiens	Kd=45 nM	fluorescence anisotropy	
+```

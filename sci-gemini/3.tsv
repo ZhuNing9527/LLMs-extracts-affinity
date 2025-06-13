@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+	B5	Vaccinia virus	Kd=1 nM	neutralization assay		
+	A33	Vaccinia virus		neutralization assay		
+	B5	Vaccinia virus		neutralization assay		
+	A33	Vaccinia virus		neutralization assay		
+	A33	Vaccinia virus		ELISA		
+	B5	Vaccinia virus		ELISA		
+```

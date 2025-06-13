@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+GppNHp	Ran	Homo sapiens	Kd=7 M	fluorescence spectroscopy	
+GppNHp	Ran	Homo sapiens	Kd=2 M	fluorescence spectroscopy	
+GDP	Ran	Homo sapiens	Kd~100 M	fluorescence spectroscopy	
+GDP	Ran	Homo sapiens	Kd=2 M	fluorescence spectroscopy	
+GppNHp	Ran	Homo sapiens	Kd=220 M	fluorescence spectroscopy	
+GppNHp	Ran	Schizosaccharomyces pombe	Kd=1.7 M	fluorescence spectroscopy	
+```

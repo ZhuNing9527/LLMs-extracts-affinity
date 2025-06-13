@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+cytochrome c	cytochrome c peroxidase	Saccharomyces cerevisiae	KA=1.0e+05 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (E291Q)	Saccharomyces cerevisiae	KA=1.1e+05 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (E32Q)	Saccharomyces cerevisiae	KA=3.6e+04 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (E35Q)	Saccharomyces cerevisiae	KA=3.2e+04 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (A193F)	Saccharomyces cerevisiae	KA=2.9e+04 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (D34N)	Saccharomyces cerevisiae	KA=2.5e+04 M-1	isothermal titration calorimetry		
+cytochrome c	cytochrome c peroxidase (E290N)	Saccharomyces cerevisiae	KA=2.3e+04 M-1	isothermal titration calorimetry		
+```

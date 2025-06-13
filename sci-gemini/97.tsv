@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Rab4	Rabenosyn-5	Homo sapiens	Kd=10.9 nM	surface plasmon resonance	1Z0K
+Rab5	Rabenosyn-5	Homo sapiens	Kd=2.5 nM	surface plasmon resonance	
+Rab14	Rabenosyn-5	Homo sapiens	Kd=12.5 nM	surface plasmon resonance	
+Rab22	Rabenosyn-5	Homo sapiens	Kd=7.5 nM	surface plasmon resonance	1Z0J
+Rab24	Rabenosyn-5	Homo sapiens	Kd=7.8 nM	surface plasmon resonance	
+```

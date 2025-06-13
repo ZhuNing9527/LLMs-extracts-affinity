@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+TCI	CPA	Bos taurus	Kd=1.1 nM	chromogenic substrate assay	
+TCI	CPA1	Homo sapiens	Kd=1.2 nM	chromogenic substrate assay	
+TCI	CPA2	Homo sapiens	Kd=3.6 nM	chromogenic substrate assay	
+TCI	CPB	Sus scrofa	Kd=1.6 nM	chromogenic substrate assay	
+TCI	CPB	Homo sapiens	Kd=1.3 nM	chromogenic substrate assay	
+TCI	TAFIa	Bos taurus	Ki=1.3 nM	chromogenic substrate assay	
+TCI	TAFIa	Homo sapiens	Ki=1.2 nM	chromogenic substrate assay	
+```

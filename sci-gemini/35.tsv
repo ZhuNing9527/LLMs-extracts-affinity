@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+tendamistat	porcine pancreatic -amylase	Sus scrofa	KD=9.2 ¡À 1.8 ¡Á 10??? M	surface plasmon resonance	1BVN
+tendamistat	porcine pancreatic -amylase	Sus scrofa	Kd=1.2 nM	isothermal titration calorimetry	1BVN
+permustat4849	porcine pancreatic -amylase	Sus scrofa	KD=2.3 ¡Á 10??? M	surface plasmon resonance	
+permustat4849	porcine pancreatic -amylase	Sus scrofa	Ki=2.3 pM	isothermal titration calorimetry	
+permustat6162	porcine pancreatic -amylase	Sus scrofa	KD=7.2 ¡Á 10?? M	surface plasmon resonance	
+permustat6162	porcine pancreatic -amylase	Sus scrofa	IC50=11 uM	isothermal titration calorimetry	
+```

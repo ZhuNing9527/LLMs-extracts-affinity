@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+ribonuclease inhibitor	Ribonuclease A	Sus scrofa	Ki=67 fM	enzyme activity assay	
+ribonuclease inhibitor	Ribonuclease A	Sus scrofa	Ki=74 fM	enzyme activity assay	
+ribonuclease inhibitor	Ribonuclease A	Sus scrofa	Ki=59 fM	enzyme activity assay	
+ribonuclease inhibitor	Ribonuclease A	Sus scrofa	Ki=76 fM	enzyme activity assay	
+ribonuclease inhibitor	Ribonuclease A	Sus scrofa	Ki=55 fM	enzyme activity assay	
+ribonuclease inhibitor	Ribonuclease A	Homo sapiens	Ki=44 fM	enzyme activity assay	
+
+```

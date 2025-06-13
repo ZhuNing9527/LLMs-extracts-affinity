@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Peptide ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+	FcRIIa	Homo sapiens	Kd=0.69 uM	surface plasmon resonance	
+	FcRIIb	Homo sapiens	Kd=1.67 uM	surface plasmon resonance	
+	FcRIIIb-NA2	Homo sapiens	Kd=1.57 uM	surface plasmon resonance	
+	FcRIIa	Homo sapiens	Kd=0.56 uM	surface plasmon resonance	
+	FcRIIb	Homo sapiens	Kd=1.40 uM	surface plasmon resonance	
+	FcRIIIb-NA2	Homo sapiens	Kd=1.42 uM	surface plasmon resonance	
+	FcRIIa	Homo sapiens	Kd=0.80 uM	surface plasmon resonance	
+	FcRIIb	Homo sapiens	Kd=1.37 uM	surface plasmon resonance	
+	FcRIIb-His6	Homo sapiens	Kd=2.52 uM	surface plasmon resonance	
+	FcRIIb-His6	Homo sapiens	Kd=1.57 uM	surface plasmon resonance	
+```

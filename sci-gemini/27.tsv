@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+PEPTAPPEE	Tsg101 UEV	Homo sapiens	Kd=4.3 ¦ÌM	NMR chemical shift perturbation	N/A
+PEPTAPPEE	Tsg101 UEV	Homo sapiens	Kd=27 ¦ÌM	surface plasmon resonance	N/A
+p6	Tsg101 UEV	Homo sapiens	Kd=27 ¦ÌM	surface plasmon resonance	N/A
+Ubiquitin	Tsg101 UEV	Homo sapiens	Kd¡Ö500 ¦ÌM	NMR chemical shift perturbation	N/A
+Ubiquitin	Tsg101 UEV	Homo sapiens	Kd¡Ö500 ¦ÌM	surface plasmon resonance	N/A
+p6-Ubiquitin	Tsg101 UEV	Homo sapiens	Kd=2.1 ¦ÌM	surface plasmon resonance	N/A
+```

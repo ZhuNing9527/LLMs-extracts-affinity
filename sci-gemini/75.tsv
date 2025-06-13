@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Somatomedin B	PAI-1	Homo sapiens	Kd ???1 nM	Not specified	1OC0
+```

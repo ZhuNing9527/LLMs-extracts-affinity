@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SpG1	Fcy1	Homo sapiens	Kd=306 nM	fluorescence spectroscopy	
+SpG1-W48F	Fcy1	Homo sapiens	Kd=90 ?M	ELISA	
+SpAB*-1	Fcy1	Homo sapiens	Kd=22.5 nM	fluorescence spectroscopy	
+SpG1	Fcy1	Homo sapiens	Kd=2 ?M	stopped-flow fluorescence	
+
+```

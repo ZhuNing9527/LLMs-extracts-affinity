@@ -1,0 +1,31 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HFE	TfR	Homo sapiens	KD1=46 nM	surface plasmon resonance	1DE4
+HFE	TfR	Homo sapiens	KD2=210 nM	surface plasmon resonance	1DE4
+Tf	TfR	Homo sapiens	KD1=0.92 nM	surface plasmon resonance	1DE4
+Tf	TfR	Homo sapiens	KD2=37 nM	surface plasmon resonance	1DE4
+HFE	TfR	Homo sapiens	KD1=89 nM	surface plasmon resonance	1DE4
+HFE	TfR	Homo sapiens	KD2=650 nM	surface plasmon resonance	1DE4
+HFE	L619A TfR	Homo sapiens	N.B.	surface plasmon resonance	1DE4
+Tf	L619A TfR	Homo sapiens	KD=500 nM	surface plasmon resonance	1DE4
+HFE	V622A TfR	Homo sapiens	KD1=140 nM	surface plasmon resonance	1DE4
+HFE	V622A TfR	Homo sapiens	KD2=1000 nM	surface plasmon resonance	1DE4
+HFE	R623A TfR	Homo sapiens	KD1=380 nM	surface plasmon resonance	1DE4
+HFE	R623A TfR	Homo sapiens	KD2=2100 nM	surface plasmon resonance	1DE4
+HFE	R629A TfR	Homo sapiens	KD1=2500 nM	surface plasmon resonance	1DE4
+HFE	R629A TfR	Homo sapiens	KD2=8700 nM	surface plasmon resonance	1DE4
+HFE	Q640A TfR	Homo sapiens	KD1=1200 nM	surface plasmon resonance	1DE4
+HFE	Q640A TfR	Homo sapiens	KD2=6800 nM	surface plasmon resonance	1DE4
+HFE	W641A TfR	Homo sapiens	KD1=220 nM	surface plasmon resonance	1DE4
+HFE	W641A TfR	Homo sapiens	KD2=1400 nM	surface plasmon resonance	1DE4
+HFE	Y643A TfR	Homo sapiens	N.B.	surface plasmon resonance	1DE4
+Tf	Y643A TfR	Homo sapiens	KD=>500 nM	surface plasmon resonance	1DE4
+HFE	S644A TfR	Homo sapiens	KD1=350 nM	surface plasmon resonance	1DE4
+HFE	S644A TfR	Homo sapiens	KD2=1600 nM	surface plasmon resonance	1DE4
+Tf	G647A TfR	Homo sapiens	KD1=300 nM	surface plasmon resonance	1DE4
+Tf	G647A TfR	Homo sapiens	KD2=2500 nM	surface plasmon resonance	1DE4
+HFE	F650Q TfR	Homo sapiens	KD1=6200 nM	surface plasmon resonance	1DE4
+HFE	F650Q TfR	Homo sapiens	KD2=9900 nM	surface plasmon resonance	1DE4
+
+```
