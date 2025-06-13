@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+14NT	Actin	Oryctolagus cuniculus	Kd=4.5e-12 M	fluorescence-based nucleotide exchange assay	
+41CT	Actin	Oryctolagus cuniculus	Kd=25 nM	fluorescence-based nucleotide exchange assay

@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Efalizumab	LFA-1	Homo sapiens					3EOA
+Efalizumab	LFA-1	Homo sapiens					3EOB
+Efalizumab	LFA-1	Homo sapiens					3EO9
+
+**Note:** The provided text does not explicitly report affinity values (Kd, Ki, IC50) or experimental methods for affinity measurement (e.g., SPR, ITC). The PDB IDs (3EO9, 3EOA, 3EOB) are explicitly mentioned in the text as structures deposited for the Efalizumab Fab alone and in complex with the LFA-1 I domain. The affinity and method columns are left blank as no direct data was found in the text.

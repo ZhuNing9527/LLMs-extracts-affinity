@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+AL-57	LFA-1	Homo sapiens	KD=23 nM	surface plasmon resonance	
+AL-57	LFA-1	Homo sapiens	KD=4700 nM	surface plasmon resonance	
+MHM24	LFA-1	Homo sapiens	KD=250 nM	surface plasmon resonance	
+MHM24	LFA-1	Homo sapiens	KD=2.0 nM	surface plasmon resonance	
+MHM24	LFA-1	Homo sapiens	KD=6.3 nM	surface plasmon resonance	
+ICAM-1	LFA-1	Homo sapiens	KD=150 nM	surface plasmon resonance	
+ICAM-1	LFA-1	Homo sapiens	KD=3000 nM	surface plasmon resonance	
+ICAM-1	LFA-1	Homo sapiens	KD=1500000 nM	surface plasmon resonance

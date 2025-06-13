@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+VEGF	Fab fragment of humanized neutralizing antibody	Homo sapiens	Kd=3.4 ¡À 0.9 nM	surface plasmon resonance	1BJ1
+VEGF	Fab fragment of humanized neutralizing antibody	Homo sapiens	IC50=4.7 ¡À 1.1 nM	phage ELISA	1BJ1

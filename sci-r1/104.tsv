@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Ephrin-B2 Fc	EphB4	Mus musculus	IC50=9 nM	ELISA	
+Human ephrin-B2 monomer	EphB4	Mus musculus	IC50=10 nM	ELISA	
+TNYL-RAW	EphB4	Mus musculus	IC50=15 nM	ELISA	
+NYLF-RAW	EphB4	Mus musculus	IC50=40 nM	ELISA	
+YLFS-RAW	EphB4	Mus musculus	IC50=40 nM	ELISA	
+LFSP-RAW	EphB4	Mus musculus	IC50>10 uM	ELISA	
+TNYL	EphB4	Mus musculus	IC50=150 uM	ELISA	
+TNYL-biotin	EphB4	Mus musculus	IC50=50 uM	ELISA	
+TNYL-RAW	EphB4	Homo sapiens	Kd=71 nM	isothermal titration calorimetry	
+NYLF-RAW	EphB4	Homo sapiens	Kd=65 nM	isothermal titration calorimetry	
+YLFS-RAW	EphB4	Homo sapiens	Kd=80 nM	isothermal titration calorimetry	
+LFSP-RAW	EphB4	Homo sapiens	Kd=3500 nM	isothermal titration calorimetry	
+Ephrin-B2	EphB4	Homo sapiens	Kd=40 nM	isothermal titration calorimetry

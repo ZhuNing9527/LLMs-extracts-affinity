@@ -1,0 +1,2 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HEL	Fab HyHEL-63	Mus musculus	KA=3.6e8 M^-1	surface plasmon resonance	1dqj

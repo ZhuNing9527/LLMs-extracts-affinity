@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=0.31 nM	biolayer interferometry	3MXW
+Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=0.7 nM	isothermal titration calorimetry	3MXW
+Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=1.12 nM	biolayer interferometry	
+Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=4.82 nM	biolayer interferometry	
+Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=6.94 nM	biolayer interferometry	
+Rat Shh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=1.51 nM	biolayer interferometry	
+Ihh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=0.29 nM	biolayer interferometry	
+Dhh	ch5E1 Fab	Mus musculus; Homo sapiens	Kd=1.71 nM	biolayer interferometry

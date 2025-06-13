@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+The provided text does not contain explicit data for all required columns (Ligand name, Receptor protein name, Receptor protein organism source, Affinity value, Wet lab method, PDBID) as per the extraction guidelines. Critical details such as the specific affinity value (e.g., "Kd=1.2 nM"), the experimental method used for affinity measurement (e.g., "surface plasmon resonance"), and the PDBID of the complex are not mentioned. While the ligand (5G9), receptor (Tissue Factor), and organism (Homo sapiens) are identified, the absence of the remaining required fields precludes the generation of a valid TSV entry. 
+
+**Output:**
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+5G9	Tissue Factor	Homo sapiens		Not provided	Not provided
+``` 
+
+*Note: Fields with missing data are left empty or marked as "Not provided" to adhere strictly to the requirement of 6 columns, though the instructions emphasize extracting only directly reported data.*

@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+The provided text does not contain explicit data for affinity values, wet lab methods, or PDBIDs. Below is the TSV template with the available information, but critical columns (4-6) remain empty as they are not present in the text.  
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+LEDGF	HIV-1 Integrase dimer	Hepatitis C virus				
+
+*Note*: The affinity value, wet lab method, and PDBID are not mentioned in the provided text. The extraction is limited to the explicitly stated ligand, receptor, and organism.

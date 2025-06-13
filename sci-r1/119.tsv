@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HIV-1 capsid protein (CA)	cyclophilin A	Homo sapiens	Kd=16(¡À4) ?M	isothermal titration calorimetry	
+HIV-1 capsid protein (CA151)	cyclophilin A	Homo sapiens	Kd=16(¡À3) ?M	isothermal titration calorimetry	
+HIV-1 capsid protein (CA151)	cyclophilin A	Homo sapiens	Kd=18(¡À2) ?M	surface plasmon resonance	
+HIV-1 capsid protein (CA)	cyclophilin A	Homo sapiens	Kd=15¡À5 ?M	surface plasmon resonance

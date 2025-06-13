@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Rac¡ÁGMPPNP	Arfaptin2	Homo sapiens	Kd=4.5 mM	isothermal titration calorimetry	1I4T
+Rac¡ÁGDP	Arfaptin2	Homo sapiens	Kd=3 mM	isothermal titration calorimetry	1I4D
+Rac¡ÁGDP	Arfaptin2	Homo sapiens	Kd=3 mM	isothermal titration calorimetry	1I4L
+Arf1¡ÁGMPPNP	Arfaptin2	Homo sapiens	Kd<2.5 mM	isothermal titration calorimetry

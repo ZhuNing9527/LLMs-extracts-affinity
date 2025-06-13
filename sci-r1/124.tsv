@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HIV-1 Nef protein	Hck SH3	Homo sapiens	Kd=250 nM	surface plasmon resonance	
+HIV-1 Nef protein	Hck SH3	Homo sapiens	Kd=188 nM	isothermal titration calorimetry	
+PVRPQVPLRPMT	Hck SH3	Homo sapiens	Kd=91 ?M	tryptophan fluorescence	
+HIV-1 Nef protein	Hck-RTE SH3	Homo sapiens	Kd>20 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn SH3	Homo sapiens	Kd>20 ?M	surface plasmon resonance	
+PVRPQVPLRPMT	Fyn SH3	Homo sapiens	Kd=202 ?M	tryptophan fluorescence	
+HIV-1 Nef protein	Fyn-IHH SH3	Homo sapiens	Kd=2.0 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-IH SH3	Homo sapiens	Kd=3.1 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-H SH3	Homo sapiens	Kd>20 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-I SH3	Homo sapiens	Kd=380 nM	surface plasmon resonance	
+PVRPQVPLRPMT	Fyn-I SH3	Homo sapiens	Kd=91 ?M	tryptophan fluorescence	
+HIV-1 Nef protein	Fyn-A SH3	Homo sapiens	Kd=4.4 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-D SH3	Homo sapiens	Kd>20 ?M	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-K SH3	Homo sapiens	Kd>20 ?M	surface plasmon resonance

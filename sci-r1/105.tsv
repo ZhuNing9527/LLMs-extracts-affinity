@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+SEC3-WT	mV¦Â8.2	Mus musculus	Kd=12 uM	isothermal titration calorimetry	2AQ3
+SEC3-1D8	mV¦Â8.2	Mus musculus	Kd=3.6 uM	isothermal titration calorimetry	3BYT
+SEC3-1D3	mV¦Â8.2	Mus musculus	Kd=570 nM	isothermal titration calorimetry	3BYY
+SEC3-1A4	mV¦Â8.2	Mus musculus	Kd=96 nM	isothermal titration calorimetry	3BZD

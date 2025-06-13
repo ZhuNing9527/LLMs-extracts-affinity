@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+LIF	gp130	Homo sapiens	Kd=170 nM	isothermal titration calorimetry	
+OSM	gp130	Homo sapiens	Kd=44 nM	isothermal titration calorimetry	
+CNTF	gp130	Homo sapiens	Kd=3.8 nM	isothermal titration calorimetry	
+hIL-6	gp130	Homo sapiens	Kd=0.4 nM	isothermal titration calorimetry

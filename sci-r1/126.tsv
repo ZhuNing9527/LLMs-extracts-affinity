@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Pal	TolB	Escherichia coli	Kd=27 nM	isothermal titration calorimetry	2HQS
+ColE9 NDR	TolB	Escherichia coli	Kd?бы?90 nM	isothermal titration calorimetry	2IVZ

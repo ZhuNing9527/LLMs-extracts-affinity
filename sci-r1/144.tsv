@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Rac1	PLC-¦Â2	Homo sapiens	Kd=5.3 ?M	surface plasmon resonance	
+Rac2	PLC-¦Â2	Homo sapiens	Kd=7.0 ?M	surface plasmon resonance	
+Rac3	PLC-¦Â2	Homo sapiens	Kd=9.3 ?M	surface plasmon resonance	
+Rac1	PLC-¦Â3	Homo sapiens	Kd=30 ?M	surface plasmon resonance	
+Rac2	PLC-¦Â3	Homo sapiens	Kd=58 ?M	surface plasmon resonance	
+Rac3	PLC-¦Â3	Homo sapiens	Kd=88 ?M	surface plasmon resonance

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+XRCC1-NTD	DNA polymerase ¦Â	Rattus norvegicus	Kd=110 nM	fluorescence spectroscopy	3K75
+XRCC1-NTD	DNA polymerase ¦Â	Rattus norvegicus	Kd=12 nM	fluorescence spectroscopy	3LQC

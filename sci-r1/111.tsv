@@ -1,0 +1,27 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+904	HBcAg	Hepatitis B virus	Kd=17 nM	surface plasmon resonance	
+904	HBcAg	Hepatitis B virus	Kd=15 nM	surface plasmon resonance	
+904	HBeAg	Hepatitis B virus	Kd=26 nM	surface plasmon resonance	
+904	HBcAg	Hepatitis B virus	Kd=3.4 nM	surface plasmon resonance	
+904	HBeAg	Hepatitis B virus	Kd=3.5 nM	surface plasmon resonance	
+905	HBcAg	Hepatitis B virus	Kd=0.84 nM	surface plasmon resonance	
+905	HBcAg	Hepatitis B virus	Kd=1.0 nM	surface plasmon resonance	
+905	HBeAg	Hepatitis B virus	Kd=14 nM	surface plasmon resonance	
+905	HBcAg	Hepatitis B virus	Kd=440 nM	surface plasmon resonance	
+905	HBeAg	Hepatitis B virus	Kd=0.2 pM	surface plasmon resonance	
+3105	HBcAg	Hepatitis B virus	Kd=34 nM	surface plasmon resonance	
+3105	HBcAg	Hepatitis B virus	Kd=4.9 nM	surface plasmon resonance	
+3105	HBeAg	Hepatitis B virus	Kd=3.2 nM	surface plasmon resonance	
+3105	HBcAg	Hepatitis B virus	Kd=33 nM	surface plasmon resonance	
+3105	HBeAg	Hepatitis B virus	Kd=340 nM	surface plasmon resonance	
+3120	HBcAg	Hepatitis B virus	Kd=23 pM	surface plasmon resonance	
+3120	HBcAg	Hepatitis B virus	Kd=12 pM	surface plasmon resonance	
+3120	HBeAg	Hepatitis B virus	Kd=19 pM	surface plasmon resonance	
+F11A4	HBcAg	Hepatitis B virus	Kd=0.94 nM	surface plasmon resonance	
+F11A4	HBcAg	Hepatitis B virus	Kd=0.1 pM	surface plasmon resonance	
+F11A4	HBeAg	Hepatitis B virus	Kd=0.13 nM	surface plasmon resonance	
+F11A4	HBcAg	Hepatitis B virus	Kd=6.9 nM	surface plasmon resonance	
+F11A4	HBeAg	Hepatitis B virus	Kd=140 nM	surface plasmon resonance	
+e6	HBcAg	Hepatitis B virus	Kd=3.3 nM	surface plasmon resonance	
+e6	HBeAg	Hepatitis B virus	Kd=120 nM	surface plasmon resonance

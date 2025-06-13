@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+D. radiodurans Trx1	TrxR	Deinococcus radiodurans	Km=5.7 ¦ÌM	insulin reduction assay	
+D. radiodurans Trx1	TrxR	Deinococcus radiodurans	Km=2.75 ¦ÌM	DTNB reduction assay	
+E. coli Trx1	TrxR	Deinococcus radiodurans	Km=44.4 ¦ÌM	insulin reduction assay	
+D. radiodurans Trx1	TrxR	Escherichia coli	Km=44.4 ¦ÌM	insulin reduction assay	
+E. coli Trx1	TrxR	Escherichia coli	Km=2.7 ¦ÌM	insulin reduction assay

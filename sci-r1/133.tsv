@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Since the provided cleaned text does not contain explicit data on affinity values, wet lab methods, PDBIDs, or organism sources for the ligand-receptor pairs mentioned (APRIL/BLyS and TACI), no entries can be extracted according to the instructions. Below is the formatted response adhering to the requirements:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+```
+
+*Note: The fields are left empty as the necessary data (e.g., affinity values, methods, PDBIDs, organism sources) are not explicitly stated in the provided text.*

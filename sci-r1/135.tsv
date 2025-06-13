@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+MetRS	Arc1p	Saccharomyces cerevisiae	Kd=193 nM	surface plasmon resonance	
+MetRS-N	Arc1p	Saccharomyces cerevisiae	Kd=39 nM	surface plasmon resonance	
+GluRS	Arc1p	Saccharomyces cerevisiae	Kd=53 nM	surface plasmon resonance	
+GluRS	Arc1p	Saccharomyces cerevisiae	Kd=27 nM	isothermal titration calorimetry	
+GluRS-N	Arc1p	Saccharomyces cerevisiae	Kd=9 nM	surface plasmon resonance	
+GluRS	Arc1-¦¤N1	Saccharomyces cerevisiae	Kd=345 nM	surface plasmon resonance	
+GluRS-N	Arc1-¦¤N1	Saccharomyces cerevisiae	Kd=124 nM	surface plasmon resonance	
+MetRS	Arc1p	Saccharomyces cerevisiae	Kd=315 nM	surface plasmon resonance	
+MetRS	Arc1p	Saccharomyces cerevisiae	Kd=127 nM	surface plasmon resonance	
+GluRS	Arc1p T55V	Saccharomyces cerevisiae	Kd=152 nM	surface plasmon resonance	
+GluRS K157A	Arc1p	Saccharomyces cerevisiae	Kd=265 nM	surface plasmon resonance

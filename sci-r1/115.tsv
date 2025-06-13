@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HPr	HprK/P	Bacillus subtilis	KD=45 nM	surface plasmon resonance	
+Crh	HprK/P	Bacillus subtilis	KD=39 nM	surface plasmon resonance	
+HPr	HprK/P	Bacillus subtilis	KD=3.1 nM	surface plasmon resonance	
+Crh	HprK/P	Bacillus subtilis	KD=5.1 nM	surface plasmon resonance	
+
+This TSV file contains four entries extracted directly from the kinetic data in Table 2 of the paper, showing interactions between HprK/P and its protein substrates HPr/Crh under different nucleotide conditions (with/without AMPPNP). All interactions were measured using surface plasmon resonance (SPR) methodology. No PDB IDs were mentioned in the text for these complexes.

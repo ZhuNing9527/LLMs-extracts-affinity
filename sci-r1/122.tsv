@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+2. IIAGlc	glycerol kinase	Escherichia coli	Kd=11 ?M	enzyme activity assay	 
+3. IIAGlc	glycerol kinase	Escherichia coli	Kd=0.3 ?M	enzyme activity assay	 
+4. IIAGlc	glycerol kinase	Escherichia coli	Kapp=0.7 ?M	enzyme activity assay	 
+5. IIAGlc	glycerol kinase	Escherichia coli	Kapp=0.4 ?M	enzyme activity assay	 
+6. IIAGlc	glycerol kinase	Escherichia coli	Kapp=17 ?M	enzyme activity assay	 
+7. IIAGlc	glycerol kinase	Escherichia coli	Kapp=30 ?M	enzyme activity assay	 
+8. IIAGlc	glycerol kinase	Escherichia coli	Kapp=5 ?M	enzyme activity assay	 
+9. IIAGlc	glycerol kinase	Escherichia coli	Kapp=3 ?M	enzyme activity assay	 
+10. IIAGlc	glycerol kinase	Escherichia coli	Kapp=3 ?M	enzyme activity assay	 
+11. IIAGlc	glycerol kinase	Escherichia coli	Kapp=4 ?M	enzyme activity assay

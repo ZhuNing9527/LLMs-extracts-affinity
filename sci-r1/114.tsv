@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+ubiquitin	EDD UBA domain	Homo sapiens	Kd=60 ¦ÌM	isothermal titration calorimetry	2QHO
+ubiquitin	EDD UBA domain	Homo sapiens	Kd=127 ¦ÌM	surface plasmon resonance	2QHO

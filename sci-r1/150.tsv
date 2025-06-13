@@ -1,0 +1,34 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+BPTI (wild-type)	trypsin	Bos taurus	Ki=5e-14 M	enzyme activity assay	2PTC
+BPTI (wild-type)	chymotrypsin	Bos taurus	Ki=1.1e-8 M	enzyme activity assay	
+Thr-11-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Thr-11-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.6e-8 M	enzyme activity assay	
+Gly-12-Ala BPTI	trypsin	Bos taurus	Ki=8.3e-11 M	enzyme activity assay	
+Gly-12-Ala BPTI	chymotrypsin	Bos taurus	Ki=3.5e-8 M	enzyme activity assay	
+Pro-13-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Pro-13-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.0e-8 M	enzyme activity assay	
+Lys-15-Ala BPTI	trypsin	Bos taurus	Ki=1.4e-6 M	enzyme activity assay	
+Lys-15-Ala BPTI	chymotrypsin	Bos taurus	Ki=3.3e-7 M	enzyme activity assay	
+Arg-17-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Arg-17-Ala BPTI	chymotrypsin	Bos taurus	Ki=2.8e-8 M	enzyme activity assay	
+Ile-18-Ala BPTI	trypsin	Bos taurus	Ki=2.4e-10 M	enzyme activity assay	
+Ile-18-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.2e-7 M	enzyme activity assay	
+Ile-19-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Ile-19-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.4e-8 M	enzyme activity assay	
+Arg-20-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Arg-20-Ala BPTI	chymotrypsin	Bos taurus	Ki=2.0e-8 M	enzyme activity assay	
+Phe-33-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Phe-33-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.4e-8 M	enzyme activity assay	
+Val-34-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Val-34-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.2e-8 M	enzyme activity assay	
+Tyr-35-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Tyr-35-Ala BPTI	chymotrypsin	Bos taurus	Ki=4.9e-8 M	enzyme activity assay	
+Gly-36-Ala BPTI	trypsin	Bos taurus	Ki=2.1e-10 M	enzyme activity assay	
+Gly-36-Ala BPTI	chymotrypsin	Bos taurus	Ki=5.6e-8 M	enzyme activity assay	
+Gly-37-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Gly-37-Ala BPTI	chymotrypsin	Bos taurus	Ki=4.4e-8 M	enzyme activity assay	
+Arg-39-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Arg-39-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.6e-8 M	enzyme activity assay	
+Lys-46-Ala BPTI	trypsin	Bos taurus	Ki<5e-11 M	enzyme activity assay	
+Lys-46-Ala BPTI	chymotrypsin	Bos taurus	Ki=1.4e-8 M	enzyme activity assay

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+C3bot	RalA	Homo sapiens	Kd=60¡À20 nM	isothermal titration calorimetry	2A78
+C3bot	RalA	Homo sapiens	Kd=35¡À15 nM	fluorescence titration	2A78
