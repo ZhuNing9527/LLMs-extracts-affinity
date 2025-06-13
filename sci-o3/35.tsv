@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+WT tendamistat	porcine pancreatic ¦Á-amylase	Sus scrofa	Kd=9.2 ¡Á 10^-12 M	surface plasmon resonance	1BVN  
+permustat4849	porcine pancreatic ¦Á-amylase	Sus scrofa	Kd=2.3 ¡Á 10^-11 M	surface plasmon resonance	1BVN  
+permustat6162	porcine pancreatic ¦Á-amylase	Sus scrofa	Kd=7.2 ¡Á 10^-9 M	surface plasmon resonance	1BVN

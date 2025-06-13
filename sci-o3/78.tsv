@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Adrenodoxin (Adx)	Adrenodoxin reductase (AdR)	Bos taurus	Kd=0.856 uM	surface plasmon resonance	NA
+Adrenodoxin (Adx)	CYP11A1	Bos taurus	Kd=0.0134 uM	surface plasmon resonance	NA

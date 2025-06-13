@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Complex PDBID  
+Pancreatic trypsin inhibitor (PTI)	trypsin	Bos taurus	Kd=6 X 10-14 M	enzyme activity assay	N/A

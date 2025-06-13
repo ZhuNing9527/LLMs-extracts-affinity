@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+Vav N-terminal SH3 domain	Grb2 C-terminal SH3 domain	Homo sapiens	Kd=16.8 ??M	surface plasmon resonance	1GCQ

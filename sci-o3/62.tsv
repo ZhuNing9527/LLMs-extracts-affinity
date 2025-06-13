@@ -1,0 +1,24 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+OMTKY3    ¦Á-chymotrypsin    Bos taurus    Kobs=1.8x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+OMTKY3    porcine elastase I    Sus scrofa    Kobs=4.2x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+OMTKY3    subtilisin Carlsberg    Bacillus licheniformis    Kobs=4.3x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+OMTKY3    Streptomyces griseus protease A (SGPA)    Streptomyces griseus    Kobs=2.8x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+OMTKY3    Streptomyces griseus protease B (SGPB)    Streptomyces griseus    Kobs=5.6x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+
+des-Leu1-Ala2-Ala3 OMTKY3    ¦Á-chymotrypsin    Bos taurus    Kobs=1.8x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+des-Leu1-Ala2-Ala3 OMTKY3    porcine elastase I    Sus scrofa    Kobs=4.0x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+des-Leu1-Ala2-Ala3 OMTKY3    subtilisin Carlsberg    Bacillus licheniformis    Kobs=4.5x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+des-Leu1-Ala2-Ala3 OMTKY3    Streptomyces griseus protease A (SGPA)    Streptomyces griseus    Kobs=2.9x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+des-Leu1-Ala2-Ala3 OMTKY3    Streptomyces griseus protease B (SGPB)    Streptomyces griseus    Kobs=5.7x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+
+Syn18OMTKY3    ¦Á-chymotrypsin    Bos taurus    Kobs=1.6x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+Syn18OMTKY3    porcine elastase I    Sus scrofa    Kobs=3.7x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+Syn18OMTKY3    subtilisin Carlsberg    Bacillus licheniformis    Kobs=3.8x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+Syn18OMTKY3    Streptomyces griseus protease A (SGPA)    Streptomyces griseus    Kobs=2.9x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+Syn18OMTKY3    Streptomyces griseus protease B (SGPB)    Streptomyces griseus    Kobs=5.5x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+
+Syn13OMTKY3    ¦Á-chymotrypsin    Bos taurus    Kobs=1.6x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+Syn13OMTKY3    porcine elastase I    Sus scrofa    Kobs=3.7x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+Syn13OMTKY3    subtilisin Carlsberg    Bacillus licheniformis    Kobs=3.8x10^10 M^-2    enzyme-inhibitor equilibrium assay    
+Syn13OMTKY3    Streptomyces griseus protease A (SGPA)    Streptomyces griseus    Kobs=3.3x10^11 M^-2    enzyme-inhibitor equilibrium assay    
+Syn13OMTKY3    Streptomyces griseus protease B (SGPB)    Streptomyces griseus    Kobs=5.8x10^10 M^-2    enzyme-inhibitor equilibrium assay

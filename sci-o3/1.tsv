@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+TGFb1	TbRII-ED	Homo sapiens	Kd=200 nM	surface plasmon resonance	1KTZ  
+TGFb3	TbRII-ED	Homo sapiens	Kd=290 nM	surface plasmon resonance	1KTZ  
+TGFb1	TbRII-D14-ED	Homo sapiens	Kd=320 nM	surface plasmon resonance	1KTZ  
+TGFb3	TbRII-D14-ED	Homo sapiens	Kd=680 nM	surface plasmon resonance	1KTZ  
+TGFb2 K25R I92V K94R	TbRII-ED	Homo sapiens	Kd=480 nM	surface plasmon resonance	1KTZ

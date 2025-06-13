@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=2.5 nM	surface plasmon resonance	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=65 nM	surface plasmon resonance	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=6.3 nM	surface plasmon resonance	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=122 nM	surface plasmon resonance	
+activated GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=104 nM	surface plasmon resonance	
+activated GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=60 nM	surface plasmon resonance	
+FITC-MK2a 370-400 peptide	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=8.4 nM	stopped-flow fluorescence	
+MK2a 370-400 peptide	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=20 nM	stopped-flow fluorescence	
+6His-MK2a 51-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=3.3 nM	stopped-flow fluorescence	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=1.0 nM	stopped-flow fluorescence	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd<10 nM	isothermal titration calorimetry	
+MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd<10 nM	isothermal titration calorimetry	
+6His-MK2a 51-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd<10 nM	isothermal titration calorimetry	
+MK2a 370-400 peptide	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd<10 nM	isothermal titration calorimetry	
+GST-MK2a 1-400	p38 mitogen-activated protein kinase (p38R)	Mus musculus	Kd=106 nM	isothermal titration calorimetry

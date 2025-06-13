@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+TIMP-1	pro-MMP-9 (92 kDa)	Homo sapiens	Kd=35.0 nM	surface plasmon resonance	
+TIMP-1	pro-MMP-9 (92 kDa)	Homo sapiens	Kd=7.4 mM	surface plasmon resonance	
+TIMP-1	MMP-9 (82 kDa)	Homo sapiens	Kd=23.9 nM	surface plasmon resonance	
+TIMP-1	MMP-9 (82 kDa)	Homo sapiens	Kd=3.1 mM	surface plasmon resonance	
+TIMP-1	MMP-2 (62 kDa)	Homo sapiens	Kd=28.6 nM	surface plasmon resonance	
+TIMP-1	MMP-2 (62 kDa)	Homo sapiens	Kd=8.5 mM	surface plasmon resonance	
+TIMP-2	pro-MMP-2 (72 kDa)	Homo sapiens	Kd=5.2 nM	surface plasmon resonance	
+TIMP-2	pro-MMP-2 (72 kDa)	Homo sapiens	Kd=0.19 mM	surface plasmon resonance	
+TIMP-2	MMP-9 (82 kDa)	Homo sapiens	Kd=57.9 nM	surface plasmon resonance	
+TIMP-2	MMP-9 (82 kDa)	Homo sapiens	Kd=12.7 mM	surface plasmon resonance	
+TIMP-2	MMP-2 (62 kDa)	Homo sapiens	Kd=23.1 nM	surface plasmon resonance	
+TIMP-2	MMP-2 (62 kDa)	Homo sapiens	Kd=2.7 mM	surface plasmon resonance	
+TIMP-2	MMP-2 (45 kDa)	Homo sapiens	Kd=315 nM	surface plasmon resonance	
+TIMP-2	MMP-2 C-terminal domain	Homo sapiens	Kd=61.6 nM	surface plasmon resonance	
+TIMP-1	MMP-9 (82 kDa)	Homo sapiens	Ki=8.5 nM	enzyme inhibition assay	
+TIMP-1	MMP-2 (62 kDa)	Homo sapiens	Ki=9.7 nM	enzyme inhibition assay	
+TIMP-2	MMP-9 (82 kDa)	Homo sapiens	Ki=43.4 nM	enzyme inhibition assay	
+TIMP-2	MMP-2 (62 kDa)	Homo sapiens	Ki=7.2 nM	enzyme inhibition assay	
+TIMP-2	MMP-2 (45 kDa)	Homo sapiens	Ki=275 nM	enzyme inhibition assay

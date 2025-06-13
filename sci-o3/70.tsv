@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+IL-13	CNTO607	Homo sapiens	Kd=18.4 pM	surface plasmon resonance	
+IL-13	Mab II	Homo sapiens	Kd=23.3 pM	surface plasmon resonance	
+IL-13	Mab III	Homo sapiens	Kd=70.8 pM	surface plasmon resonance	
+IL-13	Mab IV	Homo sapiens	Kd=29.1 pM	surface plasmon resonance	
+IL-13	Mab V	Homo sapiens	Kd=7.6 pM	surface plasmon resonance	
+IL-13	Mab VI	Homo sapiens	Kd>45000 pM	surface plasmon resonance	
+IL-13	Mab VII	Homo sapiens	Kd=22.2 pM	surface plasmon resonance

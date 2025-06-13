@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HIV-1 p6	UEV domain of Tsg101	Homo sapiens	Kd=27 mM	surface plasmon resonance	1KPP
+p6??¡°Ub fusion	UEV domain of Tsg101	Homo sapiens	Kd=2.1 mM	surface plasmon resonance	1KPP
+Ubiquitin	UEV domain of Tsg101	Homo sapiens	Kd=635 mM	surface plasmon resonance	1KPP

@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Cdc42Hs	Cdc42¨CGAP	Homo sapiens	Kd=239 nM	fluorescence polarization	N/A
+Cdc42Hs	Cdc42¨CGAP	Homo sapiens	Kd=388 nM	fluorescence polarization	N/A
+Cdc42Hs(Q61L)	Cdc42¨CGAP	Homo sapiens	Kd=279 nM	fluorescence polarization	N/A
+Cdc42Hs	GAP(R305A)	Homo sapiens	Kd=2.15 uM	fluorescence polarization	N/A
+Cdc42Hs	mPAK-3 PBD	Mus musculus	Kd=461 nM	fluorescence polarization	N/A
+Cdc42Hs	mPAK-3 PBD	Mus musculus	Kd=45 nM	fluorescence polarization	N/A

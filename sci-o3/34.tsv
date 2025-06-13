@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+ch836	IL-13	Homo sapiens	Kd=54 pM	surface plasmon resonance	3L5W  
+H2L6	IL-13	Homo sapiens	Kd=269 pM	surface plasmon resonance	3L5X  
+M1295	IL-13	Homo sapiens	Kd=5.7 pM	surface plasmon resonance	3L5Y

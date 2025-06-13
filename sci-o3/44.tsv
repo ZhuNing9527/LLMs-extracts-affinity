@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+barstar	barnase	Bacillus amyloliquefaciens	Kd=6e-13 M	enzyme activity assay	
+barstar(C40,82A)	barnase	Bacillus amyloliquefaciens	Kd=2e-12 M	enzyme activity assay	
+barstar	barnase(R59K)	Bacillus amyloliquefaciens	Kd=4e-12 M	enzyme activity assay	
+barstar(C40,82A)	barnase(R59K)	Bacillus amyloliquefaciens	Kd=2.5e-11 M	enzyme activity assay	
+barstar	barnase(R59A)	Bacillus amyloliquefaciens	Kd=1.5e-10 M	enzyme activity assay	
+barstar(C40,82A)	barnase(R59A)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	enzyme activity assay	
+barstar	barnase(H102Q)	Bacillus amyloliquefaciens	Kd=1.3e-10 M	enzyme activity assay	
+barstar(C40,82A)	barnase(H102Q)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	enzyme activity assay	
+barstar	barnase(H102D)	Bacillus amyloliquefaciens	Kd=1.3e-10 M	enzyme activity assay	
+barstar	barnase(H102G)	Bacillus amyloliquefaciens	Kd=6e-9 M	enzyme activity assay	
+barstar	barnase(H102A)	Bacillus amyloliquefaciens	Kd=7e-9 M	enzyme activity assay	
+barstar	barnase(H102L)	Bacillus amyloliquefaciens	Kd=2.5e-8 M	enzyme activity assay

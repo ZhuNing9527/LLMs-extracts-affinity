@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+enzyme IIBGlc (EIIB)	Mlc	Homo sapiens[1]	Kd=4.14 nM	surface plasmon resonance	3BP8
+enzyme IIBGlc (EIIB)	Mlc (F136A)	Escherichia coli	Kd=137 nM	surface plasmon resonance	3BP8
+enzyme IIBGlc (EIIB A451F)	Mlc	Escherichia coli	Kd=117 nM	surface plasmon resonance	3BP8
+enzyme IIBGlc (EIIB A451F)	Mlc (F136A)	Escherichia coli	Kd=1.12 nM	surface plasmon resonance	3BP8

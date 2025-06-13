@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+V-1 W8A	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=6.4 mM	surface plasmon resonance	3AAA
+GST-CD43 (CD2AP 461¨C503)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=260 nM	surface plasmon resonance	3AA6
+GST-CD44 (CD2AP 461¨C504)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=62 nM	surface plasmon resonance	3AA6
+GST-CD47 (CD2AP 461¨C507)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=18 nM	surface plasmon resonance	3AA6
+GST-CD50 (CD2AP 461¨C510)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=15 nM	surface plasmon resonance	3AA6
+GST-CD56 (CD2AP 461¨C516)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=4.7 nM	surface plasmon resonance	3AA6
+GST-CA55 (CARMIL 962¨C1016)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=4,000 nM	surface plasmon resonance	3AA0
+GST-CA63 (CARMIL 962¨C1024)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=3,300 nM	surface plasmon resonance	3AA0
+GST-CA76 (CARMIL 962¨C1037)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=80 nM	surface plasmon resonance	3AA0
+GST-CA92 (CARMIL 962¨C1053)	Capping protein ¦Á1/¦Â1	Gallus gallus	KD=3.3 nM	surface plasmon resonance	3AA0

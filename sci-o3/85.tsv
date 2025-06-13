@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+Nb4	urokinase©\type plasminogen activator (uPA) catalytic domain	Homo sapiens	Kd=54 pM	surface plasmon resonance	5HDO

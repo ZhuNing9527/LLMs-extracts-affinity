@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=560 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=398 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=306 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=459 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=693 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=928 nM	equilibrium fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=7.369 uM	stopped-flow fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=2.221 uM	stopped-flow fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=0.661 uM	stopped-flow fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=2.696 uM	stopped-flow fluorescence spectroscopy	
+SpG1	Fc fragment of IgG1	Homo sapiens	Kd=5.338 uM	stopped-flow fluorescence spectroscopy

@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+Efb-C	C3d	Homo sapiens	Kd=2 nM	isothermal titration calorimetry	2GOX  
+Efb-C	C3d	Homo sapiens	Kd=1.4 nM	surface plasmon resonance	2GOX  
+Efb-C R131A	C3d	Homo sapiens	Kd=26 nM	isothermal titration calorimetry	3D5S  
+Efb-C R131A	C3d	Homo sapiens	Kd=62.1 nM	surface plasmon resonance	3D5S  
+Efb-C N138A	C3d	Homo sapiens	Kd=19 nM	isothermal titration calorimetry	3D5R  
+Efb-C N138A	C3d	Homo sapiens	Kd=19.8 nM	surface plasmon resonance	3D5R

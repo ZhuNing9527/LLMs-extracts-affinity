@@ -1,0 +1,2 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+No directly tabulated quantitative affinity measurements, nor explicit organism sources for the Rab GTPases, are reported in the provided text. Consequently, no complete six-column TSV lines can be extracted without inference.

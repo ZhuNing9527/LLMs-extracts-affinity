@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+all-trans retinol每RBP	transthyretin	Gallus gallus	Kd=0.03 uM	fluorescence anisotropy	
+apoRBP	transthyretin	Gallus gallus	Kd=0.15 uM	fluorescence anisotropy	
+all-trans retinol每RBP	transthyretin	Homo sapiens	Kd=0.2 uM	fluorescence anisotropy	
+apoRBP	transthyretin	Homo sapiens	Kd=1.2 uM	fluorescence anisotropy	
+all-trans retinoic acid每RBP	transthyretin	Homo sapiens	Kd=0.8 uM	fluorescence anisotropy	
+all-trans retinyl methyl ether每RBP	transthyretin	Homo sapiens	Kd=6 uM	fluorescence anisotropy

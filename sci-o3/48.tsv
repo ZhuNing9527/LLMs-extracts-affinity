@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+HIF-1¦Á PasB R245E	ARNT PasB E362R	Homo sapiens	Kd=125 nM	isothermal titration calorimetry	4H6J  
+HIF-1¦Á PasB R245E	ARNT PasB E362R	Homo sapiens	Kd=1.2 ?M	surface plasmon resonance	4H6J  
+HIF-2¦Á PasB R247E	ARNT PasB E362R	Homo sapiens	Kd=1400 nM	isothermal titration calorimetry	3F1N  
+HIF-2¦Á PasB R247E	ARNT PasB E362R	Homo sapiens	Kd=7.4 ?M	surface plasmon resonance	3F1N  
+HIF-1¦Á PasB R245E,E266H,R311H,S330L	ARNT PasB E362R	Homo sapiens	Kd=83 nM	isothermal titration calorimetry	4H6J  
+HIF-1¦Á PasB R245E,E266H,R311H,S330L	ARNT PasB E362R	Homo sapiens	Kd=0.5 ?M	surface plasmon resonance	4H6J  
+HIF-1¦Á PasB R245E	ARNT PasB E362R	Homo sapiens	IC50=43 nM	AlphaScreen	4H6J  
+HIF-1¦Á PasB R245E,E266H,R311H,S330L	ARNT PasB E362R	Homo sapiens	IC50=58 nM	AlphaScreen	4H6J  
+HIF-1¦Á PasB R245E,E266H,R311H,S330L?¨C?COMPOUND 5	ARNT PasB E362R	Homo sapiens	IC50=1250 nM	AlphaScreen	4H6J

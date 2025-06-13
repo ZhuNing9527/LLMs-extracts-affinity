@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+N-Ras¡¤mant-GMPPNP	PI3Kg	Homo sapiens	Kd=2.8 mM	fluorescence anisotropy	¨C
+H-Ras¡¤mant-GMPPNP	PI3Kg	Homo sapiens	Kd=3.2 mM	fluorescence anisotropy	¨C

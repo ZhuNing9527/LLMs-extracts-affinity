@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HFE	Transferrin receptor	Homo sapiens	KD=47 nM	equilibrium gel-filtration	
+HFE	Transferrin receptor	Homo sapiens	KD=46 nM	surface plasmon resonance	
+HFE	Transferrin receptor	Homo sapiens	KD=210 nM	surface plasmon resonance	
+HFE	Transferrin receptor	Homo sapiens	KD=89 nM	surface plasmon resonance	
+HFE	Transferrin receptor	Homo sapiens	KD=650 nM	surface plasmon resonance	
+Transferrin	Transferrin receptor	Homo sapiens	KD=0.92 nM	surface plasmon resonance	
+Transferrin	Transferrin receptor	Homo sapiens	KD=37 nM	surface plasmon resonance

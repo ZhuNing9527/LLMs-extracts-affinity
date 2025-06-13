@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+CXCL13	3B4 scFv	Homo sapiens	koff=0.0108 s^-1	surface plasmon resonance	5CBA
+CXCL13	E10 scFv	Homo sapiens	koff=0.0034 s^-1	surface plasmon resonance	5CBE

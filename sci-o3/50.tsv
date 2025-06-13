@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SARS-CoV TOR2 RBD	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=16.2 nM	surface plasmon resonance	
+SARS-CoV TOR2 RBD (K344R)	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=16.0 nM	surface plasmon resonance	
+SARS-CoV TOR2 RBD (F360S)	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=14.1 nM	surface plasmon resonance	
+SARS-CoV TOR2 RBD (N479K)	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=484 nM	surface plasmon resonance	
+SARS-CoV TOR2 RBD (T487S)	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=352 nM	surface plasmon resonance	
+SARS-CoV SZ3 RBD	Angiotensin-converting enzyme 2 (ACE2)	Homo sapiens	Kd=551 ??M	surface plasmon resonance

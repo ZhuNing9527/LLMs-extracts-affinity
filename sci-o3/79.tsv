@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+NADP+	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=13.25 uM	difference absorption spectroscopy	
+2¡¯,5¡¯-ATP ribose	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=10.46 uM	difference absorption spectroscopy	
+2¡¯,5¡¯-ADP	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=15.38 uM	difference absorption spectroscopy	
+2¡¯-AMP	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=73.49 uM	difference absorption spectroscopy	
+NAD(H)	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=1500 uM	difference absorption spectroscopy	
+Anabaena ferredoxin	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=3.57 uM	difference absorption spectroscopy	
+Spinach ferredoxin	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=1.25 uM	difference absorption spectroscopy	
+Azotobacter uinehdii flavodoxin	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=7.3 uM	difference absorption spectroscopy	
+Apoflavodoxin	Ferredoxin-NADP+ reductase	Anabaena variabilis	Kd=73.8 uM	difference absorption spectroscopy

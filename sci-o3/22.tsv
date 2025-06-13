@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+VWF A1 domain	Platelet glycoprotein Iba-calmodulin fusion protein (GPIba-CaM)	Homo sapiens	Kd=3.3 mM	radioligand binding assay	N/A  
+VWF A1(R545A)	Platelet glycoprotein Iba-calmodulin fusion protein (GPIba-CaM)	Homo sapiens	Kd=0.16 mM	radioligand binding assay	N/A  
+VWF A1 domain	GPIba(G233V)-CaM	Homo sapiens	Kd=1.0 mM	radioligand binding assay	N/A  
+VWF A1 domain	GPIba(M239V)-CaM	Homo sapiens	Kd=0.63 mM	radioligand binding assay	N/A  
+VWF A1 domain	botrocetin	Snake venom	Kd=23 nM	radioligand binding assay	N/A  
+VWF A1(R545A)	botrocetin	Snake venom	Kd=30 nM	radioligand binding assay	N/A  
+VWF A1 domain	Platelet GPIb-IX complex	Homo sapiens	Kd=4.7 mM	radioligand binding assay	N/A  
+VWF A1(R545A)	Platelet GPIb-IX complex	Homo sapiens	Kd=0.11 mM	radioligand binding assay	N/A  
+VWF A1 domain	Platelet glycoprotein Iba-CaM + botrocetin	Homo sapiens	Kd=11.7 nM	radioligand binding assay	N/A  
+VWF A1(R545A)	Platelet glycoprotein Iba-CaM + botrocetin	Homo sapiens	Kd=5.4 nM	radioligand binding assay	N/A

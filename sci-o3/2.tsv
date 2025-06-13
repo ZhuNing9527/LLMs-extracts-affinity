@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+BLIP	TEM-1	Escherichia coli	Kd=0.6 nM	enzyme inhibition assay	
+BLIP	TEM-1	Escherichia coli	Kd=2.3 nM	enzyme inhibition assay	
+BLIP	TEM-1	Escherichia coli	Kd=0.29 nM	fluorescence quench titration	
+BLIP	TEM-1	Escherichia coli	Kd=0.3 nM	surface plasmon resonance

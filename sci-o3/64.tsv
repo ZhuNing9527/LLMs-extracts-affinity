@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+E2	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Kd=160 pM	surface plasmon resonance	
+S4	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Kd=500 pM	surface plasmon resonance	
+E2	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Ki=8.0 pM	steady©\state kinetic assay	
+S4	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Ki=140 pM	steady©\state kinetic assay	
+E2	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Ki=12 pM	discontinuous macromolecular substrate assay	
+S4	Membrane©\type serine protease 1 (MT©\SP1)	Homo sapiens	Ki=160 pM	discontinuous macromolecular substrate assay

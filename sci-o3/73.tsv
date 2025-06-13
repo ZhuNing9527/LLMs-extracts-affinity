@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SEC3	T cell receptor ¦Á¦Â heterodimer (14.3.d TCR)	Mus musculus	Kd=3.0 ?M	surface plasmon resonance	
+SEC3	HLA©\DR1	Homo sapiens	Kd=270 ?M	surface plasmon resonance	
+SEC3 3B1	HLA©\DR1	Homo sapiens	Kd=14 ?M	surface plasmon resonance	
+SEC3 3B2	HLA©\DR1	Homo sapiens	Kd=4.6 ?M	surface plasmon resonance

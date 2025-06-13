@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+cAb©\AMB7	porcine pancreatic ¦Á©\amylase	Sus scrofa	Kd=232 nM	resonant mirror biosensor	  
+cAb©\AMB10	porcine pancreatic ¦Á©\amylase	Sus scrofa	Kd=24 nM	resonant mirror biosensor	  
+cAb©\AMD7	porcine pancreatic ¦Á©\amylase	Sus scrofa	Kd=15 nM	resonant mirror biosensor	  
+cAb©\AMD9	porcine pancreatic ¦Á©\amylase	Sus scrofa	Kd=3.5 nM	resonant mirror biosensor	  
+cAb©\CA04	bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=29 nM	resonant mirror biosensor	  
+cAb©\CA05	bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=72 nM	resonant mirror biosensor	  
+cAb©\CA06	bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=20 nM	resonant mirror biosensor	  
+cAb©\CA10	bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=42 nM	resonant mirror biosensor	  
+cAb©\AMD9	porcine pancreatic ¦Á©\amylase	Sus scrofa	IC50=10 nM	enzyme activity assay	  
+cAb©\AMD7	porcine pancreatic ¦Á©\amylase	Sus scrofa	IC50=25 nM	enzyme activity assay	  
+cAb©\CA06	bovine erythrocyte carbonic anhydrase	Bos taurus	IC50=2 ?M	esterolytic assay	  
+cAb©\CA04	bovine erythrocyte carbonic anhydrase	Bos taurus	IC50=3 ?M	esterolytic assay

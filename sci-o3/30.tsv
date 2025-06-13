@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+Sir1OIR	Orc1BAH	Saccharomyces cerevisiae	Kd=0.20 ??M	isothermal titration calorimetry	1ZHI

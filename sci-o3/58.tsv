@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Im2	Colicin E9 DNase domain	Escherichia coli	Kd=0.13¨C1.2 nM	stopped-flow fluorescence	
+Im8	Colicin E9 DNase domain	Escherichia coli	Kd=2.6¨C7.1 nM	stopped-flow fluorescence	
+Im9	Colicin E9 DNase domain	Escherichia coli	Kd=0.024 fM	stopped-flow fluorescence subunit-exchange assay

@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Jel42	HPr	Escherichia coli	Kd=2.8 nM	fluorescence polarization assay	
+Jel42 Fab	HPr	Escherichia coli	Kd=3.7 nM	fluorescence polarization assay	
+Jel44	HPr	Escherichia coli	Kd=5.1 nM	fluorescence polarization assay	
+Jel44 Fab	HPr	Escherichia coli	Kd=6.3 nM	fluorescence polarization assay	
+Jel323	HPr	Escherichia coli	Kd=5.7 nM	fluorescence polarization assay	
+Jel323 Fab	HPr	Escherichia coli	Kd=5.1 nM	fluorescence polarization assay

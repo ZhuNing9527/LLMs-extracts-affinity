@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+RanGDP	NTF2	Rattus norvegicus	Kd=240 nM	microtiter plate binding	
+RanGDP	NTF2	Rattus norvegicus	Kd=150 nM	isothermal titration calorimetry	
+Gsp1p	NTF2	Rattus norvegicus	Kd=75 nM	fluorescence spectroscopy	
+18R-NSP1	NTF2	Rattus norvegicus	Kd=1.4 mM	intrinsic tryptophan fluorescence	
+18R-NSP1	NTF2	Rattus norvegicus	Kd=1.2 mM	intrinsic tryptophan fluorescence

@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ni2+	VHHmetal	not stated	Kd=30 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(Q1A)	not stated	Kd=50 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(Q1E)	not stated	Kd=21 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(H29Y)	not stated	Kd=1300 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(H33Y)	not stated	Kd=1.68 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(H110Q)	not stated	Kd=1600 mM	isothermal titration calorimetry	4PPT
+Ni2+	VHHmetal(H29Y/H110Q)	not stated	Kd>10000 mM	isothermal titration calorimetry	4PPT
+RNase A	VHHmetal	not stated	Kd=9.0 nM	isothermal titration calorimetry	4POU
+RNase A	VHHmetal(Q1A)	not stated	Kd=5.2 nM	isothermal titration calorimetry	4POU
+RNase A	VHHmetal(H29Y)	not stated	Kd=800 nM	isothermal titration calorimetry	4POU
+RNase A	VHHmetal(H33Y)	not stated	Kd=2 nM	isothermal titration calorimetry	4POU
+RNase A	VHHmetal(H110Q)	not stated	Kd=12.6 nM	isothermal titration calorimetry	4POU

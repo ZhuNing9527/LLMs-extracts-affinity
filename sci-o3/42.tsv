@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+AVPIAQKSE	ML-IAP-BIR (single BIR domain of ML-IAP)	Homo sapiens	Ki=0.20 ?M	fluorescence polarization	1OXQ
+Smac (N-terminal IAP-binding motif)	XIAP-BIR3	Homo sapiens	Ki=0.26 ?M	fluorescence polarization	1G73

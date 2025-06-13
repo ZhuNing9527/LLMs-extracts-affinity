@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+NC41 intact antibody	N9 neuraminidase (NA)	Influenza A virus	Ka=4 ¡Á 10^8 M^-1	ELISA	1NCA  
+NC41 scFv (wild type)	N9 neuraminidase (NA)	Influenza A virus	Ka=2 ¡Á 10^7 M^-1	ELISA	1NCA  
+NC41 scFv (Asn31¡úGln)	N9 neuraminidase (NA)	Influenza A virus	Ka=2 ¡Á 10^7 M^-1	ELISA	1NCA  
+NC41 scFv (Glu96¡úAsp)	N9 neuraminidase (NA)	Influenza A virus	Ka=1 ¡Á 10^7 M^-1	ELISA	1NCA  
+NC41 scFv (Asp97¡úLys)	N9 neuraminidase (NA)	Influenza A virus	Ka=6 ¡Á 10^6 M^-1	ELISA	1NCA  
+NC41 scFv (Asn98¡úGln)	N9 neuraminidase (NA)	Influenza A virus	Ka=8 ¡Á 10^6 M^-1	ELISA	1NCA  
+NC41 antibody	N9 neuraminidase (NA)	Influenza A virus	Ka=1.2 ¡Á 10^8 M^-1	fluorescence quenching	1NCA  
+NC41 Fab	N9 neuraminidase (NA)	Influenza A virus	Ka=1.2 ¡Á 10^8 M^-1	fluorescence quenching	1NCA

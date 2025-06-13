@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+lysozyme	D1.3	Mus musculus	Kd=3.7 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLysO	Homo sapiens	Kd=260 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys3	Homo sapiens	Kd=64 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys6	Homo sapiens	Kd=46 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys7	Homo sapiens	Kd=77 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys8	Homo sapiens	Kd=26 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys9	Homo sapiens	Kd=120 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys10	Homo sapiens	Kd=18 nM	fluorescence quenching relaxation kinetics	
+lysozyme	HuLys11	Homo sapiens	Kd=14 nM	fluorescence quenching relaxation kinetics

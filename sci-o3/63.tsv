@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Im2	E9 DNase	Escherichia coli	Kd=19 nM	 	 
+Im9	E9 DNase	Escherichia coli	Kd=0.1 fM	 	 
+Im9	E9 DNase	Escherichia coli	Kd=18 fM	stopped©\flow fluorescence

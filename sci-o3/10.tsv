@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Wild©\type Ad5 fiber knob	sCAR	Homo sapiens	Kd=14.8 nM	surface plasmon resonance	NA
+Ala406Lys Ad5 fiber knob	sCAR	Homo sapiens	Kd=73.7 nM	surface plasmon resonance	NA
+Arg412Asp Ad5 fiber knob	sCAR	Homo sapiens	Kd=227 nM	surface plasmon resonance	NA
+Asn414Lys Ad5 fiber knob	sCAR	Homo sapiens	Kd=19.2 nM	surface plasmon resonance	NA
+His456Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=17.8 nM	surface plasmon resonance	NA
+Ile458Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=14.3 nM	surface plasmon resonance	NA
+Asn470Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=21.5 nM	surface plasmon resonance	NA
+Phe472Lys Ad5 fiber knob	sCAR	Homo sapiens	Kd=12.7 nM	surface plasmon resonance	NA
+Arg481Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=137 nM	surface plasmon resonance	NA
+Asn482Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=17.9 nM	surface plasmon resonance	NA
+Gly483Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=37.8 nM	surface plasmon resonance	NA
+Asp484Ala Ad5 fiber knob	sCAR	Homo sapiens	Kd=21.7 nM	surface plasmon resonance	NA
+Lys506Ala Ad5 fiber knob	sCAR	Homo sapiens	Kd=20.7 nM	surface plasmon resonance	NA
+Ser507Ala Ad5 fiber knob	sCAR	Homo sapiens	Kd=16.1 nM	surface plasmon resonance	NA
+His508Glu Ad5 fiber knob	sCAR	Homo sapiens	Kd=27.2 nM	surface plasmon resonance	NA
+Lys510Glu+Lys506Ala Ad5 fiber knob	sCAR	Homo sapiens	Kd=26.1 nM	surface plasmon resonance	NA

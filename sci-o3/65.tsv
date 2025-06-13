@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Nef?1-57	Hck SH3 domain	Homo sapiens	Kd=1.5 uM	isothermal titration calorimetry	-  
+Nef?1-57	Fyn SH3 domain	Homo sapiens	Kd=15.8 uM	isothermal titration calorimetry	1AVZ  
+Nef?1-57	Lck SH3 domain	Homo sapiens	Kd=10.6 uM	isothermal titration calorimetry	-  
+Nef?1-57	Src SH3 domain	Homo sapiens	Kd=14.3 uM	isothermal titration calorimetry	-  
+Nef?1-57b	Hck SH3 domain	Homo sapiens	Kd=1.5 uM	isothermal titration calorimetry	-  
+Nef?1-57b	Src SH3 domain	Homo sapiens	Kd=8.3 uM	isothermal titration calorimetry	-  
+Nef full length	Hck SH3 domain	Homo sapiens	Kd=0.6 uM	isothermal titration calorimetry	-  
+Nef full length	Src SH3 domain	Homo sapiens	Kd=11.4 uM	isothermal titration calorimetry	-

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+RGS9	Gat	bovine	Kd=185 nM	fluorescence spectroscopy	
+RGS9	Gai1	bovine	Kd=2 mM	fluorescence spectroscopy

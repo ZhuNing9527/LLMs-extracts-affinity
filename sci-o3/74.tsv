@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+rat CD48	rat CD2	Rattus norvegicus	Kd=2.5 pM	sucrose©\gradient sedimentation	N/A
+rat CD48	rat CD2	Rattus norvegicus	Kd=60¨C90 pM	surface plasmon resonance	N/A
+human CD58	human CD2	Homo sapiens	Kd=0.4 pM	equilibrium binding assay	N/A
+human CD58	human CD2	Homo sapiens	Kd=9¨C22 pM	surface plasmon resonance	N/A

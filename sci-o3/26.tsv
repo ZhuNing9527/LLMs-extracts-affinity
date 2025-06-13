@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase	baker¡¯s yeast	KA=10¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase E291Q	baker¡¯s yeast	KA=11¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase E32Q	baker¡¯s yeast	KA=3.6¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase E35Q	baker¡¯s yeast	KA=3.2¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase A193F	baker¡¯s yeast	KA=2.9¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase D34N	baker¡¯s yeast	KA=2.5¡Á10^4 M-1	isothermal titration calorimetry	N/A
+Horse ferricytochrome c	baker¡¯s yeast cytochrome c peroxidase E290N	baker¡¯s yeast	KA=2.3¡Á10^4 M-1	isothermal titration calorimetry	N/A

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+Porcine ribonuclease inhibitor	Bovine pancreatic RNase A	Bos taurus	Ki=74 fM	enzyme activity assay	  
+Recombinant porcine ribonuclease inhibitor	Bovine pancreatic RNase A	Bos taurus	Ki=67 fM	enzyme activity assay
