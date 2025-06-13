@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns.
+
+In this case, the text describes a study about an antibody (AL-57) targeting the LFA-1 integrin. I'll extract the relevant information:
+
+```tsv
+AL-57	LFA-1	Homo sapiens	Kd=23 nM	surface plasmon resonance	None reported
+```
+
+Let me break down the extraction:
+
+1. Ligand name: AL-57 (a monoclonal antibody)
+2. Receptor protein name: LFA-1 (lymphocyte function-associated antigen 1)
+3. Receptor protein organism source: Homo sapiens (human)
+4. Affinity value: Kd=23 nM (from Table 3 in the text, for the high-affinity I domain)
+5. Wet lab method for affinity measurement: surface plasmon resonance (SPR)
+6. Corresponding complex PDBID: None reported in the text
+
+The affinity value is specifically for the high-affinity (HA) state of the LFA-1 I domain, as measured by surface plasmon resonance (SPR) in the study.

@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there are no direct measurements of ligand-receptor binding affinity that match the exact requirements. The paper focuses on interactions between Rac GTPases and Phospholipase C-¦Â (PLC-¦Â) isozymes, particularly PLC-¦Â2.
+
+Here's the closest match I can provide in the requested format:
+
+```
+Rac1	Phospholipase C-¦Â2	Homo sapiens	Kd=5.3 ?M	surface plasmon resonance	None
+Rac2	Phospholipase C-¦Â2	Homo sapiens	Kd=7.0 ?M	surface plasmon resonance	None
+Rac3	Phospholipase C-¦Â2	Homo sapiens	Kd=9.3 ?M	surface plasmon resonance	None
+```
+
+Notes:
+- The paper reports dissociation constants (Kd) for interactions between Rac GTPases and PLC-¦Â2
+- No specific peptide ligand is identified
+- No PDB complex ID is provided
+- The organism source is Homo sapiens (human)
+- The wet lab method is surface plasmon resonance
+
+Would you like me to elaborate on any part of this extraction?

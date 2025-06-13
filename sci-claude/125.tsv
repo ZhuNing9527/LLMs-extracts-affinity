@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data according to the specified requirements. However, in this particular text, there are no direct measurements of ligand-receptor binding affinity that match the exact format requested. The text is a structural biology paper about the XRCC1 protein and its interaction with DNA polymerase ¦Â, focusing on structural changes upon oxidation.
+
+The closest relevant information I can extract is:
+
+```
+XRCC1-NTD	DNA polymerase ¦Â	Homo sapiens	Kd=110 ¡À 10 nM	fluorescence titration	3K75
+XRCC1-NTD I4D	DNA polymerase ¦Â	Homo sapiens	Kd=12 ¡À 2 nM	fluorescence titration	3K77
+```
+
+Notes:
+- The Kd values are for the interaction between XRCC1-NTD and DNA polymerase ¦Â
+- The organism source is Homo sapiens
+- The wet lab method is fluorescence titration
+- The PDB IDs are provided for the crystal structures of the complexes
+- The ligand is the XRCC1-NTD protein variant
+- The receptor is DNA polymerase ¦Â
+
+Would you like me to elaborate on any part of this extraction?

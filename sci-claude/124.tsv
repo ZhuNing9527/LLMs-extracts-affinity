@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, here's the TSV output:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HIV-1 Nef protein	Hck SH3 domain	Homo sapiens	Kd=250 nM	surface plasmon resonance	N/A
+HIV-1 Nef protein	Fyn SH3 domain	Homo sapiens	Kd>20 ?M	surface plasmon resonance	N/A
+HIV-1 Nef PxxP peptide	Hck SH3 domain	Homo sapiens	Kd=91 ?M	tryptophan fluorescence	N/A
+HIV-1 Nef PxxP peptide	Fyn SH3 domain	Homo sapiens	Kd=202 ?M	tryptophan fluorescence	N/A
+```
+
+Notes:
+- The data is extracted directly from the literature text
+- Each line represents a unique wet test measurement of affinity
+- The columns follow the specified order
+- No PDBID was provided in the text, so "N/A" is used
+- Affinity values are reported in the specified format
+- Wet lab methods are directly quoted from the text

@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data according to the specified requirements. Here's the TSV output:
+
+```
+Arfaptin	Rac1	Homo sapiens	Kd=3 ?M	isothermal titration calorimetry	1I4D
+Arfaptin	Rac1	Homo sapiens	Kd=4.5 ?M	isothermal titration calorimetry	1I4T
+Arfaptin	Arf1	Homo sapiens	Kd<2.5 ?M	isothermal titration calorimetry	N/A
+Arfaptin	Arf6	Homo sapiens	Kd<2.5 ?M	isothermal titration calorimetry	N/A
+```
+
+Explanation of extraction:
+1. Ligand name: Arfaptin (protein that binds to GTPases)
+2. Receptor protein name: Rac1, Arf1, Arf6
+3. Receptor protein organism source: Homo sapiens (human)
+4. Affinity values: Extracted from isothermal titration calorimetry (ITC) measurements
+5. Wet lab method: Isothermal titration calorimetry
+6. Corresponding complex PDBID: Where available (for Rac complexes), otherwise N/A
+
+Note: The values are extracted directly from the text, specifically from the ITC measurements described in the paper.

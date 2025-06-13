@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+PEA-15	ERK1	Homo sapiens	Kd=0.18 ?M	fluorescence anisotropy	N/A
+PEA-15	ERK2	Homo sapiens	Kd=0.13 ?M	fluorescence anisotropy	N/A
+```
+
+Key observations:
+- The ligand is PEA-15, a small anti-apoptotic protein
+- The receptor proteins are ERK1 and ERK2 (extracellular signal-regulated kinases)
+- Organism source is Homo sapiens
+- Affinity was measured using fluorescence anisotropy
+- The dissociation constants (Kd) are in the range of 0.13-0.18 ?M
+- No specific PDB complex ID was mentioned in the text
+
+The extraction follows the specified requirements:
+1. Directly extracted from the literature
+2. TSV format
+3. 6 columns as requested
+4. No inferred or tampered data

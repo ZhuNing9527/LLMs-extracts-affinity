@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Hirustasin	Tissue kallikrein	Hirudo medicinalis	Ki=13 nM	Not specified	N/A
+Hirustasin	Trypsin (bovine)	Bos taurus	Ki=7 nM	Not specified	N/A
+Hirustasin	Chymotrypsin (bovine)	Bos taurus	Ki=6.4 nM	Not specified	N/A
+Hirustasin	Cathepsin G (human)	Homo sapiens	Ki=2.9 nM	Not specified	N/A
+Hirustasin	Plasmin (human)	Homo sapiens	Ki=138 nM	Not specified	N/A
+```
+
+Notes:
+- The wet lab method for affinity measurement was not explicitly specified in the text
+- No corresponding PDB complex ID was provided
+- The organism sources are inferred from the species mentioned in the text
+- Affinity values are reported as Ki (inhibition constant) in nanomolar range
+- The data represents the inhibition of various proteases by Hirustasin from the medical leech Hirudo medicinalis

@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text according to the specified requirements. Based on the text, here's the TSV output:
+
+```
+Engineered lipocalin	CTLA-4	Homo sapiens	Kd=240 pM	surface plasmon resonance	3BX7
+```
+
+Explanation of the extraction:
+1. Ligand name: "Engineered lipocalin" (specifically the variant PRS-010#005)
+2. Receptor protein name: CTLA-4
+3. Receptor protein organism source: Homo sapiens
+4. Affinity value: Kd=240 pM (from the text: "exhibit KD values of 2.7 nM and even of 240 pM")
+5. Wet lab method: surface plasmon resonance (Biacore analysis mentioned in the text)
+6. Corresponding complex PDBID: 3BX7 (from the text: "Data deposition: The atomic coordinates have been deposited in the Protein Data Bank, www.pdb.org (PDB ID codes 3BX7 and 3BX8)")
+
+The extraction follows the specified requirements:
+- Directly extracted from the literature
+- No inference or tampering with the data
+- TSV format
+- 6 columns in the specified order
+- Each line represents one wet test measurement of affinity

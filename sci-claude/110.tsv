@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Neurexin-1b	Neuroligin-1	Homo sapiens	Kd=97 nM	isothermal titration calorimetry	Not specified in text
+Neurexin-1b	Neuroligin-2	Homo sapiens	Kd=830 nM	isothermal titration calorimetry	Not specified in text
+```
+
+Notes:
+- The text provides two binding measurements between Neurexin-1b and different Neuroligin variants
+- The organism source is inferred from the context of the paper (Stanford University researchers studying human proteins)
+- The affinity values are directly quoted from the isothermal titration calorimetry (ITC) measurements
+- No specific PDB ID for the complex was mentioned in the text
+- The wet lab method is explicitly stated as isothermal titration calorimetry
+
+The data is presented in TSV format with exactly 6 columns as requested, following the specified extraction guidelines.

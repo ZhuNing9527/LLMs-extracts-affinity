@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I found no direct measurements of ligand-receptor binding affinity that match the exact format requested. The paper is primarily about characterizing hepatitis B virus core and e-antigens and their interactions with monoclonal antibodies.
+
+However, I'll provide a TSV output with the available information from the text:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HBeAg	HBc/eAg dimer	Hepatitis B virus	Kd=3.3¡Á10?9 M (for Cp149d)	surface plasmon resonance	Not specified
+HBeAg	HBc/eAg dimer	Hepatitis B virus	Kd=1.2¡Á10?7 M (for Cp(?10)149d)	surface plasmon resonance	Not specified
+```
+
+Notes:
+- The values are derived from surface plasmon resonance measurements of antibody (e6) binding to hepatitis B virus core/e-antigen dimers
+- No specific PDB ID was mentioned for these complexes
+- The organism source is the virus itself, not a host organism
+- These are antibody-antigen interactions, not traditional ligand-receptor binding measurements
+
+Would you like me to clarify anything about this extraction?

@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there are no clear ligand-receptor binding affinity measurements. The text primarily discusses the subunit interactions of tryptophan synthase from Pyrococcus furiosus and Escherichia coli.
+
+The closest relevant data points I can extract are:
+
+```
+Pyrococcus furiosus	Tryptophan synthase ¦Á subunit	Pyrococcus furiosus	K=1.6 ¡Á 10^8 M^-1	isothermal titration calorimetry	N/A
+Pyrococcus furiosus	Tryptophan synthase ¦Â subunit	Pyrococcus furiosus	K=1.6 ¡Á 10^8 M^-1	isothermal titration calorimetry	N/A
+```
+
+These entries represent the subunit association constants for the tryptophan synthase from Pyrococcus furiosus, measured at 40¡ãC using isothermal titration calorimetry. However, they do not strictly meet the original requirements for ligand-receptor binding, as these are protein subunit interactions rather than ligand-receptor interactions.
+
+Would you like me to clarify anything about the data extraction or the text?

@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data according to the specified requirements. Here's the TSV output:
+
+```
+Antibody ICSM 18 Fab fragment	Prion protein (PrP)	Homo sapiens	Kd=0.1 nM	ELISA	2w9d
+```
+
+Explanation of the extraction:
+1. Ligand name: "Antibody ICSM 18 Fab fragment"
+2. Receptor protein name: "Prion protein (PrP)"
+3. Receptor protein organism source: "Homo sapiens"
+4. Affinity value: "Kd=0.1 nM" (from the text: "ICSM 18 was our most potent antibody... with affinity for PrPC (Kd 0.1 nM)")
+5. Wet lab method: "ELISA" (based on the methods section describing affinity determination)
+6. Corresponding complex PDBID: "2w9d" (from the text: "Data deposition: The atomic coordinates have been deposited in the Brookhaven Protein Data Bank (accession nos. 2w9d and 2w9e).")
+
+The extraction follows the specified requirements, using only the information directly present in the text without inference or tampering.

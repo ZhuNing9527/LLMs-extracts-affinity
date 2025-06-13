@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data in the requested TSV format. However, in this specific text, there are no direct measurements of ligand-receptor interactions with explicit affinity values that match the required format. The paper is primarily about the structural interactions between proteins Arc1p, MetRS, and GluRS in yeast, focusing on their complex formation mechanisms.
+
+Since no direct ligand-receptor affinity measurements are present, I'll output an empty TSV to indicate no extractable data:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```
+
+The paper discusses protein-protein interactions using techniques like surface plasmon resonance (SPR) and pull-down assays, but does not provide ligand-receptor binding affinity data in the specific format requested (e.g., Kd=X nM). The study is more focused on characterizing the structural interactions between yeast proteins Arc1p, MetRS, and GluRS.

@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following extraction:
+
+```
+Sonic hedgehog	Patched1	Homo sapiens	Kd=1.1 nM	biolayer interferometry	3MXV
+Sonic hedgehog	Patched1	Homo sapiens	Kd=0.31 nM	biolayer interferometry	3MXV
+Sonic hedgehog	Patched1	Homo sapiens	Kd=0.7 nM	isothermal titration calorimetry	3MXV
+```
+
+Explanation of the extraction:
+1. The text describes the binding of the 5E1 antibody to Sonic hedgehog (Shh) and its interaction with the Patched1 receptor.
+2. The organism source is Homo sapiens.
+3. Affinity values are extracted from different measurement techniques:
+   - Biolayer interferometry shows Kd values of 1.1 nM and 0.31 nM
+   - Isothermal titration calorimetry shows a Kd of 0.7 nM
+4. The corresponding complex PDBID is 3MXV
+5. The wet lab methods are biolayer interferometry and isothermal titration calorimetry
+
+The data is presented in TSV format with the 6 specified columns.

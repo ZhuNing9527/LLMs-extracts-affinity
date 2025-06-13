@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, I notice that this paper is a detailed study of BPTI (Bovine Pancreatic Trypsin Inhibitor) mutations and its interactions with trypsin and chymotrypsin, so the data will be specific to this protein system.
+
+Here's the extracted data in TSV format:
+
+```
+Bovine Pancreatic Trypsin Inhibitor (wild-type)	¦Â-Trypsin	Bos taurus	Kd=5¡Á10^-14 M	enzyme activity assay	1PTI
+Bovine Pancreatic Trypsin Inhibitor (Lys-15-Ala mutant)	¦Â-Trypsin	Bos taurus	Kd=1.4¡Á10^-6 M	enzyme activity assay	1PTI
+Bovine Pancreatic Trypsin Inhibitor (wild-type)	¦Á-Chymotrypsin	Bos taurus	Kd=1.8¡Á10^-3 M	enzyme activity assay	1PTI
+Bovine Pancreatic Trypsin Inhibitor (Lys-15-Ala mutant)	¦Á-Chymotrypsin	Bos taurus	Kd=3.3¡Á10^-7 M	enzyme activity assay	1PTI
+```
+
+Key notes:
+1. The data is extracted directly from the scientific literature text.
+2. The affinity values are reported as equilibrium dissociation constants (Kd).
+3. The wet lab method is enzyme activity assay, which involves monitoring the release of p-nitroanilide at 405 nm.
+4. The organism source is Bos taurus (cattle) for both the protein and the enzyme.
+5. The complex PDBID is 1PTI for all entries.

@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns.
+
+After carefully reviewing the text, I found one potential entry:
+
+```tsv
+Rac1	p67phox	Homo sapiens	Kd=2.7 ?M	isothermal titration calorimetry	None
+```
+
+Explanation of the extraction:
+1. Ligand name: Rac1 (the small GTPase)
+2. Receptor protein name: p67phox
+3. Receptor protein organism source: Homo sapiens
+4. Affinity value: Kd=2.7 ?M (from the isothermal titration calorimetry results)
+5. Wet lab method: isothermal titration calorimetry
+6. Corresponding complex PDBID: None (no PDB ID was explicitly mentioned in the text)
+
+Note that this is the only clear affinity measurement I could extract from the text. The paper describes a structural study of the Rac1/p67phox interaction, and the 2.7 ?M value is for the binding affinity of Rac1¡¤Q61L¡¤GTP to the N-terminal domain of p67phox.
+
+Would you like me to elaborate on any part of the extraction?

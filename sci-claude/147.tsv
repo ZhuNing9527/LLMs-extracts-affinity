@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data according to the specified requirements. However, I notice that this text is primarily about the structural analysis of a tissue factor (TF) and an antibody (5G9), and does not contain a direct affinity measurement that fits the exact format requested.
+
+Here's the closest match I can provide in TSV format:
+
+```
+Fab 5G9	Tissue Factor	Homo sapiens	Kd not specified	X-ray crystallography	1TF5
+```
+
+Notes:
+- The text describes a structural study of an antibody (Fab 5G9) binding to Tissue Factor
+- The organism source is human (Homo sapiens)
+- No specific binding affinity (Kd) is mentioned in the text
+- The method used was X-ray crystallography
+- The corresponding PDB ID appears to be 1TF5 (based on the context of the paper)
+
+I want to emphasize that this extraction does not fully meet the original requirements, as the text is more focused on structural characterization rather than providing a precise affinity measurement. A more comprehensive extraction would require additional experimental details not present in this text.
+
+Would you like me to elaborate on any part of the extraction or explain the limitations of the data source?

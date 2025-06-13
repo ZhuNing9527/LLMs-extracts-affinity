@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, I notice that this particular text is a detailed structural biology paper about complement receptor 3 (CR3) and its interaction with C3d, and does not contain multiple distinct ligand-receptor binding measurements. I'll extract the most relevant information from the text:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+C3d	Complement Receptor 3 (CR3) I domain	Homo sapiens	Kd=0.45 ¦ÌM	surface plasmon resonance	4M76
+iC3b	Complement Receptor 3 (CR3) I domain	Homo sapiens	Kd=0.6 ¦ÌM	isothermal titration calorimetry	4M76
+```
+
+Key notes about the extraction:
+- The paper describes the interaction between C3d/iC3b and the CR3 I domain
+- Organism source is Homo sapiens (human)
+- Two different affinity measurements are reported using different methods
+- The corresponding PDB ID for the structural complex is 4M76
+
+The extraction follows the specified requirements:
+1. Ligand name is the complement fragment (C3d/iC3b)
+2. Receptor protein name is the CR3 I domain
+3. Organism source is human
+4. Affinity values are in the specified format
+5. Wet lab methods are surface plasmon resonance and isothermal titration calorimetry
+6. Corresponding complex PDBID is provided

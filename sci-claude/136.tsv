@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns. However, after carefully reviewing the text, I did not find a complete set of measurements that match all the required columns. 
+
+Here's the most relevant data I could extract:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Leukemia inhibitory factor (LIF)	gp130	Not specified	Kd = 80 nM	Isothermal titration calorimetry	Not provided
+```
+
+A few important notes:
+1. The text provides details about the LIF-gp130 interaction, but does not specify the organism source for gp130.
+2. The affinity value is derived from the isothermal titration calorimetry (ITC) measurements mentioned in the text.
+3. No specific PDB ID for the complex was mentioned.
+
+Would you like me to elaborate on the data extraction process or provide more context from the text?

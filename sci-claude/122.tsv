@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+IIAGlc	Glycerol kinase	Escherichia coli	Kd=11 ?M	enzyme activity assay	Not specified
+```
+
+A few notes:
+- The text is a detailed biochemistry paper about protein interactions between IIAGlc (a phosphocarrier protein) and Glycerol kinase from Escherichia coli.
+- The affinity value (Kd) of 11 ?M is derived from the analysis in the text, specifically from the parameter estimates in the Results section.
+- The wet lab method is an enzyme activity assay, as described in the Experimental Procedures.
+- No specific PDB ID is mentioned for this complex.
+
+Would you like me to elaborate on any part of the extraction?

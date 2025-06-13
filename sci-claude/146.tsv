@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, after carefully reviewing the text, I did not find a complete set of measurements that match all 6 required columns. The text is a structural biology paper about actin-binding proteins, primarily discussing the structural mechanism of twinfilin's interaction with actin, but not providing specific binding affinity measurements.
+
+Here's an empty TSV output to reflect the lack of extractable data:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```
+
+If you would like me to extract data, I would need additional scientific literature text that contains specific binding affinity measurements with all the required columns. This particular text is a structural characterization paper that does not provide the specific binding measurements you're seeking.

@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the provided scientific literature text, I cannot extract any specific ligand-receptor binding affinity data that meets the exact requirements of the TSV format. The text appears to be an introduction to a scientific paper about hemoglobin capture by Staphylococcus aureus, discussing iron acquisition mechanisms, but does not provide explicit affinity measurements.
+
+The text discusses:
+- Hemoglobin (Hb) as an iron source
+- Staphylococcus aureus iron-regulated surface determinant (Isd) proteins
+- Mechanisms of bacterial iron scavenging
+
+However, it lacks the specific details required for the TSV output, such as:
+- Precise ligand name
+- Exact receptor protein name
+- Specific affinity value
+- Wet lab method for affinity measurement
+- Complex PDB ID
+
+If you have the full text of the scientific literature, including methods or results sections, I would be happy to help extract the required data. This excerpt appears to be only the introduction, which typically does not contain detailed binding affinity measurements.

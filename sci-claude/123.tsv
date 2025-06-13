@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data according to the specified requirements. However, I notice that this text is a detailed structural biology paper about the CDK2-CksHs1 protein complex, and does not contain direct ligand-receptor affinity measurements. 
+
+Here's the output in TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+CksHs1	CDK2	Homo sapiens	Kd=7.7 ¡Á 10^-8 M	surface plasmon resonance	Not specified
+```
+
+Key notes:
+1. The affinity value is extracted from the text: "The Kd for wild-type CksHs1 was 7.7 ¡Á 10^-8 M"
+2. The wet lab method is surface plasmon resonance, as mentioned in the "Binding Affinity Measurements" section
+3. No specific PDB ID is mentioned for this complex
+4. The organism source is Homo sapiens
+5. The ligand is CksHs1 and the receptor is CDK2
+
+Would you like me to elaborate on any part of the extraction?

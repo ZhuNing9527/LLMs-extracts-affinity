@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Fab HyHEL-63	Hen egg white lysozyme (HEL)	Gallus gallus	KA=3.5 ¡Á 10^8 M^-1	surface plasmon resonance	1dqj
+```
+
+Key observations:
+- The text describes a detailed structural study of the Fab HyHEL-63 antibody binding to hen egg white lysozyme (HEL)
+- The affinity was measured using surface plasmon resonance
+- The complex structure was deposited in the Protein Data Bank with ID 1dqj
+- The organism source is Gallus gallus (chicken), as hen egg white lysozyme comes from chicken eggs
+
+The affinity is reported as an association constant (KA) of 3.5 ¡Á 10^8 M^-1, which corresponds to the standard format requested in the output requirements.

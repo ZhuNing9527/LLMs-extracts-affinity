@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there are no direct measurements of ligand-receptor binding affinity. The paper focuses on the structural and functional analysis of SUMO-like domains (SLDs) in the Nip45 protein and its interaction with the Ubc9 enzyme.
+
+The closest relevant data point I can extract is:
+
+```
+SLD2Nip45	Ubc9	Mus musculus	Kd=2.81 ?M	isothermal titration calorimetry	N/A
+```
+
+Notes:
+- Ligand name: SLD2Nip45 (SUMO-like domain 2 of Nip45 protein)
+- Receptor protein name: Ubc9 (sumoylation conjugating enzyme)
+- Organism source: Mus musculus (mouse)
+- Affinity value: Kd=2.81 ?M 
+- Measurement method: isothermal titration calorimetry
+- Complex PDBID: Not available (N/A)
+
+The text does not contain multiple binding measurements, so this is the only entry that can be extracted following the specified requirements.

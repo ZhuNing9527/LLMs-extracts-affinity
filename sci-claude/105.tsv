@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data points:
+
+```tsv
+Staphylococcal enterotoxin C3 (SEC3)	murine T cell receptor ¦Â chain 8.2 (mV¦Â8.2)	Mus musculus	Kd=12 ?M	isothermal titration calorimetry	2AQ3
+Staphylococcal enterotoxin C3 (SEC3-1D8)	murine T cell receptor ¦Â chain 8.2 (mV¦Â8.2)	Mus musculus	Kd=3.6 ?M	isothermal titration calorimetry	3BYT
+Staphylococcal enterotoxin C3 (SEC3-1D3)	murine T cell receptor ¦Â chain 8.2 (mV¦Â8.2)	Mus musculus	Kd=0.57 ?M	isothermal titration calorimetry	3BYY
+Staphylococcal enterotoxin C3 (SEC3-1A4)	murine T cell receptor ¦Â chain 8.2 (mV¦Â8.2)	Mus musculus	Kd=0.096 ?M	isothermal titration calorimetry	3BZD
+```
+
+The data is extracted directly from the literature, following the specified column order:
+1. Ligand name
+2. Receptor protein name
+3. Receptor protein organism source
+4. Affinity value
+5. Wet lab method for affinity measurement
+6. Corresponding complex PDBID

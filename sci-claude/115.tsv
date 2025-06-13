@@ -1,0 +1,23 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. In this case, there's only one set of measurements related to protein interactions:
+
+```
+HPr	HprK/P	Bacillus subtilis	Kd=45 nM	surface plasmon resonance	N/A
+Crh	HprK/P	Bacillus subtilis	Kd=39 nM	surface plasmon resonance	N/A
+```
+
+Notes:
+- The ligands are HPr and Crh
+- The receptor protein is HprK/P
+- The organism source is Bacillus subtilis for both
+- Affinity values are reported as dissociation constants (Kd)
+- The wet lab method is surface plasmon resonance
+- No corresponding PDB complex ID was provided, so I used N/A
+
+The data follows the specified requirements:
+1. Ligand name
+2. Receptor protein name
+3. Receptor protein organism source
+4. Affinity value
+5. Wet lab method for affinity measurement
+6. Corresponding complex PDBID

@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+PMP-C	¦Á-chymotrypsin	Bos taurus	Ki=0.2 nM	enzyme activity assay	
+PMP-C	Human leukocyte elastase	Homo sapiens	Ki=0.12 ¦ÌM	enzyme activity assay	
+PMP-D2	¦Á-chymotrypsin	Bos taurus	Ki=1.5 ¦ÌM	enzyme activity assay	
+PMP-D2 (R29L)	¦Á-chymotrypsin	Bos taurus	Ki=0.78 ¦ÌM	enzyme activity assay	
+PMP-D2 (R29L)	Human leukocyte elastase	Homo sapiens	Ki=12.7 nM	enzyme activity assay	
+PMP-D2 (R29L/K30M)	Human leukocyte elastase	Homo sapiens	Ki=3 nM	enzyme activity assay	
+HI	¦Á-chymotrypsin	Bos taurus	Ki=340 ¦ÌM	enzyme activity assay	
+HI (R29L)	¦Á-chymotrypsin	Bos taurus	Ki=0.067 ¦ÌM	enzyme activity assay	
+HI (R29L)	Human leukocyte elastase	Homo sapiens	Ki=38.2 nM	enzyme activity assay	
+
+Note: No PDB IDs were provided in the text, so those columns are left blank.

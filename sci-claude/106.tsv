@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+CK2b1-193	CK2a1-335	Homo sapiens	Kd=12.6 nM	isothermal titration calorimetry	N/A
+```
+
+Notes on extraction:
+- Ligand name: CK2b1-193 (the CK2b subunit)
+- Receptor protein name: CK2a1-335 (the CK2a catalytic subunit)
+- Organism source: Homo sapiens (human)
+- Affinity value: Directly quoted from the text as Kd=12.6 nM
+- Wet lab method: Isothermal titration calorimetry (ITC)
+- Complex PDBID: Not provided in the text (marked as N/A)
+
+The extraction follows the specified requirements:
+1. Directly extracted from the literature text
+2. No inference or tampering with the data
+3. TSV format with 6 columns
+4. Each line represents one wet test measurement of affinity

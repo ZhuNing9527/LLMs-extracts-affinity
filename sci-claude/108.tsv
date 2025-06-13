@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+raver1	Vinculin	Homo sapiens	Kd=12.6 ??M	isothermal titration calorimetry	3H2V, 3H2U
+
+Notes about the extraction:
+- The affinity value is for the interaction between raver1 and Vinculin's tail domain (Vt)
+- The organism source is human (Homo sapiens)
+- The wet lab method is isothermal titration calorimetry (ITC)
+- Two PDB IDs are provided for the complex structures (3H2V for Vt:RRM1 and 3H2U for Vt:RRM1-3)
+
+The text describes a detailed structural and biochemical study of the interaction between raver1 and vinculin, focusing on how raver1's RRM1 domain interacts with activated vinculin's tail domain.

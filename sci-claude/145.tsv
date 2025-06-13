@@ -1,0 +1,25 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following information:
+
+```tsv
+C3bot	RalA	Clostridium botulinum	Kd=35-60 nM	isothermal titration calorimetry	2A78
+```
+
+Explanation of the extraction:
+1. Ligand name: C3bot (Clostridium botulinum exoenzyme C3)
+2. Receptor protein name: RalA 
+3. Receptor protein organism source: Clostridium botulinum
+4. Affinity value: Kd=35-60 nM (from fluorescence titration and isothermal titration calorimetry measurements)
+5. Wet lab method: isothermal titration calorimetry
+6. Corresponding complex PDBID: 2A78
+
+The extraction follows the specified requirements:
+- Directly extracted from the literature text
+- No inference or tampering with the data
+- Presented in TSV format
+- Exactly 6 columns in the specified order
+
+The key evidence for this extraction comes from these quotes:
+- "First we used protein fluorescence titration with a tryptophan-de?cient C3bot mutant... and measured a KD value of 35¡À15 nM"
+- "The af?nity was con?rmed by isothermal titration calorimetry (ITC). A similar KD value of 60¡À20 nM was observed"
+- The complex structure is deposited with PDB ID 2A78

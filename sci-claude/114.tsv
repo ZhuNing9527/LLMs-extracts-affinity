@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following extraction:
+
+```tsv
+Ubiquitin	EDD UBA domain	Homo sapiens	Kd=60 ?M	isothermal titration calorimetry	2QHO
+```
+
+Explanation of the extraction:
+1. Ligand name: "Ubiquitin"
+2. Receptor protein name: "EDD UBA domain"
+3. Receptor protein organism source: "Homo sapiens"
+4. Affinity value: "Kd=60 ?M" (from the ITC measurement section)
+5. Wet lab method: "isothermal titration calorimetry"
+6. Corresponding complex PDBID: "2QHO" (mentioned in the paper's acknowledgments)
+
+The extraction follows the specified requirements:
+- Extracted directly from the literature
+- In TSV format
+- 6 columns in the specified order
+- Affinity value follows the required format
+- Wet lab method is a recognized technique

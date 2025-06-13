@@ -1,0 +1,23 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HIV-1 capsid protein	Cyclophilin A	Homo sapiens	Kd=16 ?M	isothermal titration calorimetry	Not specified
+HIV-1 capsid protein (CA151)	Cyclophilin A	Homo sapiens	Kd=16 ?M	isothermal titration calorimetry	Not specified
+```
+
+Key observations:
+- The text describes the interaction between the HIV-1 capsid protein and human Cyclophilin A
+- Two measurements are reported: one for full-length capsid protein (CA) and one for truncated capsid protein (CA151)
+- The affinity is consistently measured at Kd=16 ?M
+- The primary method of affinity measurement was isothermal titration calorimetry (ITC)
+- No specific PDB complex ID was mentioned in the text
+
+The extraction follows the specified requirements:
+1. Ligand name is the HIV-1 capsid protein
+2. Receptor protein name is Cyclophilin A
+3. Organism source is Homo sapiens
+4. Affinity value is in the specified Kd format
+5. Wet lab method is isothermal titration calorimetry
+6. No corresponding complex PDBID was provided

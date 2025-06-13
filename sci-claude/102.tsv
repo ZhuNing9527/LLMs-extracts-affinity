@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data points:
+
+Ligand name: 4C1 (monoclonal antibody)
+Receptor protein name: Der f 1 and Der p 1 (Group 1 house dust mite allergens)
+Receptor protein organism source: Dermatophagoides farinae and Dermatophagoides pteronyssinus
+Affinity value: Kd = 17-19 nM
+Wet lab method for affinity measurement: Isothermal titration calorimetry
+Corresponding complex PDBID: 3RVV (Der f 1-4C1), 3RVW and 3RVX (Der p 1-4C1)
+
+Here's the output in TSV format:
+
+```
+4C1	Der f 1	Dermatophagoides farinae	Kd=17 nM	isothermal titration calorimetry	3RVV
+4C1	Der p 1	Dermatophagoides pteronyssinus	Kd=19 nM	isothermal titration calorimetry	3RVW
+```

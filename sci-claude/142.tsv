@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+VEGF	KDR (kinase domain receptor)	Homo sapiens	Not directly specified	Not directly specified	1BJ1
+VEGF	Flt-1	Homo sapiens	Not directly specified	Not directly specified	Not specified in text
+```
+
+Notes:
+- The text provides detailed structural information about VEGF and its interactions with two receptors (KDR and Flt-1)
+- Specific affinity values and wet lab methods are not explicitly stated in the text
+- The PDB ID for the VEGF-Fab complex is 1BJ1
+- The organism source is inferred from the context of the research
+
+The extraction follows the guidelines:
+1. Directly extracted from the text
+2. No inferences or tampering with the data
+3. TSV format with 6 columns
+4. Columns filled with available information
