@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following information:
+
+```tsv
+Lysozyme	Anti-lysozyme antibody D1.3	Mus musculus	Kd=3.7 nM	fluorescence spectroscopy	1REI
+Lysozyme	Humanized anti-lysozyme antibody HuLysO	Homo sapiens	Kd=260 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys3	Homo sapiens	Kd=64 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys6	Homo sapiens	Kd=46 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys7	Homo sapiens	Kd=77 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys8	Homo sapiens	Kd=26 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys9	Homo sapiens	Kd=120 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys10	Homo sapiens	Kd=18 nM	fluorescence spectroscopy	-
+Lysozyme	Humanized anti-lysozyme antibody HuLys11	Homo sapiens	Kd=14 nM	fluorescence spectroscopy	-
+```
+
+Notes:
+- The ligand is consistently lysozyme
+- The receptor protein is the anti-lysozyme antibody with various designations
+- The organism source for the mouse original antibody is Mus musculus, while the humanized versions are from Homo sapiens
+- Affinity values are reported as dissociation constants (Kd)
+- The wet lab method is fluorescence spectroscopy
+- Only the original D1.3 antibody has a corresponding PDB ID (1REI), the humanized versions do not have a listed complex PDBID

@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data according to the specified requirements. Here's the TSV output:
+
+```
+Lymphotactin	M3 decoy receptor	Mus musculus	Kd=Not specified	Surface plasmon resonance	Not specified
+Monocyte chemoattractant protein 1 (CCL2)	M3 decoy receptor	Mus musculus	Kd=Not specified	Surface plasmon resonance	Not specified
+```
+
+Notes on the extraction:
+- The text describes structural studies of the M3 decoy receptor from mouse ??-herpesvirus 68 (MHV68) binding to two chemokines: Lymphotactin (XCL1) and Monocyte chemoattractant protein 1 (CCL2)
+- The organism source is Mus musculus (mouse)
+- Specific Kd values are not provided in the text
+- The method appears to be surface plasmon resonance (SPR) based on the structural and binding kinetics analysis
+- No PDB IDs were explicitly mentioned in the text for these specific complexes
+
+The output follows the specified 6-column TSV format, with available information filled in and "Not specified" used where precise data is missing.

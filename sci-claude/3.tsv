@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help extract the data from the scientific literature text. However, I noticed that the text provided does not contain any direct measurements of ligand-receptor binding affinity that match the specified output format. The text is primarily about antibody responses to vaccinia virus extracellular virion (EV) surface proteins.
+
+Since no affinity measurements are present, I'll provide an empty TSV output:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```
+
+If you would like me to extract a different type of data from this text, or if you have a different text with affinity measurements, please provide more details or the specific text.

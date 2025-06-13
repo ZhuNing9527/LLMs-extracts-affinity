@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+COMPOUND 5	HIF-1a PasB domain	Homo sapiens	Kd=125 nM	isothermal titration calorimetry	4H6J
+```
+
+Key observations:
+- The text describes a study on HIF-1a/ARNT protein-protein interaction
+- COMPOUND 5 is the ligand that modifies the HIF-1a PasB domain
+- The affinity was measured at 10?°„C using isothermal titration calorimetry
+- The complex structure was deposited with PDBID 4H6J
+- The organism source is human (Homo sapiens)
+
+The extraction follows the specified requirements:
+1. Ligand name is COMPOUND 5
+2. Receptor protein name is HIF-1a PasB domain
+3. Organism source is Homo sapiens
+4. Affinity value is Kd=125 nM
+5. Wet lab method is isothermal titration calorimetry
+6. Corresponding complex PDBID is 4H6J

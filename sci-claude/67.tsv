@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there are no direct measurements of ligand-receptor binding affinity. The paper focuses on enzymatic kinetics of deubiquitinating enzymes (UCH-L3 and IPaseT) with ubiquitin-derived substrates.
+
+The closest relevant data points I can extract are:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ubiquitin C-terminal 7-amido-4-methylcoumarin (Ub-AMC)	UCH-L3	Rabbit	Km=38.6 nM	Fluorescence spectrophotometry	N/A
+Ubiquitin C-terminal 7-amido-4-methylcoumarin (Ub-AMC)	Isopeptidase T	Rabbit	Km=1.4 ??M	Fluorescence spectrophotometry	N/A
+Ubiquitin aldehyde (Ub-H)	UCH-L3	Rabbit	Ki<50 pM	Enzyme inhibition assay	N/A
+```
+
+Notes:
+- The values are kinetic parameters (Km, Ki) rather than direct binding affinity measurements
+- No PDB complex IDs were provided
+- The organism source is Rabbit for both enzymes
+- The wet lab method was fluorescence spectrophotometry for substrate kinetics and enzyme inhibition assay for the inhibitor
+
+Would you like me to elaborate on any part of the extraction?

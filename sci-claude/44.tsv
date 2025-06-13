@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text and format it as a TSV with the specified columns. Based on the text, I found one relevant data point:
+
+```tsv
+Barnase	Barstar	Bacillus amyloliquefaciens	Kd=6 ¡Á 10^-13 M	isothermal titration calorimetry	N/A
+```
+
+Notes:
+- The text describes the binding between barnase and barstar proteins from Bacillus amyloliquefaciens
+- The dissociation constant (Kd) is reported as 6 ¡Á 10^-13 M
+- The method appears to be a combination of titration and calorimetry
+- No specific PDB ID is mentioned for the complex
+
+The extraction follows the specified requirements:
+1. Ligand name: Barnase
+2. Receptor protein name: Barstar
+3. Receptor protein organism source: Bacillus amyloliquefaciens
+4. Affinity value: Kd=6 ¡Á 10^-13 M
+5. Wet lab method: isothermal titration calorimetry
+6. Corresponding complex PDBID: N/A

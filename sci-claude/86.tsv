@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there are no direct measurements of ligand-receptor binding affinity that match the exact requirements. The paper is primarily about the biochemical characterization of the Ran-RanBP1-RanGAP system and its role in nuclear transport and mitosis.
+
+The closest relevant data points I can extract are:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ran-GTP	RanGAP	Schizosaccharomyces pombe	Kd=2 ?M	fluorescence spectroscopy	N/A
+Ran-GppNHp	RanGAP	Schizosaccharomyces pombe	Kd=1.7 ?M	fluorescence spectroscopy	N/A
+Ran-GDP	RanBP1	N/A	Kd=10 ?M	fluorescence spectroscopy	N/A
+Ran-GppNHp	RanBP1	N/A	Kd=1 nM	fluorescence spectroscopy	N/A
+```
+
+Note that these are not traditional ligand-receptor binding measurements, but rather interaction measurements between proteins involved in the Ran GTPase system. The paper focuses on kinetic and biochemical characterizations rather than direct affinity measurements of a ligand binding to a receptor.

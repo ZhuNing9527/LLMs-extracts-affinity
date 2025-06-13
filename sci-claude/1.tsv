@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+TGFb1	TGFb type II receptor (TbRII)	Homo sapiens	Kd=200 nM	surface plasmon resonance	Not specified
+TGFb3	TGFb type II receptor (TbRII)	Homo sapiens	Kd=290 nM	surface plasmon resonance	Not specified
+TGFb2	TGFb type II receptor (TbRII)	Homo sapiens	Kd=5 nM	surface plasmon resonance	Not specified
+TGFb2-TM (K25R I92V K94R variant)	TGFb type II receptor (TbRII)	Homo sapiens	Kd=480 nM	surface plasmon resonance	Not specified
+
+Note: 
+- The affinity values are derived from the surface plasmon resonance (SPR) measurements reported in the paper.
+- The organism source is Homo sapiens for all entries.
+- No specific PDB complex ID was mentioned in the text.
+- TGFb2-TM is a variant of TGFb2 with three residue changes to improve its binding affinity.

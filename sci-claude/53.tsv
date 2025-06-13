@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data for extraction:
+
+```tsv
+NC41 antibody	Neuraminidase (NA)	Influenza virus A/tern/Australia/G70c/75	Ka=4 ¡Á 10^8 M-1	enzyme-linked immunosorbent assay (ELISA)	1NCA
+```
+
+Let me break down the extraction for each column:
+
+1. Ligand name: NC41 antibody
+2. Receptor protein name: Neuraminidase (NA)
+3. Receptor protein organism source: Influenza virus A/tern/Australia/G70c/75
+4. Affinity value: Ka=4 ¡Á 10^8 M-1
+5. Wet lab method for affinity measurement: enzyme-linked immunosorbent assay (ELISA)
+6. Corresponding complex PDBID: 1NCA
+
+The affinity value is derived from the text: "The Ka for NC41 Ab binding to G70c NA is 4 ¡Á 108 M-1" and the method is described in the ELISA section of the paper.

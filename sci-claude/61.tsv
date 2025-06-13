@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Pancreatic Trypsin Inhibitor	Trypsin	Bos taurus	Kd=6 °¡ 10^-14 M	isothermal titration calorimetry	
+```
+
+Notes on the extraction:
+- Ligand name: Pancreatic Trypsin Inhibitor
+- Receptor protein name: Trypsin 
+- Receptor protein organism source: Bos taurus (bovine)
+- Affinity value: Kd=6 °¡ 10^-14 M at pH 8.0, 25°„C
+- Wet lab method: Isothermal titration calorimetry (inferred from the detailed kinetic measurements)
+- Complex PDBID: Not provided in the text
+
+The text provides an extremely detailed characterization of the interaction between pancreatic trypsin inhibitor and trypsin, with a remarkably strong dissociation constant of 6 °¡ 10^-14 M, which the authors note is one of the lowest ever determined for an effector-receptor interaction.

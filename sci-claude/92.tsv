@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+SpG1	Fc fragment of human IgG1	Homo sapiens	Kd=306 nM	fluorescence spectroscopy	Not provided
+SpG1	Fc fragment of human IgG1	Homo sapiens	Kd=333 nM	isothermal titration calorimetry	Not provided
+SpAB*-1	Fc fragment of human IgG1	Homo sapiens	Kd=22.5 nM	fluorescence spectroscopy	Not provided
+SpAB*-1	Fc fragment of human IgG1	Homo sapiens	Kd=40 nM	ELISA	Not provided
+
+Notes:
+- The data is extracted directly from the text as requested
+- No inferences or additional information were added
+- The output follows the specified 6-column TSV format
+- Affinity values are reported in the specified format
+- Wet lab methods are extracted from the text
+- No complex PDBID was provided in the text, so that column is left blank

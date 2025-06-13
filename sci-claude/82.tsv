@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. In this case, there are no explicit affinity measurements mentioned, so I'll leave those columns blank or use placeholders.
+
+```tsv
+1F1	Hemagglutinin (HA)	Homo sapiens	Kd=N/A	N/A	N/A
+```
+
+Notes:
+- Ligand name: 1F1 (human monoclonal antibody)
+- Receptor protein name: Hemagglutinin (HA)
+- Receptor protein organism source: Homo sapiens (from the context of human influenza antibody)
+- Affinity value: Not specified in the text
+- Wet lab method: Not specified
+- Corresponding complex PDBID: Not specified
+
+The text provides a detailed structural analysis of the antibody 1F1 binding to the 1918 H1N1 influenza hemagglutinin, but does not include specific affinity measurements or a PDB ID for the complex. The analysis focuses on the structural interactions and epitope mapping of the antibody.
+
+If you need more precise affinity data, you may want to consult the original research paper or supplementary materials, as this converted text does not provide those specific details.

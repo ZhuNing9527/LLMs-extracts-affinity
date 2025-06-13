@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, here's the TSV output:
+
+```
+Protective Antigen	CMG2 VWA domain	Homo sapiens	Kd=170 pM	surface plasmon resonance	N/A
+```
+
+Explanation of the extraction:
+1. Ligand name: Protective Antigen (PA)
+2. Receptor protein name: CMG2 VWA domain
+3. Receptor protein organism source: Homo sapiens (from the context of the paper discussing human anthrax toxin receptor)
+4. Affinity value: Kd=170 pM (as reported in the text for Mg2-liganded complex)
+5. Wet lab method for affinity measurement: surface plasmon resonance (SPR)
+6. Corresponding complex PDBID: Not available (N/A) in the text
+
+Note: The paper does not provide a specific PDB ID for the complex, so I've used N/A for that column.

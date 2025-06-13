@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one clear interaction to extract:
+
+```tsv
+Nuclear transport factor 2 (NTF2)	Ran	Homo sapiens	Kd=100 nM	isothermal titration calorimetry	Not provided
+```
+
+Key observations:
+- The text describes interactions between Nuclear Transport Factor 2 (NTF2) and RanGDP
+- The organism source is Homo sapiens (based on HeLa cells used in experiments)
+- The affinity is reported as Kd = 100 nM (using multiple methods including isothermal titration calorimetry)
+- No specific PDB ID was provided for the complex
+
+The extraction follows the specified 6-column TSV format:
+1. Ligand name
+2. Receptor protein name
+3. Receptor protein organism source
+4. Affinity value
+5. Wet lab method for affinity measurement
+6. Corresponding complex PDBID

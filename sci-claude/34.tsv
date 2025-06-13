@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+IL-13R111Q	IL-13	Homo sapiens	Kd=50 pM	surface plasmon resonance	3L5W
+IL-13R111Q	IL-13	Homo sapiens	Kd=8 pM	surface plasmon resonance	N/A
+```
+
+Explanation:
+1. The first row represents the original mouse antibody (m836) interaction with IL-13, with an affinity of 50 pM.
+2. The second row represents the optimized antibody variant (M460) with an improved affinity of 8 pM.
+
+Key observations:
+- The ligand is the IL-13R111Q variant
+- The receptor protein is IL-13
+- The organism source is Homo sapiens
+- Affinity was measured using surface plasmon resonance
+- The first entry has a corresponding PDB complex ID of 3L5W
+- The second entry does not have a specific PDB complex ID
+
+The data is extracted directly from the scientific literature text, following the specified requirements for the TSV format.

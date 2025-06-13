@@ -1,0 +1,36 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns.
+
+After carefully reviewing the text, I found the following data points:
+
+1. Ligand name: Dromedary heavy-chain antibody fragments (VHH)
+2. Receptor protein names: 
+   - Bovine erythrocyte carbonic anhydrase
+   - Porcine pancreatic ¦Á-amylase
+3. Receptor protein organism sources:
+   - Bos taurus (bovine)
+   - Sus scrofa (porcine)
+4. Affinity values:
+   - Carbonic anhydrase binders:
+     - cAb-CA04: Kd = 29 nM
+     - cAb-CA05: Kd = 72 nM
+     - cAb-CA06: Kd = 20 nM
+     - cAb-CA10: Kd = 42 nM
+   - ¦Á-amylase binders:
+     - cAb-AMD7: Kd = 15 nM
+     - cAb-AMD9: Kd = 3.5 nM
+     - cAb-AMB7: Not an inhibitor
+     - cAb-AMB10: Not an inhibitor
+5. Wet lab method: Surface plasmon resonance (IAsys Biosensor)
+6. Complex PDBID: Not provided in the text
+
+Here's the TSV output:
+
+```
+Dromedary VHH fragment	Bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=29 nM	Surface plasmon resonance	N/A
+Dromedary VHH fragment	Bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=72 nM	Surface plasmon resonance	N/A
+Dromedary VHH fragment	Bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=20 nM	Surface plasmon resonance	N/A
+Dromedary VHH fragment	Bovine erythrocyte carbonic anhydrase	Bos taurus	Kd=42 nM	Surface plasmon resonance	N/A
+Dromedary VHH fragment	Porcine pancreatic ¦Á-amylase	Sus scrofa	Kd=15 nM	Surface plasmon resonance	N/A
+Dromedary VHH fragment	Porcine pancreatic ¦Á-amylase	Sus scrofa	Kd=3.5 nM	Surface plasmon resonance	N/A
+```

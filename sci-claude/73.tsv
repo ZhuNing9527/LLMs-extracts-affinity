@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, I notice that this text is a detailed scientific paper about T cell receptor interactions with superantigens, and does not contain direct measurements of ligand-receptor binding affinity in the typical format requested.
+
+I'll provide the most relevant data I can extract, though it may not perfectly match all the requested columns:
+
+```
+Staphylococcal Enterotoxin C3 (SEC3)	T Cell Receptor (TCR)	Mus musculus	Not directly specified	Not directly specified	Not available
+```
+
+Key observations:
+- The paper discusses interactions between Staphylococcal Enterotoxin C3 (SEC3) and T Cell Receptors
+- The organism source is mouse (Mus musculus)
+- The paper does not provide a direct affinity measurement in the Kd/Ki/IC50 format
+- No specific PDB ID is mentioned for the complex
+
+The text is more focused on the structural and kinetic interactions between superantigens (like SEC3) and T cell receptors, rather than providing a direct affinity measurement. A more specialized affinity measurement paper would be needed to fully populate the requested TSV columns.
+
+Would you like me to elaborate on any part of the extraction or explain why a complete TSV cannot be generated from this text?

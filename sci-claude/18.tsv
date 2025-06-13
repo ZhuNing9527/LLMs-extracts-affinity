@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+enzyme IIBGlc	Mlc	Escherichia coli	Not explicitly stated	Not explicitly stated	3BP8
+```
+
+Notes:
+- The text describes a structural study of the interaction between enzyme IIBGlc and Mlc protein in Escherichia coli
+- While the paper provides detailed structural insights, it does not explicitly state a precise affinity value or the specific wet lab method used for affinity measurement
+- The complex structure was deposited with PDB ID 3BP8
+- The paper focuses more on structural characterization than quantitative binding measurements
+
+Would you like me to elaborate on any part of the extraction?

@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one clear set of binding data for interferon alpha 2 (IFN¦Á2) and its receptor ifnar2.
+
+```
+IFN¦Á2	ifnar2	Homo sapiens	Kd=10 nM	reflectometric interference spectroscopy	N/A
+```
+
+Notes:
+- Ligand name: IFN¦Á2 (Interferon alpha 2)
+- Receptor protein name: ifnar2 (type I interferon receptor 2)
+- Organism source: Homo sapiens
+- Affinity value: Kd=10 nM 
+- Wet lab method: reflectometric interference spectroscopy
+- Complex PDBID: Not available (N/A) in this text
+
+The text provides detailed structural and functional analysis of the IFN¦Á2-ifnar2 interaction, but does not list multiple distinct binding measurements. The 10 nM dissociation constant is mentioned in the Results section: "From these studies, a dissociation constant of about 10 nM was determined for the wild-type IFN¦Á2-ifnar2-EC complex".

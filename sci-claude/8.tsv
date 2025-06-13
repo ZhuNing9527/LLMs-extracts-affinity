@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Actin	DNAase I	Bos taurus (Bovine)	Kd=5 x 10^8 M^-1	Not specified	Not specified
+Actin (monomeric)	DNAase I	Bos taurus (Bovine)	Kd=5 x 10^8 M^-1	Fluorescence titration	Not specified
+Actin (filamentous)	DNAase I	Bos taurus (Bovine)	Kd=1.2 x 10^4 M^-1	Cosedimentation	Not specified
+```
+
+Notes:
+- The data is extracted directly from the text
+- Binding constants are reported as reciprocal molar concentrations (M^-1)
+- The organism source is Bos taurus (Bovine) for both DNAase I and actin
+- Wet lab methods include fluorescence titration and cosedimentation
+- No specific PDB ID was mentioned in the text
+- The values represent binding constants for different forms of actin (monomeric and filamentous) with DNAase I

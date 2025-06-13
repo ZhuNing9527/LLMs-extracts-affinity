@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data in the requested TSV format. However, after carefully reviewing the text, I cannot find any specific ligand-receptor binding affinity measurements that match the exact requirements. The text is a structural biology paper about actin capping protein (CP) and its interactions with V-1 and CARMIL proteins, but it does not provide direct ligand-receptor binding affinity data in the requested format.
+
+Here's an empty TSV output to reflect this:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```
+
+If you would like me to extract other types of data from this text, such as protein interaction details or structural information, I can do so. Would you like me to provide those details instead?

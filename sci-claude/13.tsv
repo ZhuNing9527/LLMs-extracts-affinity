@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+CD8aa	HLA-A2	Homo sapiens	Kd=0.2 ?M	surface plasmon resonance	N/A
+CD8aa	HLA-A2	Homo sapiens	Kd=150 ?M	surface plasmon resonance	N/A
+CD8aa	HLA-A2	Homo sapiens	Kd=200 ?M	surface plasmon resonance	N/A
+```
+
+Key observations:
+- The data is extracted directly from the text
+- Multiple measurements of CD8aa binding to HLA-A2 are reported
+- Affinity values are reported at different temperatures (25°„C and 37°„C)
+- The wet lab method is consistently surface plasmon resonance (SPR)
+- No specific PDB ID was mentioned in the text, so I've used N/A
+- The organism source is Homo sapiens for the HLA-A2 molecule
+
+The extraction follows the specified 6-column format, with each line representing a distinct affinity measurement from the scientific literature.

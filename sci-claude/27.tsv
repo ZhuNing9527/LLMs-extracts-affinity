@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```tsv
+PEPTAPPEE	Tsg101	Homo sapiens	Kd=4.3 ?M	nuclear magnetic resonance (NMR) spectroscopy	1KPP
+```
+
+Explanation of the extraction:
+1. Ligand name: PEPTAPPEE (the PTAP peptide mentioned in the text)
+2. Receptor protein name: Tsg101 
+3. Receptor protein organism source: Homo sapiens (human)
+4. Affinity value: Kd=4.3 ?M (from the text: "Kd = 4.3 ¡À 1.6 ?M at 50 mM NaCl, 20 mM sodium phosphate pH 6")
+5. Wet lab method: nuclear magnetic resonance (NMR) spectroscopy
+6. Corresponding complex PDBID: 1KPP (from the acknowledgements section mentioning structure coordinates deposited)
+
+Note that this extraction follows the exact requirements:
+- Extracted directly from the literature
+- TSV format
+- 6 columns in the specified order
+- No inferred or tampered data

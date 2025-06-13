@@ -1,0 +1,32 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the ligand-receptor interaction data in the requested TSV format. From the text, I can identify the following interactions:
+
+```
+Stefin A	Papain	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin A	Cathepsin L	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin A	Cathepsin S	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin A	Cathepsin H	Not specified	Ki=0.027 nM	enzyme activity assay	Not provided
+
+Stefin B	Papain	Not specified	Ki=0.161 nM	enzyme activity assay	Not provided
+Stefin B	Cathepsin L	Not specified	Ki=0.161 nM	enzyme activity assay	Not provided
+Stefin B	Cathepsin S	Not specified	Ki=0.161 nM	enzyme activity assay	Not provided
+Stefin B	Cathepsin H	Not specified	Ki=0.069 nM	enzyme activity assay	Not provided
+
+Stefin D1	Papain	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D1	Cathepsin L	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D1	Cathepsin S	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D1	Cathepsin H	Not specified	Ki=102 nM	enzyme activity assay	Not provided
+
+Stefin D2	Papain	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D2	Cathepsin L	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D2	Cathepsin S	Not specified	Ki=0.009 nM	enzyme activity assay	Not provided
+Stefin D2	Cathepsin H	Not specified	Ki=150 nM	enzyme activity assay	Not provided
+```
+
+Notes:
+- The organism source is not explicitly specified in the text
+- No PDB IDs were provided
+- The wet lab method is consistently described as "enzyme activity assay"
+- Ki values were extracted directly from the text
+- Ligands are the stefin variants (A, B, D1, D2)
+- Receptors are various cysteine proteinases

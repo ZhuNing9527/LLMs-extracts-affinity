@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, I notice that this particular text is a detailed biochemical study about trypsinogen and does not contain multiple distinct ligand-receptor binding measurements. I'll extract the most relevant information available:
+
+```
+Ile-Val	Trypsinogen	Bos taurus	Kd=Not explicitly stated	Circular dichroism spectroscopy	Not provided
+```
+
+Key observations:
+- The text describes a detailed study of Ile-Val peptide binding to bovine (Bos taurus) trypsinogen
+- While binding affinity is discussed, a precise Kd value is not explicitly stated
+- The primary measurement technique appears to be circular dichroism spectroscopy
+- No PDB ID is mentioned for the complex
+
+The text provides extensive discussion about the binding mechanism, structural changes, and thermodynamics of Ile-Val interaction with trypsinogen, but does not provide a straightforward affinity measurement in the exact format requested.
+
+Would you like me to elaborate on the binding characteristics described in the text, or do you prefer strictly the TSV output as generated?

@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one clear set of data that matches the extraction requirements:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+IL-13	anti-IL-13 monoclonal antibody CNTO607	Homo sapiens	Kd=18 pM	surface plasmon resonance	Not specified in text
+
+Notes:
+- The text describes an antibody engineering study focused on improving the solubility of an anti-IL-13 monoclonal antibody
+- The binding affinity of 18 pM was measured using surface plasmon resonance (Biacore analysis)
+- The organism source is human (Homo sapiens)
+- No specific PDB ID was mentioned for the complex
+
+Would you like me to elaborate on any part of the extraction?
