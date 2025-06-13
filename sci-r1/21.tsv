@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HPr	Jel42	Mus musculus	Kd=2.8 nM	fluorescence polarization	
+HPr	Jel42Fab	Mus musculus	Kd=3.7 nM	fluorescence polarization	
+HPr	Jel44	Mus musculus	Kd=5.1 nM	fluorescence polarization	
+HPr	Jel44Fab	Mus musculus	Kd=6.3 nM	fluorescence polarization	
+HPr	Jel323	Mus musculus	Kd=5.7 nM	fluorescence polarization	
+HPr	Jel323Fab	Mus musculus	Kd=5.1 nM	fluorescence polarization

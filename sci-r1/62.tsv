@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+OMTKY3	Chymotrypsin	Bos taurus	Ka=1.8x10^11 M^-1	enzyme activity assay	
+OMTKY3	Elastase	Sus scrofa	Ka=4.2x10^10 M^-1	enzyme activity assay	
+OMTKY3	Subtilisin	Bacillus licheniformis	Ka=4.3x10^10 M^-1	enzyme activity assay	
+OMTKY3	SGPA	Streptomyces griseus	Ka=2.8x10^11 M^-1	enzyme activity assay	
+OMTKY3	SGPB	Streptomyces griseus	Ka=5.6x10^10 M^-1	enzyme activity assay	
+des-L-A-A OMTKY3	Chymotrypsin	Bos taurus	Ka=1.8x10^11 M^-1	enzyme activity assay	
+des-L-A-A OMTKY3	Elastase	Sus scrofa	Ka=4.0x10^10 M^-1	enzyme activity assay	
+des-L-A-A OMTKY3	Subtilisin	Bacillus licheniformis	Ka=4.5x10^10 M^-1	enzyme activity assay	
+des-L-A-A OMTKY3	SGPA	Streptomyces griseus	Ka=2.9x10^11 M^-1	enzyme activity assay	
+des-L-A-A OMTKY3	SGPB	Streptomyces griseus	Ka=5.7x10^10 M^-1	enzyme activity assay	
+Syn18OMTKY3	Chymotrypsin	Bos taurus	Ka=1.6x10^11 M^-1	enzyme activity assay	
+Syn18OMTKY3	Elastase	Sus scrofa	Ka=3.7x10^10 M^-1	enzyme activity assay	
+Syn18OMTKY3	Subtilisin	Bacillus licheniformis	Ka=3.8x10^10 M^-1	enzyme activity assay	
+Syn18OMTKY3	SGPA	Streptomyces griseus	Ka=2.9x10^11 M^-1	enzyme activity assay	
+Syn18OMTKY3	SGPB	Streptomyces griseus	Ka=5.5x10^10 M^-1	enzyme activity assay	
+Syn13OMTKY3	Chymotrypsin	Bos taurus	Ka=1.6x10^11 M^-1	enzyme activity assay	
+Syn13OMTKY3	Elastase	Sus scrofa	Ka=3.7x10^10 M^-1	enzyme activity assay	
+Syn13OMTKY3	Subtilisin	Bacillus licheniformis	Ka=3.8x10^10 M^-1	enzyme activity assay	
+Syn13OMTKY3	SGPA	Streptomyces griseus	Ka=3.3x10^11 M^-1	enzyme activity assay	
+Syn13OMTKY3	SGPB	Streptomyces griseus	Ka=5.8x10^10 M^-1	enzyme activity assay

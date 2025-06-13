@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+cAb-AM-B7	porcine pancreatic ¦Á-amylase	Sus scrofa	KD=232 nM	surface plasmon resonance	
+cAb-AM-B10	porcine pancreatic ¦Á-amylase	Sus scrofa	KD=24 nM	surface plasmon resonance	
+cAb-AM-D7	porcine pancreatic ¦Á-amylase	Sus scrofa	KD=15 nM	surface plasmon resonance	
+cAb-AM-D9	porcine pancreatic ¦Á-amylase	Sus scrofa	KD=3.5 nM	surface plasmon resonance	
+cAb-CA04	bovine erythrocyte carbonic anhydrase	Bos taurus	KD=29 nM	surface plasmon resonance	
+cAb-CA05	bovine erythrocyte carbonic anhydrase	Bos taurus	KD=72 nM	surface plasmon resonance	
+cAb-CA06	bovine erythrocyte carbonic anhydrase	Bos taurus	KD=20 nM	surface plasmon resonance	
+cAb-CA10	bovine erythrocyte carbonic anhydrase	Bos taurus	KD=42 nM	surface plasmon resonance	
+cAb-CA04	bovine erythrocyte carbonic anhydrase	Bos taurus	IC50=2 ?M	enzyme activity assay	
+cAb-CA06	bovine erythrocyte carbonic anhydrase	Bos taurus	IC50=1.5 ?M	enzyme activity assay	
+cAb-AM-D7	porcine pancreatic ¦Á-amylase	Sus scrofa	IC50=25 nM	enzyme activity assay	
+cAb-AM-D9	porcine pancreatic ¦Á-amylase	Sus scrofa	IC50=10 nM	enzyme activity assay

@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	2. Receptor protein name	3. Receptor protein organism source	4. Affinity value	5. Wet lab method for affinity measurement	6. Corresponding complex PDBID
+stefin A	cathepsin H	Homo sapiens	Ki=0.027 nM	enzyme activity assay	
+stefin B	cathepsin H	Homo sapiens	Ki=0.069 nM	enzyme activity assay	
+stefin D1	cathepsin H	Homo sapiens	Ki=102-150 nM	enzyme activity assay	
+stefin D2	cathepsin H	Homo sapiens	Ki=102-150 nM	enzyme activity assay

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+GGA1 N-GAT	ARF1	Mus musculus	Kd=1.1 ?M	surface plasmon resonance	1J2J
+GGA1-GAT	ARF1	Mus musculus	Kd=1.4 ?M	surface plasmon resonance

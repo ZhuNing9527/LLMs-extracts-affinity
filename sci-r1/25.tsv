@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+RalGDS-RBD WT	Ras	Homo sapiens	Kd=1.9 ?M	stopped-flow	
+RalGDS-RBD M26K,D47K,E54K	Ras	Homo sapiens	Kd=0.071 ?M	stopped-flow

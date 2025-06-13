@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Smac	ML-IAP-BIR	Homo sapiens	Kd=1.89 nM	surface plasmon resonance	1OXN
+Smac	MLXBIR3SG	Homo sapiens	Kd=1.94 nM	surface plasmon resonance	1OXN
+Smac	XIAP-BIR2-BIR3	Homo sapiens	Kd=0.77 nM	surface plasmon resonance	1G73
+AVPIAQKSE	ML-IAP-BIR	Homo sapiens	Ki=0.20 ?M	fluorescence polarization	1OXQ
+mature Smac	ML-IAP-BIR	Homo sapiens	Ki=0.026 ?M	fluorescence polarization	1OXQ
+AVP-diPhe-FAM	XIAP-BIR3	Homo sapiens	Kd=0.051 ?M	fluorescence polarization	1G73
+mature Smac	XIAP-BIR3	Homo sapiens	Ki=0.26 ?M	fluorescence polarization	1G73
+AVPIAQKSE	MLXBIR3SG	Homo sapiens	Ki=0.34 ?M	fluorescence polarization	1OXN
+mature Smac	MLXBIR3SG	Homo sapiens	Ki=0.059 ?M	fluorescence polarization	1OXN
+caspase 9	XIAP-BIR3	Homo sapiens	Ki(app)=13 nM	enzyme activity assay	1NW9
+caspase 9	MLBIR-Q	Homo sapiens	Ki(app)=4.5 ?M	enzyme activity assay	
+caspase 9	MLXBIR3	Homo sapiens	Ki(app)=0.96 ?M	enzyme activity assay	
+caspase 9	MLXBIR3SG	Homo sapiens	Ki(app)=?10 nM	enzyme activity assay	
+Hid-FAM	ML-IAP-BIR	Homo sapiens	Kd=0.021 ?M	fluorescence polarization	1OXQ
+AVP-diPhe-FAM	XIAP-BIR2-BIR3	Homo sapiens	Kd=0.030 ?M	fluorescence polarization	1G73

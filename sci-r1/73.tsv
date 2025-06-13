@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+SEC3	14.3.d TCR b chain	Mus musculus	Kd=3.0 mM	surface plasmon resonance	
+SEC3	14.3.d ab TCR	Mus musculus	Kd=20 mM	surface plasmon resonance	
+SEC3	HLA-DR1	Homo sapiens	Kd=270 uM	surface plasmon resonance	
+SEC3 3B1	HLA-DR1	Homo sapiens	Kd=14 uM	surface plasmon resonance	
+SEC3 3B2	HLA-DR1	Homo sapiens	Kd=4.6 uM	surface plasmon resonance

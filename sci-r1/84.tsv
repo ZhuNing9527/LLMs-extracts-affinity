@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+eglin c	human leukocyte elastase	Homo sapiens	Ka=1.0e10 M^-1	enzyme activity assay	
+eglin c	bovine a-chymotrypsin	Bovine	Ka=5.0e9 M^-1	enzyme activity assay	
+eglin c	subtilisin Carlsberg		Ka=6.6e9 M^-1	enzyme activity assay

@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+E2	MT-SP1	Homo sapiens	KI=8.0 pM	surface plasmon resonance	
+E2	MT-SP1	Homo sapiens	KI=12 pM	enzyme activity assay	
+S4	MT-SP1	Homo sapiens	KI=140 pM	surface plasmon resonance	
+S4	MT-SP1	Homo sapiens	KI=160 pM	enzyme activity assay

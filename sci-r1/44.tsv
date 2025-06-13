@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+barstar	wild-type barnase	Bacillus amyloliquefaciens	Kd=6e-13 M	enzyme activity assay	
+barstar(C40,82A)	wild-type barnase	Bacillus amyloliquefaciens	Kd=2e-13 M	enzyme activity assay	
+barstar	wild-type barnase(R59K)	Bacillus amyloliquefaciens	Kd=4e-12 M	enzyme activity assay	
+barstar(C40,82A)	wild-type barnase(R59K)	Bacillus amyloliquefaciens	Kd=2.5e-10 M	enzyme activity assay	
+barstar	wild-type barnase(R59A)	Bacillus amyloliquefaciens	Kd=1.5e-10 M	enzyme activity assay	
+barstar(C40,82A)	wild-type barnase(R59A)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	enzyme activity assay	
+barstar	wild-type barnase(H102Q)	Bacillus amyloliquefaciens	Kd=1.3e-10 M	enzyme activity assay	
+barstar(C40,82A)	wild-type barnase(H102Q)	Bacillus amyloliquefaciens	Kd=1.7e-9 M	enzyme activity assay	
+barstar	wild-type barnase(H102D)	Bacillus amyloliquefaciens	Kd=1.3e-10 M	enzyme activity assay	
+barstar	wild-type barnase(H102G)	Bacillus amyloliquefaciens	Kd=6e-9 M	enzyme activity assay	
+barstar	wild-type barnase(H102A)	Bacillus amyloliquefaciens	Kd=7e-9 M	enzyme activity assay	
+barstar	wild-type barnase(H102L)	Bacillus amyloliquefaciens	Kd=2.5e-8 M	enzyme activity assay	
+barstar	wild-type barnase(H102Q,R59K)	Bacillus amyloliquefaciens	Kd=7e-9 M	enzyme activity assay	
+barstar	wild-type barnase(H102Q,R59A)	Bacillus amyloliquefaciens	Kd=4e-7 M	enzyme activity assay	
+```

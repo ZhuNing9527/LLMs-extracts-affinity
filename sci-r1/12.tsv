@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HEL	Fab fragment of D44.1	Mus musculus	Ka=1.44e7 M??	surface plasmon resonance	
+HEL	Fab fragment of F10.6.6	Mus musculus	Ka=1.02e10 M??	surface plasmon resonance	1P2C

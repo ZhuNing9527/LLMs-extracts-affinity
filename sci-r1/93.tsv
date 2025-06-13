@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+6His-VP55	NTA ligand		Kd=		surface plasmon resonance	
+VP39	VP55	Vaccinia virus		surface plasmon resonance	
+VP55	VP39	Vaccinia virus		surface plasmon resonance	
+hLa-6His	La protein	Homo sapiens		surface plasmon resonance

@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Given the provided text, no entries meeting all specified columns (Ligand name, Receptor protein name, Receptor protein organism source, Affinity value, Wet lab method, PDBID) could be extracted. The text lacks explicit affinity values (e.g., Kd, Ki, IC50) in the required format and does not mention PDB IDs for the complexes described. Below is an empty TSV formatted as instructed:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+```
+
+*Note: The absence of data reflects the lack of extractable information in the provided text per the user's constraints.*

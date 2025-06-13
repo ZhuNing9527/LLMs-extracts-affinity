@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+CD58 (LFA-3)	CD2	Homo sapiens	Kd=9-22 pM	surface plasmon resonance

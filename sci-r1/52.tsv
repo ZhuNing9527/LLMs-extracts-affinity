@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+C19A/C43A LCI	CPA	Bos taurus	Ki=2.8 nM	enzyme activity assay	2ABZ
+C19A/C43A LCI	CPA1	Homo sapiens	Ki=3.4 nM	enzyme activity assay	
+C19A/C43A LCI	CPB	Sus scrofa	Ki=5.5 nM	enzyme activity assay	
+C19A/C43A LCI	CPB	Homo sapiens	Ki=3.5 nM	enzyme activity assay

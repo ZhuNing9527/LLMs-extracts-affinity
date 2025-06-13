@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+IF1-N1 domain	TolA-C	Escherichia coli	Kd=4.4 ?M	fluorescence resonance energy transfer	2X9A
+IF1-N1 domain	TolA-C	Escherichia coli	Kd=7.0 ?M	fluorescence resonance energy transfer	2X9A

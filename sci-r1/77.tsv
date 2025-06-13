@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+StpinAaur	StpAaur	Staphylococcus aureus	Ki=0.17 nM	enzyme activity assay using fluorescent substrate	
+StpinAaur	StpAepi	Staphylococcus epidermidis	Ki=0.23 nM	enzyme activity assay using fluorescent substrate	
+StpinAaur	StpAaurCH-91	Staphylococcus aureus	Ki=27.7 nM	enzyme activity assay using fluorescent substrate	
+StpinAepi	StpAepi	Staphylococcus epidermidis	Ki=1.0 nM	enzyme activity assay using fluorescent substrate	
+StpinAepi	StpAaurCH-91	Staphylococcus aureus	Ki=12.5 nM	enzyme activity assay using fluorescent substrate	
+StpinAaurCH-91	StpAaur	Staphylococcus aureus	Ki=410 nM	enzyme activity assay using fluorescent substrate	
+StpinAaurCH-91	StpAepi	Staphylococcus epidermidis	Ki=2.6 nM	enzyme activity assay using fluorescent substrate	
+StpinAaurCH-91	StpAaurCH-91	Staphylococcus aureus	Ki=0.31 nM	enzyme activity assay using fluorescent substrate	
+StpinBaur	StpBaur	Staphylococcus aureus	Ki=0.31 nM	enzyme activity assay using fluorescent substrate	
+StpinBwar	StpBaur	Staphylococcus aureus	Ki=0.46 nM	enzyme activity assay using fluorescent substrate

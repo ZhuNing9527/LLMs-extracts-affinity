@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+horse ferricytochrome c	cytochrome c peroxidase	Saccharomyces cerevisiae	KA=10x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(E291Q)	Saccharomyces cerevisiae	KA=11x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(E32Q)	Saccharomyces cerevisiae	KA=3.6x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(E35Q)	Saccharomyces cerevisiae	KA=3.2x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(A193F)	Saccharomyces cerevisiae	KA=2.9x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(D34N)	Saccharomyces cerevisiae	KA=2.5x10^4 M^-1	isothermal titration calorimetry	
+horse ferricytochrome c	CcP(E290N)	Saccharomyces cerevisiae	KA=2.3x10^4 M^-1	isothermal titration calorimetry

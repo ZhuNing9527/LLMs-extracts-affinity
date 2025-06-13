@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+p50cdc37	Hsp90	Saccharomyces cerevisiae	Kd=1.46 ?M	isothermal titration calorimetry	
+C-p50cdc37	Hsp90	Saccharomyces cerevisiae	Kd=1.32 ?M	isothermal titration calorimetry	
+C-p50cdc37	Hsp90	Saccharomyces cerevisiae	Kd=1.80 ?M	isothermal titration calorimetry	
+C-p50cdc37	Hsp90	Homo sapiens	Kd=3.37 ?M	isothermal titration calorimetry

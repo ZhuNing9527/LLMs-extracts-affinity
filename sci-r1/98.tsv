@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+lysozyme	D1.3 antibody	Mus musculus	Kd=3.7 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLysO reshaped antibody	Homo sapiens	Kd=260 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys3 reshaped antibody	Homo sapiens	Kd=64 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys6 reshaped antibody	Homo sapiens	Kd=46 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys7 reshaped antibody	Homo sapiens	Kd=77 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys8 reshaped antibody	Homo sapiens	Kd=26 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys9 reshaped antibody	Homo sapiens	Kd=120 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys10 reshaped antibody	Homo sapiens	Kd=18 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex	
+lysozyme	HuLys11 reshaped antibody	Homo sapiens	Kd=14 nM	quenching of fluorescence that occurs upon formation of the antibody-antigen complex

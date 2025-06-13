@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+PTI	Trypsin	Bos taurus	Kd=6e-14 M	enzyme activity assay (pH-Stat with Bz-L-ArgEt/p-tosyl-L-arginine methyl ester)	
+R*PTI	Trypsin	Bos taurus	Kd=1.8e-9 M	enzyme activity assay (substrate displacement kinetics)	
+RCAM*PTI	Trypsin	Bos taurus	Kd=1.7e-5 M	enzyme activity assay (substrate displacement kinetics)	
+RAE*PTI	Trypsin	Bos taurus	Kd=9.1e-9 M	enzyme activity assay (substrate displacement kinetics)	
+PTI	Pseudotrypsin	Bos taurus	Kd=9.0e-9 M	competition experiments with trypsin	
+PTI	RCOM*trypsin	Bos taurus	Kd=6.0e-9 M	active site titration (NPGB) and chromatographic displacement

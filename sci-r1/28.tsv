@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+SAP	Fyn-SH3	Homo sapiens	Kd=3.45 ??M	isothermal titration calorimetry	1M27

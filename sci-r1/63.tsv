@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Im2	E9 DNase	Escherichia coli	Kd=15 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im9	E9 DNase	Escherichia coli	Kd=0.018 fM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 D33L	E9 DNase	Escherichia coli	Kd=48 pM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 N34V	E9 DNase	Escherichia coli	Kd=3.3 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 R38T	E9 DNase	Escherichia coli	Kd=2.6 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 E39H	E9 DNase	Escherichia coli	Kd=16 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 R42E	E9 DNase	Escherichia coli	Kd=8.0 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 N34V/R38T	E9 DNase	Escherichia coli	Kd=190 pM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 D33L/N34V/R38T	E9 DNase	Escherichia coli	Kd=0.34 pM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 N34V/R38T/R42E	E9 DNase	Escherichia coli	Kd=64 pM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 N34V/R38T/E39H/R42E	E9 DNase	Escherichia coli	Kd=95 pM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 E30A	E9 DNase	Escherichia coli	Kd=280 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 D33A	E9 DNase	Escherichia coli	Kd=12 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 N34A	E9 DNase	Escherichia coli	Kd=7.9 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 V37A	E9 DNase	Escherichia coli	Kd=9.3 ?M	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 R38A	E9 DNase	Escherichia coli	Kd=2.3 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 E41A	E9 DNase	Escherichia coli	Kd=30 ?M	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 R42A	E9 DNase	Escherichia coli	Kd=10 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 S50A	E9 DNase	Escherichia coli	Kd=900 nM	stopped-flow fluorescence and radioactive exchange kinetics	
+Im2 P56A	E9 DNase	Escherichia coli	Kd=2.1 ?M	stopped-flow fluorescence and radioactive exchange kinetics

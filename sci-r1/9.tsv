@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+EPO-IRS	EPOR-Fc	Homo sapiens	KD=3.7 pM	surface plasmon resonance	
+asialo-EPO	EPOR-Fc	Homo sapiens	KD=2.4 pM	surface plasmon resonance	
+EPO-293	EPOR-Fc	Homo sapiens	KD=2.0 pM	surface plasmon resonance	
+NGE	EPOR-Fc	Homo sapiens	KD=0.7 pM	surface plasmon resonance

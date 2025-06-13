@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+mSCP2	Pex5p (WT)	Homo sapiens	Kd=109 nM	isothermal titration calorimetry	
+mSCP2(SCoA)	Pex5p (WT)	Homo sapiens	Kd=124 nM	isothermal titration calorimetry	
+preSCP2	Pex5p (WT)	Homo sapiens	Kd=74 nM	isothermal titration calorimetry	
+PGNAKL	Pex5p (WT)	Homo sapiens	Kd=664 nM	isothermal titration calorimetry	
+mSCP2	Pex5p (N382A)	Homo sapiens	Kd=348 nM	isothermal titration calorimetry	
+mSCP2	Pex5p (Q586R)	Homo sapiens	Kd=1343 nM	isothermal titration calorimetry	
+mSCP2	Pex5p (S589Y)	Homo sapiens	Kd=173 nM	isothermal titration calorimetry

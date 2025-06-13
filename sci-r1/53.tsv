@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+NC41	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=4e8 M-1	ELISA	1NCA
+Wild-type scFv	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=2e7 M-1	ELISA	1NCA
+N31Q scFv	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=2e7 M-1	ELISA	1NCA
+E96D scFv	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=1e7 M-1	ELISA	1NCA
+D97K scFv	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=6e6 M-1	ELISA	1NCA
+N98Q scFv	Neuraminidase (N9)	influenza virus A/tern/Australia/G70c/75	Ka=8e6 M-1	ELISA	1NCA

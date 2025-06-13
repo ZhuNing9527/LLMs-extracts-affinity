@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+MK2a docking domain peptide (370-400)	p38¦Á	Mus musculus	IC50=60 nM	enzyme activity assay	
+MK2a (370-400)	p38¦Á	Mus musculus	IC50=59.9 nM	enzyme activity assay	
+FITC-MK2a (370-400)	p38¦Á	Mus musculus	IC50=38.5 nM	enzyme activity assay	
+MK2a (370-400)	p38¦Á	Mus musculus	Kd=20 nM	stopped-flow fluorescence	
+FITC-MK2a (370-400)	p38¦Á	Mus musculus	Kd=8.4 nM	stopped-flow fluorescence

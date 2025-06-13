@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Streptomyces subtilisin inhibitor (SSI)	subtilisin BPN'		Ki=7.12x10^-11 M	single photon counting fluorometric titration

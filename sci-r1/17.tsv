@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+AlF4^-	Cdc42-GAP	Homo sapiens	Kd=239 nM	fluorescence anisotropy	
+BeF3^-	Cdc42-GAP	Homo sapiens	Kd=388 nM	fluorescence anisotropy	
+AlF4^-	PAK binding domain (PBD)	Homo sapiens	Kd=461 nM	fluorescence anisotropy	
+BeF3^-	PAK binding domain (PBD)	Homo sapiens	Kd=45 nM	fluorescence anisotropy	
+mant-dGTP	Cdc42-GAP	Homo sapiens	Kd=279 nM	fluorescence anisotropy	
+AlF4^-	Cdc42-GAP(R305A)	Homo sapiens	Kd=2.15 ??M	fluorescence anisotropy

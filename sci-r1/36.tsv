@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+NADPH	Proton-translocating nicotinamide nucleotide transhydrogenase domain III	Rhodospirillum rubrum	Kd=10 pM	enzyme activity assay	
+NADP+	Proton-translocating nicotinamide nucleotide transhydrogenase domain III	Rhodospirillum rubrum	Kd=1 nM	enzyme activity assay	
+NADPH	Proton-translocating nicotinamide nucleotide transhydrogenase domain III	Rhodospirillum rubrum	Km=0.3 ?M	enzyme activity assay	
+AcPdAD+	Proton-translocating nicotinamide nucleotide transhydrogenase domain I	Rhodospirillum rubrum	Km=3.6 ?M	enzyme activity assay

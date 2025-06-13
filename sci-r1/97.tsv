@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Rbsn(440每503)	Rab4	Homo sapiens	Kd=0.4 uM	surface plasmon resonance	1Z0K
+Rbsn(440每503)	Rab14	Homo sapiens	Kd=0.3 uM	surface plasmon resonance	
+Rbsn(440每503)	Rab2	Homo sapiens	Kd=20 uM	surface plasmon resonance	
+Rbsn(728每784)	Rab5	Homo sapiens	Kd=0.1 uM	surface plasmon resonance	
+Rbsn(728每784)	Rab22	Homo sapiens	Kd=0.3 uM	surface plasmon resonance	1Z0J
+Rbsn(728每784)	Rab24	Homo sapiens	Kd=0.3 uM	surface plasmon resonance	
+Rbsn(728每784)	Rab14	Homo sapiens	Kd=3.0 uM	surface plasmon resonance

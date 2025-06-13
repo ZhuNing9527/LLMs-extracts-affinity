@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+N-Ras	Phosphoinositide 3-Kinase ¦Ã	Homo sapiens	Kd=2.8 ¦ÌM	Fluorescence anisotropy	
+H-Ras	Phosphoinositide 3-Kinase ¦Ã	Homo sapiens	Kd=3.2 ¦ÌM	Fluorescence anisotropy	
+Ras	Phosphoinositide 3-Kinase ¦Ã V223K	Homo sapiens	Kd=0.2 ¦ÌM	Fluorescence anisotropy	
+Ras	Phosphoinositide 3-Kinase ¦Ã E267K	Homo sapiens	Kd=0.5 ¦ÌM	Fluorescence anisotropy

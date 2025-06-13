@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+h101	B5	Vaccinia virus		ELISA	
+h102	B5	Vaccinia virus		ELISA	
+VV80	A33	Vaccinia virus		ELISA	
+VV22	A33	Vaccinia virus		ELISA	
+ES1	A56	Vaccinia virus		FACS-based ELISA	
+WR2	A56	Vaccinia virus		FACS-based ELISA	
+KA10	A33	Vaccinia virus		ELISA	
+12D4.1	A33	Vaccinia virus		ELISA	
+NR628	A33	Vaccinia virus		ELISA	
+VV80	A33	Vaccinia virus		flow cytometry	
+VV22	A33	Vaccinia virus		flow cytometry	
+ES1	A56	Vaccinia virus		flow cytometry	
+WR2	A56	Vaccinia virus		flow cytometry

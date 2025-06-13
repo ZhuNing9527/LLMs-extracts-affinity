@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=1.0 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=5.0 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=8.5 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=9.5 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=30 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=10 nM	surface plasmon resonance	
+HEL	IgNAR V region	Ginglymostoma cirratum	KD=3.3 nM	surface plasmon resonance

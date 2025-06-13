@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+TCI	Carboxypeptidase A	Bos taurus	Ki=1.1 nM	chromogenic substrate assay	
+TCI	Carboxypeptidase A1	Homo sapiens	Ki=1.2 nM	chromogenic substrate assay	
+TCI	Carboxypeptidase A2	Homo sapiens	Ki=3.6 nM	chromogenic substrate assay	
+TCI	Carboxypeptidase B	Sus scrofa	Ki=1.6 nM	chromogenic substrate assay	
+TCI	Carboxypeptidase B	Homo sapiens	Ki=1.3 nM	chromogenic substrate assay	
+TCI	Thrombin-activatable fibrinolysis inhibitor	Bos taurus	Ki=1.3 nM	chromogenic substrate assay	
+TCI	Thrombin-activatable fibrinolysis inhibitor	Homo sapiens	Ki=1.2 nM	chromogenic substrate assay

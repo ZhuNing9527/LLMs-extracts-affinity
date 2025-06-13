@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+IFN¦Á2 (wild-type)	ifnar2-EC	Homo sapiens	KD=4 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (L30A)	ifnar2-EC	Homo sapiens	KD=1.7 ?M	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (L30V)	ifnar2-EC	Homo sapiens	KD=260 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (R33A)	ifnar2-EC	Homo sapiens	KD=28 ?M	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (R33K)	ifnar2-EC	Homo sapiens	KD=8 ?M	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (R33Q)	ifnar2-EC	Homo sapiens	KD=86 ?M	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (R144A)	ifnar2-EC	Homo sapiens	KD=20 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (A145G)	ifnar2-EC	Homo sapiens	KD=20 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (M148A)	ifnar2-EC	Homo sapiens	KD=20 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (R149A)	ifnar2-EC	Homo sapiens	KD=20 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (S152A)	ifnar2-EC	Homo sapiens	KD=6 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (L153A)	ifnar2-EC	Homo sapiens	KD=13 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (K133A)	ifnar2-EC	Homo sapiens	KD=5 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (L15A)	ifnar2-EC	Homo sapiens	KD=0.5-2 nM	reflectometric interference spectroscopy (RIfS)	
+IFN¦Á2 (truncated S161)	ifnar2-EC	Homo sapiens	KD=5.2 nM	reflectometric interference spectroscopy (RIfS)

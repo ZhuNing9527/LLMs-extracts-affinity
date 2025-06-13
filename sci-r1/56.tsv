@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Alanine-glyoxylate aminotransferase (AGT)	Pex5p	Homo sapiens	Kd=3.5 ??M	isothermal titration calorimetry	3R9A
+
+**Explanation:**
+- **Ligand name:** The full-length AGT protein acts as the ligand, with its C-terminal PTS1 motif (KKL) mediating interaction.
+- **Receptor protein name:** Pex5p is the peroxisomal import receptor.
+- **Receptor organism:** Both AGT and Pex5p are human-derived (studied in human fibroblasts and purified human proteins).
+- **Affinity value:** Directly reported as \( K_d = 3.5 \, \mu\text{M} \) in Table 1 and text.
+- **Wet lab method:** Isothermal titration calorimetry (ITC) was used for affinity measurement.
+- **PDBID:** The complex structure is deposited under **3R9A** (mentioned in the Materials and Methods section). 
+
+No other ligand-receptor pairs or measurements are explicitly described in the provided text.

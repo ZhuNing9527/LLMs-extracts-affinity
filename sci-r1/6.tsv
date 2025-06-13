@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+WT Cc	cytochrome c peroxidase (WT)	Saccharomyces cerevisiae	¦¤G=-8.1 ¡À0.1 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (D34A)	Saccharomyces cerevisiae	¦¤G=-9.0 ¡À0.7 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (V197A)	Saccharomyces cerevisiae	¦¤G=-6.0 ¡À0.2 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (E290A)	Saccharomyces cerevisiae	¦¤G=-1.9 ¡À0.2 kcal/mol	isothermal titration calorimetry	
+K87A Cc	cytochrome c peroxidase (WT)	Saccharomyces cerevisiae	¦¤G=-7.2 kcal/mol	isothermal titration calorimetry	
+K87A Cc	cytochrome c peroxidase (D34A)	Saccharomyces cerevisiae	¦¤G=-7.9 ¡À0.3 kcal/mol	isothermal titration calorimetry	
+K87A Cc	cytochrome c peroxidase (V197A)	Saccharomyces cerevisiae	¦¤G=-6.6 ¡À0.5 kcal/mol	isothermal titration calorimetry	
+K72A Cc	cytochrome c peroxidase (WT)	Saccharomyces cerevisiae	¦¤G=-7.8 ¡À0.2 kcal/mol	isothermal titration calorimetry	
+K72A Cc	cytochrome c peroxidase (V197A)	Saccharomyces cerevisiae	¦¤G=-5.3 ¡À0.7 kcal/mol	isothermal titration calorimetry	
+K72A Cc	cytochrome c peroxidase (E290A)	Saccharomyces cerevisiae	¦¤G=-7.0 ¡À0.2 kcal/mol	isothermal titration calorimetry	
+A81G Cc	cytochrome c peroxidase (WT)	Saccharomyces cerevisiae	¦¤G=-6.2 ¡À0.4 kcal/mol	isothermal titration calorimetry	
+A81G Cc	cytochrome c peroxidase (D34A)	Saccharomyces cerevisiae	¦¤G=-8.2 kcal/mol	isothermal titration calorimetry	
+A81G Cc	cytochrome c peroxidase (V197A)	Saccharomyces cerevisiae	¦¤G=-6.0 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (D217A)	Saccharomyces cerevisiae	¦¤G=-7.7 ¡À0.1 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (L182A)	Saccharomyces cerevisiae	¦¤G=-7.4 ¡À0.2 kcal/mol	isothermal titration calorimetry	
+WT Cc	cytochrome c peroxidase (D148A)	Saccharomyces cerevisiae	¦¤G=-7.8 ¡À0.1 kcal/mol	isothermal titration calorimetry

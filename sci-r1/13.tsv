@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+CD8aa	HLA-A2	Homo sapiens	Kd=159 ¡À18 ¦ÌM	surface plasmon resonance	
+CD8aa	HLA-A2	Homo sapiens	Kd=126 ¡À34 ¦ÌM	surface plasmon resonance	
+CD8aa	HLA-A2	Homo sapiens	Kd=173 ¦ÌM	surface plasmon resonance	
+CD8aa	HLA-A2	Homo sapiens	Kd=211 ¦ÌM	surface plasmon resonance	
+CD8aa	HLA-A2	Homo sapiens	Kd=107 ¡À2 ¦ÌM	surface plasmon resonance	
+CD8aa	HLA-A2	Homo sapiens	Kd=132 ¡À10 ¦ÌM	surface plasmon resonance

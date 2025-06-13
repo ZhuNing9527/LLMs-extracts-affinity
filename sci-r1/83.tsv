@@ -1,0 +1,9 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+The provided text does not contain explicit affinity values (e.g., Kd, Ki, IC50) or specific wet lab methods used for affinity measurement (e.g., surface plasmon resonance, isothermal titration calorimetry). While the PDBID **1IAS** is mentioned for the T??R-I/FKBP12 complex, the associated affinity value and method for its determination are absent. Consequently, no complete entries meeting all six columns' requirements can be extracted. 
+
+### Final Output (TSV):
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+```
+
+*Note: No data meets the specified criteria for extraction.*

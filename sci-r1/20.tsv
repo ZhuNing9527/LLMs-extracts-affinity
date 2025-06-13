@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+BLIP-II	TEM-1 ¦Â-lactamase	Escherichia coli	Ki*=0.0272 nM	enzyme activity assay	1JTD
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Ki*=0.11 nM	enzyme activity assay	1JTG

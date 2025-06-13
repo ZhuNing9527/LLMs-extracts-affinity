@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	2. Receptor protein name	3. Receptor protein organism source	4. Affinity value	5. Wet lab method for affinity measurement	6. Corresponding complex PDBID
+HIV-1 Nef?1-57	Hck SH3	Homo sapiens	Kd=1.5 ?M	isothermal titration calorimetry	
+HIV-1 Nef?1-57	Fyn SH3	Homo sapiens	Kd=15.8 ?M	isothermal titration calorimetry	1AVZ
+HIV-1 Nef?1-57	Lck SH3	Homo sapiens	Kd=10.6 ?M	isothermal titration calorimetry	
+HIV-1 Nef?1-57	Src SH3	Homo sapiens	Kd=14.3 ?M	isothermal titration calorimetry	
+HIV-1 Nef (full length)	Hck SH3	Homo sapiens	Kd=0.6 ?M	isothermal titration calorimetry	
+HIV-1 Nef (full length)	Src SH3	Homo sapiens	Kd=11.4 ?M	isothermal titration calorimetry

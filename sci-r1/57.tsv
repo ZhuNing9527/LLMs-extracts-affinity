@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Nickel ion (Ni??)	VHHmetal antibody		Kd=30 ?M	isothermal titration calorimetry	4PPT
+RNase A	VHHmetal antibody		Kd=155 nM	isothermal titration calorimetry	4POU

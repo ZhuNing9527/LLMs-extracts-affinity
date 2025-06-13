@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+CI2	subtilisin BPN9			Ki=2.0 pM	enzyme activity assay	
+CI2	subtilisin BPN9			Ki=1.9 pM	stopped-flow fluorescence spectroscopy	
+YA42	subtilisin BPN9			Ki=79.2 pM	enzyme activity assay	
+YA42	subtilisin BPN9			Ki=80.062 pM	stopped-flow fluorescence spectroscopy	
+YG42	subtilisin BPN9			Ki=54006124 pM	stopped-flow fluorescence spectroscopy	
+RA46	subtilisin BPN9			Ki=362638 pM	enzyme activity assay	
+RA48	subtilisin BPN9			Ki=278624 pM	enzyme activity assay	
+RA46/RA48	subtilisin BPN9			Ki=101506767 pM	enzyme activity assay	
+RC48	subtilisin BPN9			Ki=471631 pM	enzyme activity assay

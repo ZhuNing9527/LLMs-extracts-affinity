@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+COMPOUND 5	HIF-1a	Homo sapiens	Kd=10 ?M	surface plasmon resonance (SPR)	4H6J
+
+# Extracted Data Explanation:
+- **Ligand name**: "COMPOUND 5" is explicitly named as the ligand in the text (Table II, Results section).
+- **Receptor protein name**: "HIF-1a" is the receptor protein described in the study (Abstract, Results).
+- **Receptor protein organism source**: "Homo sapiens" is stated in the structural deposition note (PDB ID 4H6J).
+- **Affinity value**: "Kd=10 ?M" is directly reported for the COMPOUND 5 conjugate in Table III (SPR analysis).
+- **Wet lab method**: "surface plasmon resonance (SPR)" is the method used for affinity measurement (Table III caption, Results section).
+- **PDBID**: "4H6J" is explicitly provided as the PDB ID for the HIF-1a/ARNT complex (Structure deposition paragraph). 
+
+No additional entries were found, as other affinity values (e.g., ITC data in Table I) pertain to unmodified proteins or non-ligand interactions.

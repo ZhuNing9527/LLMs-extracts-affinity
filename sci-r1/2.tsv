@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=0.4 nM	enzyme inhibition assay	
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=0.29 nM	fluorescence quench titration	
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=0.3 nM	surface plasmon resonance	
+BLIP-D49A	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=29 nM	enzyme inhibition assay	
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=2.3 nM	enzyme inhibition assay	
+BLIP	TEM-1 ¦Â-lactamase	Escherichia coli	Kd=0.6 nM	enzyme activity assay	
+BLIP-wt	TEM-R244A	Escherichia coli	Kd=137 nM	surface plasmon resonance	
+BLIP-wt	TEM-R244A	Escherichia coli	Kd=27.9 nM	surface plasmon resonance	
+BLIP-wt	TEM-R244A	Escherichia coli	Kd=3.4 nM	enzyme inhibition assay	
+BLIP-wt	TEM-S235A	Escherichia coli	Kd=43 nM	surface plasmon resonance	
+BLIP-wt	TEM-K234A	Escherichia coli	Kd=91 nM	surface plasmon resonance	
+BLIP-wt	TEM-S130A	Escherichia coli	Kd=29 nM	surface plasmon resonance	
+BLIP-wt	TEM-R244A/K234A	Escherichia coli	Kd=515 nM	surface plasmon resonance	
+BLIP-D49A	TEM-wt	Escherichia coli	Kd=227 nM	surface plasmon resonance	
+BLIP-D49A	TEM-R244A	Escherichia coli	Kd=67 nM	surface plasmon resonance	
+BLIP-D49A	TEM-S235A	Escherichia coli	Kd=12 nM	surface plasmon resonance	
+BLIP-D49A	TEM-K234A	Escherichia coli	Kd=98 nM	surface plasmon resonance	
+BLIP-D49A	TEM-S130A	Escherichia coli	Kd=85 nM	surface plasmon resonance	
+BLIP-D49A	TEM-R244A/K234A	Escherichia coli	Kd=241 nM	surface plasmon resonance

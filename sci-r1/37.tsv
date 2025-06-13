@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Ile-Val	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=20500 M??	circular dichroism	
+Ile-Val-Gly-NH2	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=20700 M??	circular dichroism	
+Ile-Val-Gly-OMe	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=19800 M??	circular dichroism	
+Ile-Leu	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=1300 M??	circular dichroism	
+Val-Val	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=710 M??	circular dichroism	
+Ile-Ala	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=130 M??	circular dichroism	
+Leu-Val	p-Guanidinobenzoate-trypsinogen	Bovine	Ka=107 M??	circular dichroism	
+Ile-Val	trypsinogen-PTI complex	Bovine	Ka=1.3e5 M??	enzyme activity assay	
+Ile-Val	trypsinogen-PTI complex	Bovine	Ka=6.7e3 M??	enzyme activity assay	
+Val-Val	trypsinogen-PTI complex	Bovine	Ka=1.3e3 M??	enzyme activity assay	
+Leu-Val	trypsinogen-PTI complex	Bovine	Ka=7.1e3 M??	enzyme activity assay

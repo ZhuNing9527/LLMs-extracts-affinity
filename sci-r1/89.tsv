@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+V4S/S68T mutant	MMP-3	Homo sapiens	Kd=3.9 nM	surface plasmon resonance	1UEA
+V4S/S68T mutant	MMP-1	Homo sapiens	IC50=15.5 nM	enzyme activity assay	
+T98L mutant	MMP-3	Homo sapiens	Kd=2.1 nM	surface plasmon resonance	
+T98L mutant	MMP-1	Homo sapiens	IC50=5.7 nM	enzyme activity assay	
+V4S/S68D mutant	MMP-3	Homo sapiens	Kd=8.4 nM	surface plasmon resonance	
+V4S/S68D mutant	MMP-1	Homo sapiens	IC50=23.4 nM	enzyme activity assay	
+L6A mutant	MMP-9	Homo sapiens	Kd=4.5 nM	surface plasmon resonance	
+L6A mutant	MMP-2	Homo sapiens	IC50=6.8 nM	enzyme activity assay	
+F67A mutant	MMP-3	Homo sapiens	Kd=12.3 nM	surface plasmon resonance	
+F67A mutant	MMP-1	Homo sapiens	IC50=18.9 nM	enzyme activity assay

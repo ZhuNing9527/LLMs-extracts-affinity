@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+PTAP peptide	Tsg101 UEV	Homo sapiens	Kd=27 ?M	surface plasmon resonance	
+PTAP peptide	Tsg101 UEV	Homo sapiens	Kd=4.3 ?M	NMR chemical shift perturbation	
+Ubiquitin	Tsg101 UEV	Homo sapiens	Kd=635 ?M	surface plasmon resonance	
+Ubiquitin	Tsg101 UEV	Homo sapiens	Kd=354 ?M	NMR chemical shift perturbation	
+p6-Ub fusion	Tsg101 UEV	Homo sapiens	Kd=2.1 ?M	surface plasmon resonance

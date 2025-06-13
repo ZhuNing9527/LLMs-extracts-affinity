@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+V-1	Actin capping protein (CP)	Homo sapiens / Gallus gallus	Kd=21 nM	surface plasmon resonance	3AAA
+CARMIL peptide (CA21)	Actin capping protein (CP)	Mus musculus / Gallus gallus	Kd=80 nM (GST-CA76)	surface plasmon resonance	3AA0
+CD2AP peptide (CD23)	Actin capping protein (CP)	Homo sapiens / Gallus gallus	Kd=62 nM (GST-CD44)	surface plasmon resonance	3AA6
+CKIP-1 peptide (CK23)	Actin capping protein (CP)	Homo sapiens / Gallus gallus	Kd=18 nM (GST-CD47)	surface plasmon resonance	3AA1
+```
+
+**Explanation:**
+- **V-1**: Directly mentioned in the text with Kd=21 nM via surface plasmon resonance (Table S2) and PDBID 3AAA.
+- **CARMIL (CA21)**: Structure (3AA0) and affinity from GST-CA76 (KD=80 nM in Table 2).
+- **CD2AP (CD23)**: Structure (3AA6) and affinity from GST-CD44 (KD=62 nM in Table 2).
+- **CKIP-1 (CK23)**: Structure (3AA1) and affinity from GST-CD47 (KD=18 nM in Table 2).  
+**Note:** Affinity values are extracted directly from GST-fusion constructs (Table 2) as explicit peptide-only values are not provided. Organism sources are derived from peptide origins (mouse/human) and receptor (chicken CP).

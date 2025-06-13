@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	2. Receptor protein name	3. Receptor protein organism source	4. Affinity value	5. Wet lab method for affinity measurement	6. Corresponding complex PDBID
+wt-rHCII	a-thrombin	Homo sapiens	k2=2.7e4 M?? min??	enzyme activity assay	
+R200A-rHCII	a-thrombin	Homo sapiens	k2=9.5e4 M?? min??	enzyme activity assay	
+R200E-rHCII	a-thrombin	Homo sapiens	k2=15.4e4 M?? min??	enzyme activity assay	
+wt-rHCII	a-thrombin	Homo sapiens	k2=4.1e8 M?? min??	enzyme activity assay	
+R200A-rHCII	a-thrombin	Homo sapiens	k2=5.5e8 M?? min??	enzyme activity assay	
+R200E-rHCII	a-thrombin	Homo sapiens	k2=4.6e8 M?? min??	enzyme activity assay	
+wt-rHCII	a-thrombin	Homo sapiens	k2=1.2e9 M?? min??	enzyme activity assay	
+R200A-rHCII	a-thrombin	Homo sapiens	k2=1.3e9 M?? min??	enzyme activity assay	
+R200E-rHCII	a-thrombin	Homo sapiens	k2=1.1e9 M?? min??	enzyme activity assay	
+wt-rHCII	gT-thrombin	Homo sapiens	k2=1.4e4 M?? min??	enzyme activity assay	
+R200A-rHCII	gT-thrombin	Homo sapiens	k2=3.3e4 M?? min??	enzyme activity assay	
+R200E-rHCII	gT-thrombin	Homo sapiens	k2=3.2e4 M?? min??	enzyme activity assay	
+wt-rHCII	chymotrypsin	Bos taurus	k2=1.6e5 M?? min??	enzyme activity assay	
+R200A-rHCII	chymotrypsin	Bos taurus	k2=1.7e5 M?? min??	enzyme activity assay	
+R200E-rHCII	chymotrypsin	Bos taurus	k2=1.7e5 M?? min??	enzyme activity assay

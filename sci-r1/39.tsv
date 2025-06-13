@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+TdPI	Trypsin	Bos taurus	Ki=5.6(¡À2.0) nM	enzyme activity assay	2UUY
+TdPI	Plasmin	Homo sapiens	Ki=55(¡À10) nM	enzyme activity assay

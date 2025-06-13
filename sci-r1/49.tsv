@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+2. TusA	IscS	Escherichia coli	Kd=0.966 ?M	surface plasmon resonance	
+3. IscS	TusA	Escherichia coli	Kd=0.304 ?M	surface plasmon resonance	
+4. IscU	IscS	Escherichia coli	Kd=14.6 ?M	surface plasmon resonance	
+5. IscS	IscU	Escherichia coli	Kd=0.574 ?M	surface plasmon resonance	
+
+**Explanation:**
+- **Ligand and Receptor:** The ligand is the analyte in solution, and the receptor is the immobilized protein in the SPR experiments.
+- **Affinity Values:** Extracted KD values from Table 7 in the text.
+- **Organism Source:** All proteins are from *Escherichia coli* as the study focuses on E. coli.
+- **Wet Lab Method:** Surface plasmon resonance (SPR) is explicitly mentioned as the method used.
+- **PDBID:** No PDB IDs were provided in the text, so this column is left blank.

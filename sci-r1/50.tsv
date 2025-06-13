@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+1. Ligand name	2. Receptor protein name	3. Receptor protein organism source	4. Affinity value	5. Wet lab method for affinity measurement	6. Corresponding complex PDBID
+TOR2 RBD	ACE2	Homo sapiens	Kd=16.2 nM	surface plasmon resonance	
+K344R RBD	ACE2	Homo sapiens	Kd=16.0 nM	surface plasmon resonance	
+F360S RBD	ACE2	Homo sapiens	Kd=14.1 nM	surface plasmon resonance	
+N479K RBD	ACE2	Homo sapiens	Kd=484 nM	surface plasmon resonance	
+T487S RBD	ACE2	Homo sapiens	Kd=352 nM	surface plasmon resonance	
+SZ3 RBD	ACE2	Homo sapiens	Kd=551 uM	surface plasmon resonance

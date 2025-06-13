@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+GTP	RanBP1	Homo sapiens	Kd=1 nM	fluorescence spectroscopy	
+GDP	RanBP1	Homo sapiens	Kd=10 ¦ÌM	fluorescence spectroscopy	
+GppNHp	RanGAP	Schizosaccharomyces pombe	Kd=7 ¦ÌM	fluorescence spectroscopy	
+GppNHp	RanGAP	Schizosaccharomyces pombe	Kd=2 ¦ÌM	fluorescence spectroscopy	
+GDP	RanGAP	Schizosaccharomyces pombe	Kd=100 ¦ÌM	fluorescence spectroscopy	
+GDP	RanGAP	Schizosaccharomyces pombe	Kd=2 ¦ÌM	fluorescence spectroscopy

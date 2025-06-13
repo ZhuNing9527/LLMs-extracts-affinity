@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+Ub-AMC	UCH-L3	Oryctolagus cuniculus	Km=38.6 nM	enzyme activity assay	
+Ub-AMC	Isopeptidase T	Oryctolagus cuniculus	Km=1.4 ?M	enzyme activity assay	
+Ub-AMC	Isopeptidase T	Oryctolagus cuniculus	Km=0.17 ?M	enzyme activity assay	
+Ub-H	UCH-L3	Oryctolagus cuniculus	Ki<50 fM	enzyme activity assay	
+``` 
+
+**Notes:**  
+1. **Organism Source:** The receptor proteins (UCH-L3 and Isopeptidase T) were purified from rabbit reticulocytes (*Oryctolagus cuniculus*).  
+2. **Affinity Values:**  
+   - For **UCH-L3 + Ub-AMC**, \( K_m = 38.6 \, \text{nM} \) (directly extracted from Table 1).  
+   - For **Isopeptidase T + Ub-AMC**, two \( K_m \) values are reported depending on Ub presence: \( 1.4 \, \mu\text{M} \) (0 ?M Ub) and \( 0.17 \, \mu\text{M} \) (0.5 ?M Ub) (Table 1).  
+   - For **UCH-L3 + Ub-H**, \( K_i < 50 \, \text{fM} \) (from the inhibition study in Figure 5).  
+3. **Wet Lab Method:** All measurements used fluorescence-based enzyme activity assays (described in the "Kinetic Methods" section).  
+4. **PDBID:** No PDB IDs were mentioned in the text.
