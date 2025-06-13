@@ -1,0 +1,26 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+mAb 904	Cp183c	Hepatitis B virus	Kd=17 nM	surface plasmon resonance	NA
+mAb 904	Cp149c	Hepatitis B virus	Kd=15 nM	surface plasmon resonance	NA
+mAb 904	Cp(?10)149c	Hepatitis B virus	Kd=26 nM	surface plasmon resonance	NA
+mAb 904	Cp149d	Hepatitis B virus	Kd=3.4 nM	surface plasmon resonance	NA
+mAb 904	Cp(?10)149d	Hepatitis B virus	Kd=3.5 nM	surface plasmon resonance	NA
+mAb 905	Cp183c	Hepatitis B virus	Kd=0.84 nM	surface plasmon resonance	NA
+mAb 905	Cp149c	Hepatitis B virus	Kd=1.0 nM	surface plasmon resonance	NA
+mAb 905	Cp(?10)149c	Hepatitis B virus	Kd=14 nM	surface plasmon resonance	NA
+mAb 905	Cp149d	Hepatitis B virus	Kd=440 nM	surface plasmon resonance	NA
+mAb 905	Cp(?10)149d	Hepatitis B virus	Kd=0.20 nM	surface plasmon resonance	NA
+mAb 3105	Cp183c	Hepatitis B virus	Kd=34 nM	surface plasmon resonance	NA
+mAb 3105	Cp149c	Hepatitis B virus	Kd=4.9 nM	surface plasmon resonance	NA
+mAb 3105	Cp(?10)149c	Hepatitis B virus	Kd=3.2 nM	surface plasmon resonance	NA
+mAb 3105	Cp149d	Hepatitis B virus	Kd=33 nM	surface plasmon resonance	NA
+mAb 3105	Cp(?10)149d	Hepatitis B virus	Kd=340 nM	surface plasmon resonance	NA
+mAb 3120	Cp183c	Hepatitis B virus	Kd=23 pM	surface plasmon resonance	NA
+mAb 3120	Cp149c	Hepatitis B virus	Kd=12 pM	surface plasmon resonance	NA
+mAb 3120	Cp(?10)149c	Hepatitis B virus	Kd=19 pM	surface plasmon resonance	NA
+mAb F11A4	Cp183c	Hepatitis B virus	Kd=0.94 nM	surface plasmon resonance	NA
+mAb F11A4	Cp149c	Hepatitis B virus	Kd=0.10 nM	surface plasmon resonance	NA
+mAb F11A4	Cp(?10)149c	Hepatitis B virus	Kd=0.13 nM	surface plasmon resonance	NA
+mAb F11A4	Cp149d	Hepatitis B virus	Kd=6.9 nM	surface plasmon resonance	NA
+mAb F11A4	Cp(?10)149d	Hepatitis B virus	Kd=140 nM	surface plasmon resonance	NA
+mAb e6	Cp149d	Hepatitis B virus	Kd=3.3 nM	surface plasmon resonance	NA
+mAb e6	Cp(?10)149d	Hepatitis B virus	Kd=120 nM	surface plasmon resonance	NA

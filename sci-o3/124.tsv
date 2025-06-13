@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HIV-1 Nef protein	Hck SH3 domain		Kd=250 nM	surface plasmon resonance	
+HIV-1 Nef protein	Hck SH3 domain		Kd=188 nM	isothermal titration calorimetry	
+Nef PxxP peptide PVRPQVPLRPMT	Hck SH3 domain		Kd=91 uM	tryptophan fluorescence	
+Nef PxxP peptide PVRPQVPLRPMT	Fyn SH3 domain		Kd=202 uM	tryptophan fluorescence	
+HIV-1 Nef protein	Fyn SH3 domain		Kd>20 uM	surface plasmon resonance	
+HIV-1 Nef protein	Hck-RTE SH3 domain		Kd>20 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-IHH SH3 domain		Kd=2.0 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-IH SH3 domain		Kd=3.1 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-H SH3 domain		Kd>20 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-I SH3 domain		Kd=380 nM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-A SH3 domain		Kd=4.4 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-D SH3 domain		Kd>20 uM	surface plasmon resonance	
+HIV-1 Nef protein	Fyn-K SH3 domain		Kd>20 uM	surface plasmon resonance

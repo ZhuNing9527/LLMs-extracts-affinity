@@ -1,0 +1,23 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+BPTI (wild type)	¦Á-Trypsin	Bos taurus	Ki=5e-14 M	enzyme activity assay	2PTC
+BPTI (wild type)	R-Chymotrypsin	Bos taurus	Ki=1.7e-8 M	enzyme activity assay	
+BPTI (K15A)	¦Á-Trypsin	Bos taurus	Ki=1.4e-6 M	enzyme activity assay	2PTC
+BPTI (K15A)	R-Chymotrypsin	Bos taurus	Ki=3.3e-7 M	enzyme activity assay	
+BPTI (G12A)	¦Á-Trypsin	Bos taurus	Ki=8.3e-11 M	enzyme activity assay	2PTC
+BPTI (G12A)	R-Chymotrypsin	Bos taurus	Ki=3.5e-8 M	enzyme activity assay	
+BPTI (I18A)	¦Á-Trypsin	Bos taurus	Ki=2.4e-10 M	enzyme activity assay	2PTC
+BPTI (I18A)	R-Chymotrypsin	Bos taurus	Ki=1.5e-7 M	enzyme activity assay	
+BPTI (G36A)	¦Á-Trypsin	Bos taurus	Ki=2.1e-10 M	enzyme activity assay	2PTC
+BPTI (G36A)	R-Chymotrypsin	Bos taurus	Ki=5.6e-8 M	enzyme activity assay	
+BPTI (T11A)	R-Chymotrypsin	Bos taurus	Ki=1.6e-8 M	enzyme activity assay	
+BPTI (P13A)	R-Chymotrypsin	Bos taurus	Ki=2.3e-8 M	enzyme activity assay	
+BPTI (R17A)	R-Chymotrypsin	Bos taurus	Ki=1.8e-8 M	enzyme activity assay	
+BPTI (I19A)	R-Chymotrypsin	Bos taurus	Ki=1.8e-8 M	enzyme activity assay	
+BPTI (R20A)	R-Chymotrypsin	Bos taurus	Ki=2.0e-8 M	enzyme activity assay	
+BPTI (F33A)	R-Chymotrypsin	Bos taurus	Ki=1.8e-8 M	enzyme activity assay	
+BPTI (V34A)	R-Chymotrypsin	Bos taurus	Ki=2.4e-8 M	enzyme activity assay	
+BPTI (Y35A)	R-Chymotrypsin	Bos taurus	Ki=1.8e-8 M	enzyme activity assay	
+BPTI (G37A)	R-Chymotrypsin	Bos taurus	Ki=1.1e-8 M	enzyme activity assay	
+BPTI (R39A)	R-Chymotrypsin	Bos taurus	Ki=4.5e-8 M	enzyme activity assay	
+BPTI (K46A)	R-Chymotrypsin	Bos taurus	Ki=1.2e-8 M	enzyme activity assay

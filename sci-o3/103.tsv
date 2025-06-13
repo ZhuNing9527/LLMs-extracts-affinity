@@ -1,0 +1,7 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+iC3b	Complement receptor 3 ¦ÁI domain	Homo sapiens	Kd=0.6 ¦ÌM	isothermal titration calorimetry	4M76
+C3d	Complement receptor 3 ¦ÁI domain	Homo sapiens	Kd=0.45 ¦ÌM	isothermal titration calorimetry	4M76
+C3d R1254A mutant	Complement receptor 3 ¦ÁI domain	Homo sapiens	Kd=2.2 ¦ÌM	isothermal titration calorimetry	4M76
+iC3b	Complement receptor 3 ¦ÁI domain	Homo sapiens	Kd=0.4 ¦ÌM	surface plasmon resonance	4M76
+C3d	Complement receptor 3 ¦ÁI domain	Homo sapiens	Kd=0.4 ¦ÌM	surface plasmon resonance	4M76

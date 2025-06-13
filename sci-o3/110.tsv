@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Neurexin-1b	Neuroligin-1	Rattus norvegicus	Kd=97 nM	isothermal titration calorimetry	N/A
+Neurexin-1b	Neuroligin-2	Rattus norvegicus	Kd=830 nM	isothermal titration calorimetry	N/A
+Neurexin-1b	Neuroligin-1 (NL1-LND)	Rattus norvegicus	Kd>10 mM	isothermal titration calorimetry	N/A
+Neurexin-1b	Neuroligin-1 (NL1-LNDQE)	Rattus norvegicus	Kd>50 mM	surface plasmon resonance	N/A
+Neurexin-1b	Neuroligin-1 (NL1-LNDEK)	Rattus norvegicus	Kd>10 mM	surface plasmon resonance	N/A
+Neurexin-1b	Neuroligin-1	Rattus norvegicus	Kd=20.9 nM	surface plasmon resonance	N/A

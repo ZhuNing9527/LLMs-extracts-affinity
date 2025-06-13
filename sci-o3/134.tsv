@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method	for complex PDBID  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=6.94 nM	biolayer interferometry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=4.82 nM	biolayer interferometry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.12 nM	biolayer interferometry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=0.31 nM	biolayer interferometry	3MXW  
+Rattus norvegicus Sonic hedgehog	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.51 nM	biolayer interferometry	3MXW  
+Indian hedgehog (Ihh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=0.29 nM	biolayer interferometry	3MXW  
+Desert hedgehog (Dhh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.71 nM	biolayer interferometry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=6.94 nM	isothermal titration calorimetry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.1 nM	isothermal titration calorimetry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.8 nM	isothermal titration calorimetry	3MXW  
+Sonic hedgehog (Shh)	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=0.7 nM	isothermal titration calorimetry	3MXW  
+Rattus norvegicus Sonic hedgehog	chimeric 5E1 Fab	Mus musculus/Homo sapiens	KD=1.1 nM	isothermal titration calorimetry	3MXW

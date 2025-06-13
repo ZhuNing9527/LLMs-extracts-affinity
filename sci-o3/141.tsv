@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+D. radiodurans Trx1	Thioredoxin reductase (TrxR)	Deinococcus radiodurans	Km=5.7 ?M	insulin reduction assay	2Q7V
+E. coli Trx1	Thioredoxin reductase (TrxR)	Deinococcus radiodurans	Km=32.4 ?M	insulin reduction assay	2Q7V
+D. radiodurans Trx1	Thioredoxin reductase (TrxR)	Escherichia coli	Km=44.4 ?M	insulin reduction assay	1TDE
+E. coli Trx1	Thioredoxin reductase (TrxR)	Escherichia coli	Km=2.7 ?M	insulin reduction assay	1TDE

@@ -1,0 +1,11 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+NuiA	NucA	Anabaena sp.	Ki=3.2 pM	enzyme activity assay	2O3B  
+NuiA E24A	NucA	Anabaena sp.	Ki=33 nM	enzyme activity assay	2O3B  
+NuiA E24D	NucA	Anabaena sp.	Ki=8.8 pM	enzyme activity assay	2O3B  
+NuiA E24Q	NucA	Anabaena sp.	Ki=29 nM	enzyme activity assay	2O3B  
+NuiA ?¡±T135	NucA	Anabaena sp.	Ki=1.9 nM	enzyme activity assay	2O3B  
+NuiA Q74A	NucA	Anabaena sp.	Ki=0.75 nM	enzyme activity assay	2O3B  
+NuiA D75E	NucA	Anabaena sp.	Ki=31 nM	enzyme activity assay	2O3B  
+NuiA D75N	NucA	Anabaena sp.	Ki=680 nM	enzyme activity assay	2O3B  
+NuiA W76A	NucA	Anabaena sp.	Ki=3.1 nM	enzyme activity assay	2O3B  
+NuiA Q74A/W76A	NucA	Anabaena sp.	Ki=53 nM	enzyme activity assay	2O3B

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+hsCK2b1¨C193	hsCK2a1¨C335	Homo sapiens	Kd=12.6 nM	isothermal titration calorimetry	1JWH
+full-length CK2b	CK2a/glutathione-S-transferase fusion protein	Homo sapiens	Kd=5.4 nM	surface plasmon resonance	1JWH

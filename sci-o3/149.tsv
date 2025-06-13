@@ -1,0 +1,12 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+PMP-C	¦Á-chymotrypsin	Bos taurus	Ki=0.2 nM	enzyme activity assay	
+PMP-C	human leukocyte elastase	Homo sapiens	Ki=0.12 mM	enzyme activity assay	
+PMP-C (synthetic nonfucosylated)	¦Á-chymotrypsin	Bos taurus	Ki=0.13 nM	enzyme activity assay	
+PMP-C (K31M/A32G)	¦Á-chymotrypsin	Bos taurus	Ki=0.16 nM	enzyme activity assay	
+PMP-C (K31M/A32G)	human leukocyte elastase	Homo sapiens	Ki=22.85 nM	enzyme activity assay	
+PMP-D2 (R29L)	¦Á-chymotrypsin	Bos taurus	Ki=0.78 nM	enzyme activity assay	
+PMP-D2 (R29L)	human leukocyte elastase	Homo sapiens	Ki=12.70 nM	enzyme activity assay	
+PMP-D2 (R29L/K30M)	¦Á-chymotrypsin	Bos taurus	Ki=2.04 nM	enzyme activity assay	
+PMP-D2 (R29L/K30M)	human leukocyte elastase	Homo sapiens	Ki=3.50 nM	enzyme activity assay	
+HI (R29L)	¦Á-chymotrypsin	Bos taurus	Ki=0.067 nM	enzyme activity assay	
+HI (R29L)	human leukocyte elastase	Homo sapiens	Ki=38.20 nM	enzyme activity assay

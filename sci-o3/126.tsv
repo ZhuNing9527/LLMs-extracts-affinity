@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Peptidoglycan-associated lipoprotein (Pal)	TolB	Escherichia coli	Kd=27 nM	isothermal titration calorimetry	2HQS
+Colicin E9 N-terminal disordered region (NDR)	TolB	Escherichia coli	Kd=90 nM	isothermal titration calorimetry	2IVZ

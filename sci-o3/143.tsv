@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+Rac1，Q61L，GTP	p67phox TPR domain	Homo sapiens	Kd=2.7 mM	isothermal titration calorimetry	  
+Rac2，Q61L，GTP	p67phox TPR domain	Homo sapiens	Kd=1.9 mM	isothermal titration calorimetry	  
+Cdc42，GMPPNP (K27A,S30G)	p67phox TPR domain	Homo sapiens	Kd=6.0 mM	isothermal titration calorimetry

@@ -1,0 +1,6 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID  
+AL-57	Integrin LFA-1 I domain (K287C K294C, high-affinity open form)	Homo sapiens	Kd=23 nM	surface plasmon resonance	  
+AL-57	Integrin LFA-1 I domain (L161C F299C, intermediate-affinity closed form)	Homo sapiens	Kd=4700 nM	surface plasmon resonance	  
+ICAM-1	Integrin LFA-1 I domain (K287C K294C, high-affinity open form)	Homo sapiens	Kd=150 nM	surface plasmon resonance	  
+ICAM-1	Integrin LFA-1 I domain (L161C F299C, intermediate-affinity closed form)	Homo sapiens	Kd=3200 nM	surface plasmon resonance

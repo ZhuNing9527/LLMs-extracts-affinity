@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Complex PDBID
+14NT	G-actin	Oryctolagus cuniculus	Kd=25 nM	fluorescence spectroscopy	None
+41CT	G-actin	Oryctolagus cuniculus	Kd=25 nM	fluorescence spectroscopy	None

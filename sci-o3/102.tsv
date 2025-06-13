@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name?Receptor protein name?Receptor protein organism source?Affinity value?Wet lab method for affinity measurement?Corresponding complex PDBID  
+4C1 Fab fragment?Der f 1?Dermatophagoides farinae?Kd=17 nM?isothermal titration calorimetry?3RVV  
+4C1 Fab fragment?Der p 1?Dermatophagoides pteronyssinus?Kd=19 nM?isothermal titration calorimetry?3RVW

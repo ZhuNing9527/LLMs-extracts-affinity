@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+CA151	Cyclophilin A	Homo sapiens	Kd=16 uM	isothermal titration calorimetry	N/A
+CA (full-length)	Cyclophilin A	Homo sapiens	Kd=16 uM	isothermal titration calorimetry	N/A
+CA151	Cyclophilin A	Homo sapiens	Kd=18 uM	surface plasmon resonance	N/A
+CA (full-length)	Cyclophilin A	Homo sapiens	Kd=12 uM	surface plasmon resonance	N/A
+GST-MA-CA (Gag 1¨C363)	Cyclophilin A	Homo sapiens	Kd=12 uM	surface plasmon resonance	N/A
+GST-CA-NC-p6 (Gag 133¨C499)	Cyclophilin A	Homo sapiens	Kd=14 uM	surface plasmon resonance	N/A

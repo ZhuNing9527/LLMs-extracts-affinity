@@ -1,0 +1,3 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+VEGF	Fab fragment of humanized anti-VEGF antibody (Fab-12)	Homo sapiens	Kd=3.4 nM	surface plasmon resonance	1bj1
+VEGF	Humanized anti-VEGF Fab phage (Y0192)	Homo sapiens	IC50=4.7 nM	ELISA	1bj1

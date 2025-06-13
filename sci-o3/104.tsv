@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ephrin-B2 Fc	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=9 nM	ELISA	
+Human ephrin-B2 monomer	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=10 nM	ELISA	
+TNYLFSPNGPIARAW (TNYL-RAW)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=15 nM	ELISA	
+每NYLFSPNGPIARAW (NYLF-RAW)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=40 nM	ELISA	
+每每YLFSPNGPIARAW (YLFS-RAW)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=40 nM	ELISA	
+每每每LFSPNGPIARAW (LFSP-RAW)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50>10 uM	ELISA	
+TNYLFSPNGPIA (TNYL)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=150 uM	ELISA	
+TNYLFSPNGPIAGSGSK-biotin (TNYL-biotin)	Mouse EphB4 ectodomain Fc fusion protein	Mus musculus	IC50=50 uM	ELISA	
+TNYL-RAW	Human EphB4 ephrin binding domain	Homo sapiens	Kd=71 nM	isothermal titration calorimetry	
+NYLF-RAW	Human EphB4 ephrin binding domain	Homo sapiens	Kd=65 nM	isothermal titration calorimetry	
+YLFS-RAW	Human EphB4 ephrin binding domain	Homo sapiens	Kd=80 nM	isothermal titration calorimetry	
+LFSP-RAW	Human EphB4 ephrin binding domain	Homo sapiens	Kd=3500 nM	isothermal titration calorimetry	
+TNYL	Human EphB4 ephrin binding domain	Homo sapiens	Kd>140000 nM	isothermal titration calorimetry	
+Ephrin-B2	Human EphB4 ephrin binding domain	Homo sapiens	Kd=40 nM	isothermal titration calorimetry

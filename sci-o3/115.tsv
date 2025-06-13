@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HPr	HprK/P	Bacillus subtilis	Kd=45 nM	surface plasmon resonance	
+Crh	HprK/P	Bacillus subtilis	Kd=39 nM	surface plasmon resonance	
+HPr	HprK/P	Bacillus subtilis	Kd=3.1 nM	surface plasmon resonance	
+Crh	HprK/P	Bacillus subtilis	Kd=5.1 nM	surface plasmon resonance

@@ -1,0 +1,25 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+PEA-15	ERK1	Homo sapiens	Kd=0.2¨C0.4 ?M	fluorescence anisotropy	
+PEA-15	ERK2	Homo sapiens	Kd=0.2¨C0.4 ?M	fluorescence anisotropy	
+PEA-15*	ERK1	Homo sapiens	Kd=48 nM	fluorescence anisotropy	
+PEA-15*	ERK1	Homo sapiens	Kd=550 nM	fluorescence anisotropy	
+P?PEA-15*	ERK1	Homo sapiens	Kd=41 nM	fluorescence anisotropy	
+P?PEA-15*	ERK1	Homo sapiens	Kd=462 nM	fluorescence anisotropy	
+P104?PEA-15*	ERK1	Homo sapiens	Kd=51 nM	fluorescence anisotropy	
+P104?PEA-15*	ERK1	Homo sapiens	Kd=670 nM	fluorescence anisotropy	
+PP?PEA-15*	ERK1	Homo sapiens	Kd=50 nM	fluorescence anisotropy	
+PP?PEA-15*	ERK1	Homo sapiens	Kd=600 nM	fluorescence anisotropy	
+PEA-15*	ERK2	Homo sapiens	Kd=62 nM	fluorescence anisotropy	
+PEA-15*	ERK2	Homo sapiens	Kd=460 nM	fluorescence anisotropy	
+P?PEA-15*	ERK2	Homo sapiens	Kd=39 nM	fluorescence anisotropy	
+P?PEA-15*	ERK2	Homo sapiens	Kd=400 nM	fluorescence anisotropy	
+P104?PEA-15*	ERK2	Homo sapiens	Kd=48 nM	fluorescence anisotropy	
+P104?PEA-15*	ERK2	Homo sapiens	Kd=540 nM	fluorescence anisotropy	
+PP?PEA-15*	ERK2	Homo sapiens	Kd=45 nM	fluorescence anisotropy	
+PP?PEA-15*	ERK2	Homo sapiens	Kd=630 nM	fluorescence anisotropy	
+PEA-15	ERK1	Homo sapiens	Kd=182 nM	fluorescence anisotropy competition	
+PEA-15	ERK1	Homo sapiens	Kd=245 nM	fluorescence anisotropy competition	
+PEA-15	ERK2	Homo sapiens	Kd=133 nM	fluorescence anisotropy competition	
+PEA-15	ERK2	Homo sapiens	Kd=130 nM	fluorescence anisotropy competition	
+Elk-1 D peptide (N-QKGKRPRDLELPLSPSL-C)	ERK2	Homo sapiens	Kd=3.9 ?M	fluorescence anisotropy competition

@@ -1,0 +1,4 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID  
+raver1 RRM1??¡°3	vinculin Vt domain	Homo sapiens	Kd=12.6 mM	isothermal titration calorimetry	3H2U  
+raver1 RRM1	vinculin Vt domain	Homo sapiens	Kd=22.1 mM	isothermal titration calorimetry	3H2V

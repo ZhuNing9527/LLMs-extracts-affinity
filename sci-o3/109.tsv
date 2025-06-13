@@ -1,0 +1,5 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	corresponding complex PDBID
+PRS-010#001	CTLA-4	Homo sapiens	Kd=79.8 nM	surface plasmon resonance	¨C
+PRS-010#002	CTLA-4	Homo sapiens	Kd=23.8 nM	surface plasmon resonance	¨C
+PRS-010#003	CTLA-4	Homo sapiens	Kd=9.0 nM	surface plasmon resonance	3BX8
