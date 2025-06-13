@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Alkaline Proteinase Inhibitor (APRin)	Alkaline Proteinase (APR)	Pseudomonas aeruginosa	Kd=4 pM	analytical ultracentrifugation	N/A
+```
+
+Key observations:
+- The text describes the interaction between the Alkaline Proteinase Inhibitor (APRin) and Alkaline Proteinase (APR) from Pseudomonas aeruginosa
+- The affinity was measured as an equilibrium dissociation constant (KD) of approximately 4 pM at 25?°„C, pH 7.0
+- The primary method for characterizing the interaction was analytical ultracentrifugation
+- No specific PDB ID was mentioned for the complex
+
+The extraction follows the specified requirements:
+1. Ligand name is the inhibitor protein
+2. Receptor protein name is the proteinase 
+3. Organism source is Pseudomonas aeruginosa
+4. Affinity value is in the requested Kd format
+5. Wet lab method is analytical ultracentrifugation
+6. Complex PDBID is marked as N/A since none was provided

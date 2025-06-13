@@ -1,0 +1,17 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+HPr	Jel42 monoclonal antibody	Mus musculus	Kd=2.8 nM	fluorescence polarization	ND
+HPr	Jel42 Fab fragment	Mus musculus	Kd=3.7 nM	fluorescence polarization	ND
+HPr	Jel44 monoclonal antibody	Mus musculus	Kd=5.1 nM	fluorescence polarization	ND
+HPr	Jel44 Fab fragment	Mus musculus	Kd=6.3 nM	fluorescence polarization	ND
+HPr	Jel323 monoclonal antibody	Mus musculus	Kd=5.7 nM	fluorescence polarization	ND
+HPr	Jel323 Fab fragment	Mus musculus	Kd=5.1 nM	fluorescence polarization	ND
+
+Notes:
+- ND (Not Determined) is used for the complex PDBID as no specific PDB ID was mentioned in the text
+- Organism source is Mus musculus (mouse) as these are monoclonal antibodies
+- Wet lab method is fluorescence polarization for all measurements
+- Affinity values are reported as Kd (dissociation constant) in nM
+- Ligand is consistently HPr (histidine-containing phosphocarrier protein)

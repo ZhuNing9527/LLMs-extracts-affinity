@@ -1,0 +1,8 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, after carefully reviewing the text, I found that this particular paper is a methodological description of protein immobilization techniques using surface plasmon resonance, and does not contain direct ligand-receptor binding affinity measurements.
+
+The paper describes a method for immobilizing histidine-tagged proteins on a surface plasmon resonance (SPR) biosensor using a nickel-NTA chelating linkage. While it discusses protein interactions (specifically between VP39 and VP55 proteins), it does not provide quantitative affinity measurements in the format requested.
+
+Therefore, I cannot generate a TSV output with the specified columns, as the required data is not present in this text. The paper is focused on the technical method of protein immobilization rather than reporting specific ligand-receptor binding affinities.
+
+If you would like me to extract data in this format, I would need a different scientific literature text that contains explicit affinity measurements between ligands and receptors.

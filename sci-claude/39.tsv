@@ -1,0 +1,27 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns.
+
+Here's the extracted data in TSV format:
+
+```tsv
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+TdPI	¦Â-tryptase	Homo sapiens	Ki=55 nM	enzyme activity assay	2UUY
+TdPI	trypsin	Bos taurus	Ki=5.6 nM	enzyme activity assay	2UUY
+```
+
+Explanation of the extraction:
+
+1. Ligand name: TdPI (Tick-derived Protease Inhibitor)
+2. Receptor protein names: 
+   - ¦Â-tryptase (human)
+   - trypsin (bovine)
+3. Receptor protein organism sources:
+   - Homo sapiens (for ¦Â-tryptase)
+   - Bos taurus (for trypsin)
+4. Affinity values:
+   - For human ¦Â-tryptase: Ki=55 nM
+   - For trypsin: Ki=5.6 nM
+5. Wet lab method: enzyme activity assay (as described in the "Inhibition assays" section)
+6. Corresponding complex PDBID: 2UUY (from the Protein Data Bank accession codes section)
+
+Note: The data is extracted directly from the text, following the specified requirements. The values are based on the experimental results reported in the scientific literature.

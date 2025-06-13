@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, I notice that this particular text is a detailed scientific paper about Ras and PI3Kg interactions, and does not contain multiple distinct ligand-receptor binding measurements. I'll extract the most relevant information available:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+H-Ras	Phosphoinositide 3-kinase ¦Ã (PI3K¦Ã)	Homo sapiens	Not explicitly stated	Multiple methods (in vitro activation, fluorescence anisotropy, crystallography)	Not provided in text
+```
+
+Key observations:
+- The text describes interactions between H-Ras and PI3K¦Ã
+- Multiple experimental methods were used to characterize the interaction
+- No explicit Kd or binding affinity value was directly stated in the text
+- The complex was structurally characterized, but no specific PDB ID was mentioned for the Ras-PI3K¦Ã complex
+
+The extraction is limited because the text is a detailed mechanistic study rather than a compilation of binding measurements. A more comprehensive extraction would require additional literature sources.

@@ -1,0 +1,21 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+uPA	Urokinase receptor (uPAR)	Homo sapiens	Kd=0.1-1 nM	surface plasmon resonance	N/A
+```
+
+Notes:
+- The text discusses the urokinase-type plasminogen activator receptor (uPAR) and its interaction with urokinase-type plasminogen activator (uPA)
+- The organism source is human (Homo sapiens)
+- The affinity value is reported as Kd=0.1-1 nM
+- The binding kinetics were measured using surface plasmon resonance
+- No specific PDB complex ID was mentioned in the text
+
+The extraction follows the specified requirements:
+1. Directly extracted from the literature
+2. No inferences or tampering with the data
+3. TSV format
+4. 6 columns as specified
+5. Each line represents one wet test measurement of affinity

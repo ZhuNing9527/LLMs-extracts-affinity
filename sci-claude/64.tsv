@@ -1,0 +1,15 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text and format it as a TSV with the specified columns. Based on the text, I found one relevant data point:
+
+```tsv
+E2	Membrane-type serine protease 1 (MT-SP1)	Homo sapiens	KI=8.0 pM	surface plasmon resonance	Not specified
+```
+
+Key observations:
+- The text describes two antibody inhibitors (E2 and S4) of the membrane-type serine protease 1 (MT-SP1)
+- The organism source is Homo sapiens
+- The affinity is measured as KI (inhibition constant)
+- The method of affinity measurement is surface plasmon resonance
+- No corresponding PDB complex ID was mentioned in the text
+
+The data point represents the most precise affinity measurement for the E2 antibody inhibitor against MT-SP1 from the provided scientific literature.

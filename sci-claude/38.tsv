@@ -1,0 +1,18 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one clear set of data that matches the extraction requirements:
+
+```tsv
+Ribonuclease inhibitor	Ribonuclease A	Homo sapiens	Ki=67 fM	enzyme activity assay	Not provided
+```
+
+Notes:
+- Ligand name: Ribonuclease inhibitor
+- Receptor protein name: Ribonuclease A
+- Receptor protein organism source: Homo sapiens (inferred from the context of human placental studies)
+- Affinity value: Ki=67 fM 
+- Wet lab method: enzyme activity assay
+- Complex PDBID: Not provided in the text
+
+The text provides detailed kinetic characterization of the ribonuclease inhibitor's interaction with ribonuclease A, but does not include a direct PDB complex ID. The affinity measurement is derived from the kinetic analysis described in the paper.
+
+Would you like me to elaborate on any part of the extraction?

@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, after carefully reviewing the text, I found that this specific paper does not contain a complete set of measurements for all 6 requested columns. I'll extract the available information:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+VHHmetal	RNase A	Not specified	Kd=155 ?M (for RNase A)	Isothermal titration calorimetry	4POU
+VHHmetal	Ni2+	Not specified	Kd=30 ?M (for Ni2+)	Isothermal titration calorimetry	4PPT
+```
+
+Notes:
+1. The organism source is not explicitly stated in the text.
+2. The affinity values are derived from the text's description of the VHHmetal variant.
+3. The wet lab method is isothermal titration calorimetry (ITC) as mentioned in the Materials and Methods section.
+4. The corresponding PDB IDs are provided in the text.
+
+The extraction follows the specified requirements:
+- TSV format
+- 6 columns in the specified order
+- Data extracted directly from the literature without inference
+- Affinity values follow the specified format (Kd=X ?M)

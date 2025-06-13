@@ -1,0 +1,10 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll carefully go through the text and create a TSV output with the specified columns.
+
+After carefully reviewing the text, I found that this particular paper does not contain direct measurements of ligand-receptor binding affinities that would fit the specified output format. The paper is primarily about the characterization of staphopain and staphostatin proteins from different Staphylococcus species, discussing their evolutionary relationships and inhibitory interactions.
+
+The text discusses protein interactions between various staphopains and staphostatins, but does not provide specific binding affinity measurements in the required format (e.g., Kd, Ki, IC50 values) for a ligand-receptor pair from a specific organism.
+
+Therefore, I cannot generate a TSV output for this text. The paper would require additional experimental data or a different section focusing on direct binding measurements to extract the requested information.
+
+Would you like me to explain the paper's content in more detail, or do you have another text you'd like me to extract data from?

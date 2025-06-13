@@ -1,0 +1,20 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data for extraction:
+
+Ligand name: Amicyanin
+Receptor protein name: Methylamine dehydrogenase
+Receptor protein organism source: Paracoccus denitrificans
+Affinity value: Kd=4.5 ?M (at low ionic strength)
+Wet lab method for affinity measurement: Ultrafiltration binding assay with HPLC quantitation
+Corresponding complex PDBID: Not specified in the text
+
+Here's the output in TSV format:
+
+```
+Amicyanin	Methylamine dehydrogenase	Paracoccus denitrificans	Kd=4.5 ?M	Ultrafiltration binding assay with HPLC quantitation	N/A
+```
+
+Note: 
+- The affinity value changes to Kd=35 ?M in the presence of 0.2 M NaCl
+- No PDB ID was provided in the text for this protein complex
+- The data is extracted directly from the literature without inference or tampering

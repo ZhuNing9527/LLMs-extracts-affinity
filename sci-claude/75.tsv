@@ -1,0 +1,19 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text provided, I'll extract the data according to the specified requirements:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Somatomedin B domain	Plasminogen activator inhibitor-1 (PAI-1)	Homo sapiens	Kd=1 nM	Fluorescence titration	1OC0
+
+Explanation of extraction:
+1. Ligand name: Somatomedin B domain (from vitronectin)
+2. Receptor protein name: Plasminogen activator inhibitor-1 (PAI-1)
+3. Receptor protein organism source: Homo sapiens (human)
+4. Affinity value: Kd=1 nM (directly stated in the text)
+5. Wet lab method: Fluorescence titration (mentioned in the methods section)
+6. Corresponding complex PDBID: 1OC0 (provided in the coordinates section)
+
+The extraction follows the specified guidelines:
+- Data is extracted directly from the literature
+- Output is in TSV format
+- Exactly 6 columns are used
+- Each line represents one wet test measurement of affinity

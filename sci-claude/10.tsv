@@ -1,0 +1,13 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. In this case, there's only one set of measurements related to the adenovirus fiber knob protein and its interaction with the Coxsackievirus and Adenovirus Receptor (CAR).
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Adenovirus type 5 fiber knob	Coxsackievirus and Adenovirus Receptor (CAR)	Homo sapiens	Kd=14.8 nM	surface plasmon resonance	N/A
+```
+
+Key observations supporting this extraction:
+- The text describes the interaction between the Adenovirus type 5 (Ad5) fiber knob and the Coxsackievirus and Adenovirus Receptor (CAR)
+- The dissociation constant (Kd) was determined to be 14.8 ?¡ª 10^-9 M, which converts to 14.8 nM
+- The primary method of affinity measurement was surface plasmon resonance (SPR)
+- No specific PDB complex ID was mentioned in the text

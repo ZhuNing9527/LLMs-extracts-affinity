@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data for extraction:
+
+```tsv
+HIV-1 Nef	Hck SH3 domain	Homo sapiens	Kd=1.5 ?M	isothermal titration calorimetry	N/A
+HIV-1 Nef	Fyn SH3 domain	Homo sapiens	Kd=15.8 ?M	isothermal titration calorimetry	N/A
+HIV-1 Nef	Lck SH3 domain	Homo sapiens	Kd=10.6 ?M	isothermal titration calorimetry	N/A
+HIV-1 Nef	Src SH3 domain	Homo sapiens	Kd=14.3 ?M	isothermal titration calorimetry	N/A
+```
+
+Notes:
+- The organism source is Homo sapiens for all entries, as these are human proteins
+- The affinity values are derived from the isothermal titration calorimetry (ITC) experiments reported in Table 1
+- No corresponding PDB complex IDs were provided in the text, so I've used N/A
+- The full-length Nef measurements were similar, so I've used the Nef?1-57 measurements
+- The wet lab method for all entries is isothermal titration calorimetry

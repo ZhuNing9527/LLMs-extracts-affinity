@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data according to the specified requirements. In this case, there's only one affinity measurement to extract:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Hen egg white lysozyme (HEL)	Anti-HEL antibody D1.3 Fv fragment	Not specified	Not directly specified	Isothermal titration calorimetry	Not provided in text
+```
+
+Notes:
+- The text describes a detailed structural and thermodynamic study of an antigen-antibody interaction between hen egg white lysozyme (HEL) and an anti-HEL antibody (D1.3 Fv fragment).
+- While the paper extensively discusses the binding interaction, it does not explicitly state a precise affinity value (Kd, Ki, or IC50).
+- The organism source is not explicitly stated in the text.
+- The wet lab method for affinity measurement is isothermal titration calorimetry, which is mentioned in the "Titration Calorimetry" section.
+- No PDB ID is directly mentioned in the extracted text, though the authors note they deposited coordinates in the Protein Data Bank.
+
+I've followed the instructions to extract data directly from the text without inference or tampering, resulting in a somewhat incomplete TSV entry due to the limitations of the source text.

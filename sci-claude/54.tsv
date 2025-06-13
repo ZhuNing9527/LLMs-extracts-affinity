@@ -1,0 +1,22 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Based on the scientific literature text, I'll extract the data in the requested TSV format. However, in this specific text, there is only one set of data that can be extracted:
+
+```
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Vav SH3 domain	Grb2 SH3 domain	Mus musculus	Kd=16.8 ?M	surface plasmon resonance	1GCQ
+```
+
+Key observations:
+- The text describes a structural study of the interaction between the N-terminal SH3 domain of Vav (VavS) and the C-terminal SH3 domain of Grb2 (GrbS)
+- The organism source is mouse (Mus musculus)
+- The affinity was measured using surface plasmon resonance (SPR)
+- The corresponding PDB ID is 1GCQ
+- The dissociation constant (Kd) is approximately 16.8 ?M
+
+The extraction follows the specified requirements:
+1. Ligand name is the Vav SH3 domain
+2. Receptor protein name is the Grb2 SH3 domain
+3. Organism source is Mus musculus
+4. Affinity value is in the specified format
+5. Wet lab method is surface plasmon resonance
+6. Complex PDBID is provided

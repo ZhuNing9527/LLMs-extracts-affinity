@@ -1,0 +1,16 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll extract the data from the scientific literature text according to the specified requirements. Based on the text, I can identify the following data for extraction:
+
+```tsv
+Cytochrome c	Cytochrome c Peroxidase	Saccharomyces cerevisiae	Kd=Not specified	isothermal titration calorimetry	Not specified
+```
+
+Notes on the extraction:
+1. Ligand name: "Cytochrome c" (horse heart cytochrome c)
+2. Receptor protein name: "Cytochrome c Peroxidase"
+3. Receptor protein organism source: "Saccharomyces cerevisiae" (baker's yeast)
+4. Affinity value: The text does not provide a direct Kd value, but mentions an equilibrium association constant (KA) of 10 ¡À 4 ¡Á 10^4 M^-1
+5. Wet lab method: "isothermal titration calorimetry"
+6. Corresponding complex PDBID: Not specified in the text
+
+The extraction follows the specified TSV format with exactly 6 columns. The data is extracted directly from the literature without inference or tampering.

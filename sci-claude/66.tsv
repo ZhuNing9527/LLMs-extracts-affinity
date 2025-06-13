@@ -1,0 +1,14 @@
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+I'll help you extract the data from the scientific literature text. Based on the requirements, I'll create a TSV output with the specified columns. However, after carefully reviewing the text, I found that the literature does not provide a complete set of measurements for all columns. I'll extract the available information:
+
+Ligand name	Receptor protein name	Receptor protein organism source	Affinity value	Wet lab method for affinity measurement	Corresponding complex PDBID
+Serotonin N-acetyltransferase (AANAT)	14-3-3z	Ovis aries (sheep)	Kd=20 nM	isothermal titration calorimetry	Not specified in text
+
+Notes about the extraction:
+1. The text describes a structural and biochemical study of the interaction between AANAT and 14-3-3z protein.
+2. The affinity value (Kd) of 20 nM is derived from the sedimentation equilibrium measurements described in the text.
+3. The organism source is sheep (Ovis aries), as the study used ovine (sheep) AANAT.
+4. The wet lab method used for affinity measurement was isothermal titration calorimetry.
+5. No specific PDB complex ID was mentioned in the text.
+
+Would you like me to elaborate on any part of the extraction?
